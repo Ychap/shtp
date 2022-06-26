@@ -76,7 +76,7 @@ Diese Übersetzung ist auf dem Stand vom 2022-06-26. Die originale deutschen Üb
 
 2.2  ÄNDERUNGEN FÜR BG:SOD
 
-Bei den Strings für BG:SoD handelt es sich nicht nur um einzlene Verbesserungen, sondern um eine eigenständige, alternative Übersetzung aller Texte. Hintergrund ist, dass es sich hierbei um die ehemalige offizielle Übersetzung für BG:SoD handelt. Sie wurde im Zeitraum von Januar 2018 bis Februar 2020 als deutsche Übersetzung für BG:SoD im Beamdog-Forum erstellt, bis Beamdog sich entschieden hat, die deutsche Übersetzung der (qualitativ schlechteren) Mobil- und Konsolenversion zu verwenden.
+Bei den Strings für BG:SoD handelt es sich nicht nur um punktuelle Verbesserungen, sondern um eine eigenständige, alternative Übersetzung aller Texte. Hintergrund ist, dass es sich hierbei um die ehemalige offizielle Übersetzung für BG:SoD handelt. Sie wurde im Zeitraum von Januar 2018 bis Februar 2020 als deutsche Übersetzung für BG:SoD im Beamdog-Forum erstellt, bis Beamdog sich entschieden hat, die deutsche Übersetzung der (qualitativ schlechteren) Mobil- und Konsolenversion zu verwenden.
 
 Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zusätzlich zu den in 2.1 genannten Punkten unter anderem:
 
@@ -175,41 +175,4 @@ f) Schließt das Terminal wieder.
 
 5 RÜCKMELDUNG BEI FEHLERN
 
-Die Mod wird unter https://www.baldurs-gate.de/index.php?threads/44932/ gepflegt. Dort können Fragen oder Hinweise auf Rechtschreibfehler o. ä. platziert werden.
-
-4 DIFFERENCES TO THE ORIGINAL TRANSLATION
-
-The following table contains recurring terms of this tranlsation that differ from the ones used in the original translation.
-
-----------------------------------------------------------------------------------
- English term             Original translation      shtp                  
-----------------------------------------------------------------------------------
- Fenster                  Fenster                   Fester                      
- Phossey Dugdeep          Phossey Tiefschürfer      Poschne Tiefschürfer        
- Hooded Man               Mann mit Kapuze           Vermummter Mann             
- M'Khiin Grubdoubler      M'Khiin Madendoppler      M’Khiin Doppelfraß
- Minsc                    Minsc                     Minsk                       
- Caelar Argent            Caelar Argent             Caelar Silberweiß           
- Hephernaan               Hephernaan                Ifearnan                    
- Andrus                   Andrus                    Andra                       
- Aun Argent               Aun Argent                Aun Silberweiß              
- Crusader                 Kreuzzritter/Kreuzfahrer  Kreuzzügler                 
- Bridgefort               Brückenfort               Brückenfeste                
- Dahk Hensleigh           Dahk Hensleigh            Dahk Henslai                
- Estebarre                Estebarre                 Estebar                     
- Gnarg Big-Bug            Gnarg Big-Bug             Gnarg Großmücke             
- Hero of Baldur’s Gate    Held von Baldurs Tor      Held/Heldin von Baldurs Tor 
- Nederlok                 Nederlok                  Nederlock                   
- Patrescus                Patrescus                 Patreskus                   
- Rayphus Goodtree         Rayphus Gutbaum           Raifus Gutbaum              
- Rhonda Swiftfootsdottir  Rhonda Swiftfootsdottir   Rhonda Schnellfußdottir     
- Thrix the Profane        Thrix der Profane         Thrix der Gottlose          
- Uxley                    Uxley                     Uxlai                       
- Dead Mans Pass           Pass des toten Mannes     Totmannpass                 
- Coast Way Forest         Küstenwegforst            Küstenwegwald               
- Troll Claw Forest        Trollklauenwald           Trollklauen-Wälder          
- Coats Way Crossing       Küstenwegübergang         Küstenwegquerung            
- coalition camp           Koalitionslager           Bündnislager                
- Myrleena                 Myrleena                  Mirlena                     
- Pritchard                Pritchard                 Peptram                     
----------------------------------------------------------------------------------
+Die Mod wird unter https://www.baldurs-gate.de/index.php?threads/shai-huluds-text-patch.45417/ gepflegt. Dort können Fragen oder Hinweise auf Rechtschreibfehler o. ä. platziert werden.
