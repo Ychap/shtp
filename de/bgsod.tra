@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Shai Huluds Text-Patch
-// date: 2022-06-26, 18:30
+// date: 2022-07-10, 23:40
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @34003 = ~Die glitzernde goldene Krone sieht beeindruckend aus, aber sie ist aus schlichtem Katzengold gefertigt und ihre „Edelsteine“ sind lediglich gefärbte Glasstückchen. Auf dem Kopf getragen, erlaubt die Krone dem Träger, sich mehr Zauber einzuprägen, aber füllt den Kopf des Trägers gleichzeitig mit falschem Wissen.
@@ -613,7 +613,7 @@ Ich sing für dich dieses Liebeslied …~
 @34534 = ~Eine Goldstück, mehr braucht es nicht, um eine epische Geschichte von dem preisgekrönten Balladensänger Garrick von den berühmten Eiswindtal-Minnesängern zu hören.~
 @34535 = ~Ich bin ausgetrocknet. Ally, meine Liebe, holt mir bitte etwas zu trinken.~
 @34536 = ~Holt es Euch selbst, Ihr nutzlose Heulboje.~
-@34537 = ~Setzt Euch und ich erzähle Euch eine Geschichte. Ich würde ja auch etwas Musik spielen, aber es wird nicht ohne Grund „Elfgesang“ genannt.~
+@34537 = ~Setzt Euch und ich erzähle Euch eine Geschichte. Ich würde ja auch etwas Musik spielen, aber es heißt nicht ohne Grund „Elfgesang“.~
 @34538 = ~Geht den Korridor herunter und begebt Euch durch die zentrale Kammer in den entgegengesetzten Flügel. Oder folgt einfach dem geschwollenen Gerede. Eins von beidem wird Euch schon zu dem Verrückten bringen. Ich werde hier auf Euch warten.~
 @34539 = ~Habt Ihr mit Eurem Freund gesprochen?~
 @34541 = ~Es wurde weniger „geredet“ als vielmehr „herumgeschrien“, und ich glaube nicht, dass ich ihn einen Freund nennen würde. Davon abgesehen lautet die Antwort ja.~
@@ -633,7 +633,7 @@ Ich sing für dich dieses Liebeslied …~
 @34580 = ~Zum „Zu den Drei Alten Fässern“. Vielleicht haben uns Minsk und Dynaheir mehr anzubieten.~
 @34586 = ~He, lasst Euch Zeit. Es ist nicht so, als ob ich in den nächsten paar Stunden eine Militärkarawane organisieren müsste oder so.~
 @34587 = ~Was ist das? Seid das wirklich Ihr, den ich da vor mich sehe?~ [BD34587] ~Was ist das? Seid das wirklich Ihr, die ich da vor mich sehe?~ [BD34587]
-@34588 = ~Seid gegrüßt, Rasaad. Es ist schön, Euch wiederzusehen.~
+@34588 = ~Seid gegrüßt, Rasaad. Es ist schön Euch wiederzusehen.~
 @34589 = ~Ihr könnt Euren Augen ruhig trauen, Freund. Ich bins, der einzig Wahre, in Fleisch und Blut. Von Kerzenburg bis Tiefwasser rufen sie meinen Namen: <CHARNAME>!~ ~Ihr könnt Euren Augen ruhig trauen, Freund. Ich bins, die einzig Wahre, in Fleisch und Blut. Von Kerzenburg bis Tiefwasser rufen sie meinen Namen: <CHARNAME>!~
 @34591 = ~Nein, Rasaad, Eure Augen täuschen Euch nicht, auch wenn Ihr Euch bald wünschen könntet, sie hätten es.~
 @34592 = ~Ja! Da ist der Esprit, den ich die vergangenen Wochen so vermisst habe. Wie geht es Euch, mein Freund?~ [BD34592] ~Ja! Da ist der Esprit, den ich die vergangenen Wochen so vermisst habe. Wie geht es Euch, meine Freundin?~ [BD34592]
@@ -1037,7 +1037,7 @@ Ich sing für dich dieses Liebeslied …~
 @35173 = ~Egal, ich glaube nicht, dass ich es wissen will.~
 @35175 = ~He. He. He. He, <CHARNAME>. He.~ [BD35175]
 @35176 = ~He, he, he, he, he.~ [BD35176]
-@35181 = ~Was tut Ihr hier? Ach, egal. Tut es woanders. SOFORT.~
+@35181 = ~Was tut Ihr hier? Ach, egal. Tut es woanders! SOFORT!~
 @35183 = ~Wollt Ihr nicht hören, was ich Euch zu sagen habe?~ [BD35183]
 @35185 = ~Ich bin mir sicher, dass ich es irgendwie – auf irgendeine verrückte Art und Weise – fertigbringen werde zu überleben, glückselig in meiner Ignoranz.~
 @35186 = ~Nein, nein, es ist WIRKLICH wichtig …~ [BD35186]
@@ -1213,7 +1213,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @35388 = ~Der Moment und die Person, auf die Ihr gewartet habt, sind gekommen. Ich bin hier.~ [BD35388]
 @35389 = ~Nach etwas Überlegen habe ich ich meine Meinung geändert. Ich will, dass Ihr mit mir kommt. Es sei denn, Ihr habt andere Pläne?~
 @35390 = ~Es ist noch nicht zu spät, hier zu verschwinden.~
-@35391 = ~Und Ihr seid auch hier. Warum?~
+@35391 = ~Seid Ihr. Warum?~
 @35392 = ~Mein einziger Plan ist, bei allen Neun Höllen von diesem idiotischen Elf mit seinen idiotischen Augen und idiotischer Nase und seiner idiotischen, IDIOTISCHEN Augenmaske wegzukommen. Versprecht mir, dass wir das tun und ich gehöre Euch.~ [BD35392]
 @35393 = ~In der heutigen Zeit hat eine Frau immer Pläne, <CHARNAME>. Aber für Euch … ändere ich sie. Ich hoffe, Ihr wisst dieses Kompliment zu schätzen.~ [BD35393]
 @35395 = ~Ich mache nur Spaß, Safana. Ich bin froh, dass Ihr hier seid.~
@@ -1338,7 +1338,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @35521 = ~Ihr verdient bessere Gefährten, Viconia. Schließt Euch mir an.~
 @35523 = ~Dann gutes Gelingen. Ich muss weg.~
 @35524 = ~Dame? Ha! Sie ist ’n Weib, aber das is’ keine Dame. Hahaha! Kapiert?~
-@35525 = ~Du magst den Geschmack von Zähn’n, was? Bist ganz nah d’ran, deine fress’n zu müss’n! Jetzt verschwindet aus mein’m Sichtf’ld, bevor ich es Euch kaputtschlag.~ [BD35525]
+@35525 = ~Ihr mögt den Geschmack von Zähn’n, was? Seid ganz nah d’ran, Eure fress’n zu müss’n! Jetzt verschwindet aus mein’m Sichtf’ld, bevor ich Euch Eures kaputtschlag.~ [BD35525]
 @35526 = ~Wir werden bald ausrücken. Wir sollten unseren Platz in der Marschordnung einnehmen.~
 @35527 = ~Ich bin sicher, wir werden bald wieder miteinander sprechen, <CHARNAME>. Vedaust.~
 @35529 = ~Was war das?~
@@ -8690,7 +8690,7 @@ Plötzlich endet das Scharren. Man hört, wie ein Schlüssel das Schloss öffnet
 @44372 = ~Das ist nicht Eure Angelegenheit, Fremder. Haltet Euch raus!~ ~Das ist nicht Eure Angelegenheit, Fremde. Haltet Euch raus!~
 @44373 = ~Ein Kampf würde das Gasthaus beschädigen und Leute könnten verletzt werden. Macht das wenigstens draußen!~
 @44374 = ~Warum kämpfen, wenn Ihr auch trinken könnt? Mehr sage ich nicht. Lasst uns uns hinsetzen und noch eine Runde Bier bestellen.~
-@44375 = ~Ich mache es zu meiner Angelegenheit. Tretet zurück.~
+@44375 = ~Ich mache es zu meiner Angelegenheit. Haltet Euch zurück!~
 @44376 = ~He, ich kenne Euch. Ihr seid derjenige, über den alle reden.~ ~He, ich kenne Euch. Ihr seid diejenige, über die alle reden.~
 @44377 = ~Ich kenne Euch, „Held“. Ihr wart in die Sache mit Sarevok verwickelt. Jeder redet darüber. Warum sollten wir auf Euch hören, hä? Ihr mögt die vielleicht dunkelste Seele hier sein.~ ~Ich kenne Euch, „Heldin“. Ihr wart in die Sache mit Sarevok verwickelt. Jeder redet darüber. Warum sollten wir auf Euch hören, hä? Ihr mögt die vielleicht dunkelste Seele hier sein.~
 @44378 = ~Ihr wisst nicht, wovon Ihr redet.~
@@ -20468,7 +20468,7 @@ Gewicht: 1~
 @57407 = ~Ich will mein Geld, Ophyllis. Bringt es mir! SOFORT!~
 @57408 = ~In Ordnung. Ich werde Herzog Belt erzählen, was ich getan habe. Das ist nur gerecht, wirklich … mehr als gerecht. Danke, <CHARNAME>. Ihr seid so gnädig, wie Ihr weise seid. Sobald ich mit ihm gesprochen habe, werde ich Euer Geld wiederholen und Euch vor dem Palast treffen. Lebt wohl.~
 @57409 = ~Ah! Nein, nein, bitte! Gnade!~
-@57410 = ~<CHARNAME>. Da seid Ihr ja. Ich bin … ich bin froh, Euch zu sehen …~
+@57410 = ~<CHARNAME>! Da seid Ihr ja. Ich bin … ich bin froh, Euch zu sehen …~
 @57412 = ~Was ist das, Ophyllis? Ich weiß, dass Ihr Eure Pflicht nicht erfüllt habt, aber ich kann kaum glauben, dass Großherzog Belt so grausam mit seiner Bestrafung ist.~
 @57413 = ~Und ich bin froh, Euch zu sehen. Ihr habt mein Geld, nehme ich an?~
 @57414 = ~Das wird sich ganz schnell ändern, wenn Ihr nicht mein Geld dabei habt.~
@@ -21782,7 +21782,7 @@ Der Konflikt zwischen den Kreuzzüglern Valis und Corinth wurde gelöst. Ich hab
 @58741 = ~Ein paar Taugenichtse gefunden, was?~
 @58742 = ~Ihr scheint die Lage im Griff zu haben. Ich werde Euch in Ruhe lassen.~
 @58743 = ~Diese Geflüchteten kamen in unsere Stadt, um Schutz zu suchen, und haben unsere Großzügigkeit dadurch erwidert, dass sie in den Straßen Tumulte anfangen.~
-@58744 = ~Möglicherweise – EVENTUELL – sind wir ein bisschen laut geworden. Na und? Unsere Stimmung ist gereizt und die Stunden vergehen nur langsam.~
+@58744 = ~Möglicherweise – EVENTUELL – sind wir ein bisschen laut geworden. Na und? Unsere Stimmung ist gereizt, und die Stunden vergehen nur langsam.~
 @58745 = ~Wenn Ihr irgendwelche Störungen verursacht, wird die Flammende Faust Euch mit Freuden festsetzen.~
 @58746 = ~Ich fühle mit Euch, Freund. Die Faust genießt das Schikanieren ehrlicher Leute für jede noch so winzige Kleinigkeit.~
 @58747 = ~Ihr denkt, dass Ihr die Einzigen seid, die sich in diesen Zeiten abkämpfen? Ihr solltet Euch selbst glücklich schätzen, dass Ihr diesen Tag nicht den Stahl der Flammenden Faust zu schmecken bekommen habt.~
@@ -26336,7 +26336,7 @@ Ich habe entschieden, dass die Regelbrecher zu gefährlich sind, um sie am Leben
 @61782 = ~Ich bin ihm begegnet. Es hatte nicht den Anschein, dass er jemand ist, der bereitwillig das Gold zur Verfügung stellen würde, das Ihr so hingebungsvoll ausgebt.~
 @61783 = ~Er ist ein Geschäftskontakt, der mir eine beträchtliche Menge Gold schuldet. Gold, das Ihr ihm gestohlen habt. Gold, das ich gerne zurückhätte.~
 @61784 = ~Lasst uns direkt zur Sache kommen, zumindest zur ersten Sache. Wir könnten noch zu weiteren kommen. Ihr habt mein Gold. Ich will es zurück.~
-@61785 = ~Oder vielleicht seid IHR derjenige, der sterben wird, und Eure Habseligkeiten können den Leidenden noch mehr helfen!~
+@61785 = ~Oder vielleicht seid IHR derjenige, der sterben wird, und Eure Habseligkeiten können den Leidenden noch mehr helfen!~ ~Oder vielleicht seid IHR diejenige, die sterben wird, und Eure Habseligkeiten können den Leidenden noch mehr helfen!~
 @61786 = ~Zehn Sekunden. Das ist die Zeit, die Euch bleibt, bevor ich mit dem Schädelspalten anfange. Die Klügeren unter Euch werden jetzt anfangen wegzurennen.~
 @61787 = ~Ich bin mein eigener Herr, nicht irgendein Werkzeug, das seinen Dienst zum Nutze anderer tut.~ ~Ich bin meine eigene Herrin, nicht irgendein Werkzeug, das seinen Dienst zum Nutze anderer tut.~
 @61788 = ~Danke, dass Ihr meiner Neugier nachgekommen seid. Ich werde Euch nun gehen lassen. Alles Gute Euch.~
@@ -31863,7 +31863,7 @@ Meine Anwesenheit in Burg Drachenspeer wurde bemerkt. Ich muss hier verschwinden
 @65822 = ~Von jenen, die sie kennen, wird sie auch noch andere Dinge genannt, das kann ich Euch versprechen.~
 @65823 = ~Und Ihr seid der Held von Baldurs Tor, der uns mit seiner Anwesenheit beehrt. Ich fühle mich geehrt.~ ~Und Ihr seid die Heldin von Baldurs Tor, die uns mit ihrer Anwesenheit beehrt. Ich fühle mich geehrt.~
 @65824 = ~Und Ihr seid auch noch sarkastisch. Aber daran könnte ich mich gewöhnen. Wollt Ihr mit mir kommen?~
-@65825 = ~Genießt die Ehre, sie wird nur von kurzer Dauer sein. Lebt wohl.~
+@65825 = ~Genießt die Ehre, denn sie wird nur von kurzer Dauer sein. Guten Tag Euch.~
 @65826 = ~Ich dachte schon, Ihr würdet niemals fragen. Kommt, lasst uns von diesem Pöbel hier verschwinden. Ihre Gesellschaft ist viel zu grob für eine Schönheit wie mich.~
 @65827 = ~Die Flammende Faust hat verkündet, dass alle, die sich ihnen gegen den Kreuzzug anschließen wollen, willkommen sind. Nahrung, Herumreisen, frische Luft, keine narzisstischen Elfen mit grünen Augenmasken … Welches vernünftige Mädchen könnte da widerstehen? Aber um auf Euch zurückzukommen – ist das alles, was Ihr wollt?~
 @65828 = ~Nein, ich will Euch an meiner Seite haben.~

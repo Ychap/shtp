@@ -14,7 +14,7 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom 2022-06-26. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom 2022-07-10. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
 - BG1:EE: 4418
 - BG:Sod: 29943
