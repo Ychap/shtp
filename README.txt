@@ -3,7 +3,8 @@ INHALT
 1  Version
 2  Inhalte
    2.1  Änderungen für alle EE-Teile
-   2.2  Änderungen für BG:SoD
+   2.2  Änderungen für BG1:EE
+   2.3  Änderungen für BG:SoD
 3  Hinweise
 4  Installation
    4.1  Windows 64 Bit
@@ -14,7 +15,7 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom 2022-07-10. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom 2022-08-13. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
 - BG1:EE: 4418
 - BG:Sod: 29943
@@ -38,8 +39,8 @@ Diese Übersetzung ist auf dem Stand vom 2022-07-10. Die originale deutschen Üb
 - Verbesserungen in der Berücksichtigung von männlichen und weiblichen Textvarianten für CHARNAME
   (weitere weibliche Versionen von Substantiven hinzugefügt),
 
-- Verwendung des typografischen Minuszeichens anstatt des Bindestrichs für Modifikatoren in Beschreibungstexten
-  (bei Rüstungsklasse, Rettungswürfen, Schaden, etc.),
+- Verwendung des Gedankenstrichs als Minuszeichen anstatt des Bindestrichs für Modifikatoren in Beschreibungstexten
+  (bei Rüstungsklasse, Rettungswürfen, Schaden, etc. Das typografische Minuszeichen wird zwar durch die Ingame-Schriftart „Post Antiqua Roman“ dargestellt, jedoch nicht durch die Menü-Schriftart „Modesto“. Daher die Verwendung des Gedankenstrichs als optische Annäherung.)
 
 - Verwendung von typografischen Satzzeichen
   (Auslassungspunkte vs. drei Satzpunkten, Gedankenstriche vs. Bindestriche, deutsche vs. englische Anführungszeichen, typografisch korrekter Apostroph vs. gerader Apostroph),
@@ -56,9 +57,6 @@ Diese Übersetzung ist auf dem Stand vom 2022-07-10. Die originale deutschen Üb
 - Vereinheitlichung der Großschreibung von Anreden bei Singular und Plural
   („euch“ -> „Euch“, „euer“ -> „Euer“, „eure“ -> „Eure“, „ihr“ -> „Ihr“),
 
-- Korrigiertes Monty-Python-Zitat in BG1:EE
-  („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“),
-
 - Entfernung von überflüssigen Apostrophen bei Pronomen
   („Auf geht’s!“ -> „Auf gehts!“, „So ist’s recht.“ -> „So ists recht.“ uvm.),
 
@@ -69,20 +67,32 @@ Diese Übersetzung ist auf dem Stand vom 2022-07-10. Die originale deutschen Üb
   („Schlagt ein, oder lasst es bleiben.“ -> „Schlagt ein oder lasst es bleiben.“ uvm.),
 
 - Verwendung von zwei Leerzeichen bei Einrückungen statt einem
-  (bei Gegenstandsbeschreibungen, Zaubern, Klassen, etc.) und
+  (bei Gegenstandsbeschreibungen, Zaubern, Klassen, etc.),
 
-- Korrekturen von Anschlussfehlern in Dialogen.
+- Korrekturen von Anschlussfehlern in Dialogen und
+
+- Korrigierte Beschreibung von „Tote erwecken“
+  („Rettungswurf: Speziell“ -> „Rettungswurf: Nein“).
 
 
-2.2  ÄNDERUNGEN FÜR BG:SOD
+2.2  ÄNDERUNGEN FÜR BG1:EE
+
+- Korrigiertes Monty-Python-Zitat
+  („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“).
+
+
+2.3  ÄNDERUNGEN FÜR BG:SOD
 
 Bei den Strings für BG:SoD handelt es sich nicht nur um punktuelle Verbesserungen, sondern um eine eigenständige, alternative Übersetzung aller Texte. Hintergrund ist, dass es sich hierbei um die ehemalige offizielle Übersetzung für BG:SoD handelt. Sie wurde im Zeitraum von Januar 2018 bis Februar 2020 als deutsche Übersetzung für BG:SoD im Beamdog-Forum erstellt, bis Beamdog sich entschieden hat, die deutsche Übersetzung der (qualitativ schlechteren) Mobil- und Konsolenversion zu verwenden.
 
 Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zusätzlich zu den in 2.1 genannten Punkten unter anderem:
 
 - Benutzung unterschiedlicher Sprachstile für verschiedene NPCs,
+
 - vollständige Berücksichtigung von Baeloths Alliterationen,
+
 - Versuch der bestmöglichen Übertragung von Wortspielen vom Englischen ins Deutsche und
+
 - Verwendung anderer Begriffe für NPCs und Orte:
 
 ----------------------------------------------------------------------------
@@ -119,11 +129,13 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
 
 3  HINWEISE
 
-Wenn eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installtionsdatei der installierten Version.
+Wenn eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installationsdatei der installierten Version.
 
 Das Spiel darf während der Installation nicht bereits laufen.
 
 Für die Enhanced-Editions könnte es vom Hersteller ab und zu Patches geben. Bitte bedenkt, dass jedes Spiel-Update Eure Spieldaten wieder bereinigt! Nach einem Update muss die Mod erneut installiert werden.
+
+Im Zusammenspiel mit anderen Mods ist es ratsam, den Text-Patch vor anderen Mods zu installieren (jedoch nach EET), da nur originale Texte modifiziert werden und keine neuen Strings hinzugefügt werden.
 
 
 4  INSTALLATION

@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Shai Huluds Text-Patch
-// date: 2022-07-10, 23:40
+// date: 2022-08-13, 20:05
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @34003 = ~Die glitzernde goldene Krone sieht beeindruckend aus, aber sie ist aus schlichtem Katzengold gefertigt und ihre „Edelsteine“ sind lediglich gefärbte Glasstückchen. Auf dem Kopf getragen, erlaubt die Krone dem Träger, sich mehr Zauber einzuprägen, aber füllt den Kopf des Trägers gleichzeitig mit falschem Wissen.
@@ -9,7 +9,7 @@ EIGENSCHAFTEN:
 
 Magierzauber: +2 (Grad 3)
 Magierzauber: +1 (Grad 4 und 5)
-Sagenkunde: −30
+Sagenkunde: –30
 
 Gewicht: 1~
 @34005 = ~Der Teufel Thel’blax war ein Bollwerk gegen die Armeen des Abyss, bis er von den Dienern seines eigenen Meisters Dispater getötet wurde. Mit seinem letzten Atemzug verfluchte Thel'blax seinen eigenen Körper, auch im Tod niemals still zu liegen. Als sein Körper zum Eisenturm getragen wurde, schlugen Thel’blax’ Hörner und Widerhaken weiter um sich, als wären sie lebendig.
@@ -23,17 +23,17 @@ EIGENSCHAFTEN:
 Auf den Träger kann nicht „Schutz vor Bösem“ gewirkt werden.
 Kann nur durch „Fluch brechen“ wieder abgenommen werden.
 
-Schlösser öffnen: −10 %
-Fallen finden: −10 %
-Taschendiebstahl: −10 %
-Leise bewegen: −20 %
+Schlösser öffnen: –10 %
+Fallen finden: –10 %
+Taschendiebstahl: –10 %
+Leise bewegen: –20 %
 Regeneration: 2 Trefferpunkte pro Runde
-Konstitution: −2
+Konstitution: –2
 
 Rüstungsklasse: 4
 RK-Bonus:
-  −2 gg. Stichwaffen
-  −2 gg. Geschosswaffen
+  –2 gg. Stichwaffen
+  –2 gg. Geschosswaffen
 Mindeststärke: 6
 
 Gewicht: 35~
@@ -67,7 +67,7 @@ EIGENSCHAFTEN:
 
 Bei einem kritischen Treffer wird das Ziel für 2 Runden geblendet (kein Rettungswurf).
 
-ETW0-Bonus: −2 für waffenlosen Kampf
+ETW0-Bonus: –2 für waffenlosen Kampf
 Immunität gegen Blindheit
 
 Gewicht: 2~
@@ -100,7 +100,7 @@ EIGENSCHAFTEN:
 Die Wahrscheinlichkeit für einen kritischen Treffer steigt um 5 %.
 Bei 15 % der tödlichen Treffer wird auf den Träger „Hast“ für 3 Runden gewirkt.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W10 +2 (Klinge)
 Initiativefaktor: 2
 Fertigkeit: Katana
@@ -117,7 +117,7 @@ Unglücklicherweise stand er dabei mit dem Dolch in der Hand zwischen den Portal
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus −2
+ETW0-Bonus –2
 Schaden: 1W4 +2 (Stich)
 Schadensbonus:
   +1 (Feuer/Kälte/Elektrizität/Säure – zufällig gewählt)
@@ -139,7 +139,7 @@ EIGENSCHAFTEN:
 Bei 15 % der Treffer wird das Ziel für 1 Runde betäubt (Rettungswurf gg. Zauber).
 Ein kritischer Fehlschlag des Trägers fügt ihm 1W4 Schaden durch Elektrizität zu.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W10 +2 (Klinge/Stich – je nachdem, was besser ist)
 Schadensbonus: +1 (Elektrizität)
 Iniativefaktor: 7
@@ -154,7 +154,7 @@ EIGENSCHAFTEN:
 
 Bei jedem Treffer scheitern (nicht-kumulativ) 50 % der Zauber, die das Ziel in den nächsten 5 Runden wirkt (Rettungswurf gg. Zauber).
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W2 (Geschoss)
 Schusswaffe: Bogen
 
@@ -167,7 +167,7 @@ EIGENSCHAFTEN:
 Bei 15 % der Treffer erleidet das Ziel einen Malus von +1 auf die Rüstungsklasse für 1 Phase (Rettungswurf gg. Zauber).
 Bei 2 % der Treffer wird ein Erdbeben mit dem Träger als Zentrum ausgelöst.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W4 +4 (Wucht)
 Initiativefaktor: 1
 Fertigkeit: Kriegshammer
@@ -189,9 +189,9 @@ Unglücklicherweise – und es brauchte Mosela nur ein paar wenige Tage, um das
 
 EIGENSCHAFTEN:
 
-RW-Bonus: −2 gg. Veränderungszauber
+RW-Bonus: –2 gg. Veränderungszauber
 
-ETW0-Bonus: −2, zusätzlich −1 gg. Konstrukte
+ETW0-Bonus: –2, zusätzlich –1 gg. Konstrukte
 Schaden: 1W6 +2 (Wucht)
 Schadensbonus +3 (Wucht) gg. Konstrukte
 Initiativefaktor: 2
@@ -206,7 +206,7 @@ EIGENSCHAFTEN:
 
 Der Träger ist von den Effekten des Zaubers „Gesang“ betroffen.
 
-RK-Bonus: −2 gg. böse Wesen
+RK-Bonus: –2 gg. böse Wesen
 Trefferpunkte: +10
 
 Gewicht: 0~
@@ -218,7 +218,7 @@ EIGENSCHAFTEN:
 Ein von einer anderen Ebene stammendes Wesen auf die Primäre Ebene ziehen (3 Ladungen)
 
 Illusion entdecken: +25 %
-RW-Bonus: −3 gg. Illusionszauber
+RW-Bonus: –3 gg. Illusionszauber
 
 Gewicht: 0~
 @34039 = ~Dieses hochgradig ätzende Material wurde von dem verrückten Zwergenalchemisten Agathor geschaffen und wird in zwei Phiolen geliefert. Getrennt sind die zwei Chemikalien harmlos, aber wenn sie kombiniert werden, reagieren sie zu einer mächtigen Substanz, die fast jedes Material auflöst, das es berührt. Behandelt die Phiolen äußerst vorsichtig. Wahnsinnige Zwergenalchemie ist nichts, mit dem man spaßen sollte.
@@ -263,7 +263,7 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W4 +1 (Stich)
 Schadensbonus: +1W4 (Feuer)
 Initiativefaktor: 0
@@ -330,9 +330,9 @@ EIGENSCHAFTEN:
 
 Die magischen Angriffe der Augenstiele eines Betrachters werden reflektiert.
 
-Stärke: −1
+Stärke: –1
 
-RK-Bonus: −4
+RK-Bonus: –4
 Mindeststärke: 12
 
 Gewicht: 4~
@@ -1162,7 +1162,7 @@ Zeitaufwand: 6
 Bereich: 1 Wesen
 Rettungswurf: Ja (gg. Zauber)
 
-Das Ziel des Zaubers muss einen Rettungswurf mit einem Malus von −2 gegen Zauber bestehen. Scheitert es, wird sein Verstand kurzzeitig in der spirituellen Welt weggeschlossen. Während dieser Zeit kann das Wesen keinerlei Aktionen tätigen, die bewusstes Handeln erfordern, wie z. B. Angreifen, Gegenstände benutzen oder Zauber wirken. Geister, magische Wesen, Elementare und geisterhafte Untote müssen sogar einen Rettungswurf mit einem Malus von −4 gegen Zauber bestehen, um den Auswirkungen zu entgehen. „Spirituelle Fessel“ wird von Zaubern und Fähigkeiten blockiert, die gegen die Auswirkung von Schwachsinn schützen.~
+Das Ziel des Zaubers muss einen Rettungswurf mit einem Malus von –2 gegen Zauber bestehen. Scheitert es, wird sein Verstand kurzzeitig in der spirituellen Welt weggeschlossen. Während dieser Zeit kann das Wesen keinerlei Aktionen tätigen, die bewusstes Handeln erfordern, wie z. B. Angreifen, Gegenstände benutzen oder Zauber wirken. Geister, magische Wesen, Elementare und geisterhafte Untote müssen sogar einen Rettungswurf mit einem Malus von –4 gegen Zauber bestehen, um den Auswirkungen zu entgehen. „Spirituelle Fessel“ wird von Zaubern und Fähigkeiten blockiert, die gegen die Auswirkung von Schwachsinn schützen.~
 @35361 = ~Geisterfeuer
 
 Grad: 4
@@ -1174,7 +1174,7 @@ Zeitaufwand: 4
 Bereich: 4,5 m Radius
 Rettungswurf: Speziell (gg. Zauber)
 
-Mithilfe dieses Zaubers sammelt der Anwender Energie aus der spirituellen Welt und formt eine blassblaue Kugel. Der Anwender kann die Kugel werfen, woraufhin sie in geisterhaften, himmelblauen Flammen explodiert. Die Flammen richten 1W4 Schadenspunkte durch Magie je Stufe des Anwenders an, bis zu einem Maximum von 10W4. Zudem besteht eine Chance von 33 %, dass jeder Gegner im Wirkungsbereich vom Zauber „Verderben“ betroffen wird (Malus von −2 auf Rettungs- und Trefferwürfe für 1 Phase). Ein erfolgreicher Rettungswurf gegen Zauber halbiert den Schaden und verhindert die Auswirkungen von „Verderben“. Geister, magische Wesen, Elementare und geisterhafte Untote erleiden den doppelten Schaden.~
+Mithilfe dieses Zaubers sammelt der Anwender Energie aus der spirituellen Welt und formt eine blassblaue Kugel. Der Anwender kann die Kugel werfen, woraufhin sie in geisterhaften, himmelblauen Flammen explodiert. Die Flammen richten 1W4 Schadenspunkte durch Magie je Stufe des Anwenders an, bis zu einem Maximum von 10W4. Zudem besteht eine Chance von 33 %, dass jeder Gegner im Wirkungsbereich vom Zauber „Verderben“ betroffen wird (Malus von –2 auf Rettungs- und Trefferwürfe für 1 Phase). Ein erfolgreicher Rettungswurf gegen Zauber halbiert den Schaden und verhindert die Auswirkungen von „Verderben“. Geister, magische Wesen, Elementare und geisterhafte Untote erleiden den doppelten Schaden.~
 @35363 = ~Äthertunnel
 
 Grad: 7
@@ -1594,7 +1594,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @35803 = ~Wir werden sehen. Sprecht, aber bleibt auf Distanz.~
 @35804 = ~Meine Handlungen sprechen eine deutlichere Sprache als alle Worte zwischen uns, „Strahlende Dame“.~
 @35805 = ~Ihr seid das letzte Jahr durch das Land getost und habt durch Eure Handlungen das Schicksal von Nationen geformt. Ich beabsichtige, nicht weniger zu tun.~ [BD35805]
-@35807 = ~Wir stehen beide am Rande eines neuen Zeitalters. Eines Tages werden alle Faerûner auf diesen Moment schauen und sagen: „Da. Das war der Zeitpunkt, als sich alles änderte.“~ [BD35807]
+@35807 = ~Wir stehen an der Schwelle zu einem neuen Zeitalter. Eines Tages wird ganz Faerûn auf diesen Moment zurückblicken und sagen: „Damals. Damals hat sich alles verändert.“~ [BD35807]
 @35809 = ~Was mich hergebracht hat, seid Ihr, Euer Versuch, mein Leben zu beenden, und der Schaden, den Ihr am ganzen Land angerichtet habt.~
 @35810 = ~Das Schicksal und die Klingen der Attentäter, die Ihr gesandt habt, um mich zu töten.~
 @35811 = ~Der Druck des Rates der Vier und die Bezahlung, die sie mir angeboten haben, haben mich hierhergebracht. Auch wenn die Gelegenheit Euch umzubringen Grund genug wäre.~
@@ -1615,7 +1615,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @35832 = ~Ihr müsst doch wissen, dass das, was Ihr vorschlagt, unmöglich ist. Selbst wenn es das nicht wäre, kann doch nichts Gutes dabei herauskommen, wenn man die schon so lange in der Hölle Verlorenen wiederbelebt.~
 @35833 = ~Glaubt Ihr wirklich, dass so eine Sache möglich ist?~
 @35834 = ~Ihr solltet an Euer eigenes Leben denken, bevor Ihr die bereits Verstorbenen retten wollt.~
-@35835 = ~Aber damit endete es nicht. Sie wurden in die Neun Höllen gebracht. Ihr Blut kochte, ihre Haut schlug Blasen und platzte auf. Die Krallen der Teufel zerfleischten ihre Seelen und rissen sie in Stücke, aber sie KONNTEN EINFACH NICHT STERBEN. Ich höre sie. <CHARNAME>. Ich höre die Schreie der unschuldig Verdammten. Und ich werde mich nicht abwenden.~ [BD35835]
+@35835 = ~Aber damit endete es nicht. Sie wurden in die Neun Höllen gebracht. Ihr Blut kochte, ihre Haut schlug Blasen und platzte auf. Die Krallen der Teufel zerfleischten ihre Seelen und rissen sie in Stücke, aber sie KONNTEN EINFACH NICHT STERBEN. Ich höre sie, <CHARNAME>. Ich höre die Schreie der unschuldig Verdammten. Und ich werde mich nicht abwenden.~ [BD35835]
 @35836 = ~Es ist nicht so, dass ich kein Mitleid mit den Seelen von Drachenspeer hätte, Caelar. Aber was Ihr vorhabt, lässt jedwede strategische Herangehensweise vermissen. Und als wäre das nicht genug, ignoriert Ihr die – vielleicht sich wiederholenden – Konsequenzen.~
 @35837 = ~Es ist der Weg einer Närrin. Einer blinden und verrückten Närrin noch dazu. Die Höllen werden die Seelen nicht ziehen lassen, sondern nur noch mehr an sich reißen – inklusive Euer eigenen.~
 @35838 = ~Wenn die Höllen Euer Ziel sind, dann lasst mich Eure Reise dahin beschleunigen.~
@@ -1997,7 +1997,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @36274 = ~Oh, sie werden schon merken, was los ist. Vertraut mir.~
 @36275 = ~Schnell. Hinterhältig. Gefällt mir.~
 @36277 = ~Das werde ich, Oberleutnant.~
-@36278 = ~Es ist … nun, es ist ein wenig gefährlich, was? Für denjenigen, der dort hineingeht, meine ich.~
+@36278 = ~Es ist … nun, es ist ein wenig gefährlich, was? Für denjenigen, der dort hineingehen muss, meine ich.~ ~Es ist … nun, es ist ein wenig gefährlich, was? Für diejenige, die dort hineingehen muss, meine ich.~
 @36279 = ~Auf keinen Fall. Ich werde mein Leben für die Brückenfeste geben. Jeder Soldat hier wird durch meine Hand sterben!~
 @36280 = ~Töten?~
 @36281 = ~Jaaaa… Ihr wisst doch, ich kümmere mich um die Rekrutierung des Bataillons „Blendendes Weiß“, richtig? Und doch … und doch …~
@@ -2403,7 +2403,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @36699 = ~Kreuzzügler~
 @36700 = ~Javis~
 @36701 = ~Der Kreuzzug hat die Brücke zu Fall gebracht.~
-@36703 = ~Es wird einige Zeit brauchen, bis wir das Lager abgebrochen und den besten Weg für unsere Truppen ausgekundschaftet haben. Trefft uns an der Brückenfeste, wenn Ihr bereit seid. Ich werde die Richtung auf Eurer Karte markieren, wenn Ihr den Weg nicht schon kennen solltet.~ [BD36703]
+@36703 = ~Es wird einige Zeit brauchen, bis wir das Lager abgebrochen und den besten Weg für unsere Truppen ausgekundschaftet haben. Trefft uns an der Brückenfeste, wenn Ihr bereit seid. Ich werde die Richtung auf Eurer Karte markieren, sofern Ihr den Weg nicht schon kennen solltet.~ [BD36703]
 @36704 = ~Wir dürfen keine Zeit verschwenden. Wir machen uns zur Brückenfeste auf, sobald das Lager abgebrochen ist.~
 @36710 = ~Sattelt die Pferde! Wir brechen auf.~ [BD36710]
 @36712 = ~Ätherische Vergeltung
@@ -2417,7 +2417,7 @@ Zeitaufwand: 8
 Bereich: 4,5 m Radius
 Rettungswurf: Speziell
 
-Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die über das Schlachtfeld schwirren und die Feinde des Anwenders schikanieren. Alle Gegner im Wirkungsbereich erleiden 3 Runden lang 3W8 Schadenspunkte durch Magie, wogegen kein Rettungswurf zulässig ist. Zusätzlich müssen lebende Gegner (Untote und künstliche Wesen sind nicht betroffen) einen Rettungswurf gegen Zauber bestehen oder sie erhalten jede Runde einen kumulativen Malus von −2 auf Stärke für die nächsten 5 Runden. Der Zauber kann die Stärke eines Wesens aber nicht unter 1 reduzieren.~
+Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die über das Schlachtfeld schwirren und die Feinde des Anwenders schikanieren. Alle Gegner im Wirkungsbereich erleiden 3 Runden lang 3W8 Schadenspunkte durch Magie, wogegen kein Rettungswurf zulässig ist. Zusätzlich müssen lebende Gegner (Untote und künstliche Wesen sind nicht betroffen) einen Rettungswurf gegen Zauber bestehen oder sie erhalten jede Runde einen kumulativen Malus von –2 auf Stärke für die nächsten 5 Runden. Der Zauber kann die Stärke eines Wesens aber nicht unter 1 reduzieren.~
 @36713 = ~Eine Feder eines Planetarflügels? Als könntet Ihr meine Gedanken lesen, <CHARNAME>.~ [BD36713]
 @36714 = ~Wenn Ihr das tut, finde ich das nicht so schlimm, NICHT WIE BEI ANDEREN PERSONEN, DIE MIR SO EINFALLEN. JA, ADOY, ICH REDE VON EUCH.~ [BD36714]
 @36716 = ~Eure Gedanken lesen? Nein, nein, nein. Ich weiß nicht, was Ihr denkt, und ich WILL es auch gar nicht wissen.~
@@ -2443,7 +2443,7 @@ Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die üb
 @36739 = ~Danke, <CHARNAME>. Ich weiß das wirklich zu schätzen. Ihr habt keine Ahnung, wie sehr.~
 @36740 = ~Denkt daran, dass Ihr mit einer Person redet, die Stimmen in ihrem Kopf hört.~ [BD36740]
 @36741 = ~Eigentlich nur eine Stimme. Eine LÄSTIGE, UNANGENEHME, ÄUSSERST FÜRCHTERLICHE STIMME!~ [BD36741]
-@36742 = ~Korporal Bence! Die Zugbrücke der Burg ist unten! Sie greifen die Kreuzzügler an!~
+@36742 = ~Korporal Duncan! Die Zugbrücke der Burg ist unten! Sie greifen die Kreuzzügler an!~
 @36743 = ~Was gibts?~
 @36745 = ~Sie werden es nicht allein tun. Ein jeder hergehört! Zu den Waffen und ausrücken! DER KAMPF UM DIE BRÜCKENFESTE HAT BEGONNEN!~
 @36746 = ~Hört zu, alle! Schnappt Euch Eure Waffen und rückt aus! DIE SCHLACHT UM DIE BRÜCKENFESTE HAT BEGONNEN!~
@@ -6778,9 +6778,9 @@ Gewicht: 10~
 @42127 = ~Tays bekanntester Sohn wäre gut beraten, wenn er seine Brüder holte für den Fall, dass ein rashemisches Kind mit einem Stock ankäme und ihn bedrohe.~
 @42128 = ~Herausfordern? Ich glaube, auspeitschen oder eine Lektion erteilen wäre näher an der Wahrheit dran.~
 @42129 = ~Hinfort. Euer Anblick ist ein Affront.~
-@42130 = ~Ich merke, dass Euer Affenhirn die Wichtigkeit dieser Angelegenheit nicht erfassen kann, daher werde ich Euch einfach befehlen, Respekt zu zeigen – seht mich nicht an, sprecht mich nicht an. Verbeugt Euch einfach und tretet zur Seite. Versteht Ihr meine Worte? Ein Nicken genügt.~
+@42130 = ~Ich merke, dass Euer Affenhirn die Wichtigkeit dieser Angelegenheit nicht erfassen kann, daher werde ich Euch einfach befehlen, Respekt zu zeigen: Seht mich nicht an, sprecht mich nicht an! Verbeugt Euch einfach und tretet zur Seite! Versteht Ihr meine Worte? Ein Nicken genügt.~
 @42131 = ~Wir haben uns schon getroffen, Edwin. Erinnert Ihr Euch nicht?~
-@42132 = ~Das Ausmaß Eurer Macht und Selbstvertrauen sind in der Tat … schwer zu ignorieren. Vergebt mir die Störung, aber ich bin <CHARNAME>. Ich reise nordwärts, um jemanden zu bekämpfen, der Tay verleumdet hat und die Familie … Odesseiron, richtig?~
+@42132 = ~Das Ausmaß Eurer Macht und Selbstvertrauens ist in der Tat … schwer zu ignorieren. Vergebt mir die Störung, aber ich bin <CHARNAME>. Ich reise nordwärts, um jemanden zu bekämpfen, der Tay verleumdet hat und die Familie … Odesseiron, richtig?~
 @42133 = ~Ah, richtig. Ich erinnere mich nun. Schön. Viel Glück Euch.~
 @42134 = ~Mich vor Euch verbeugen? Wenn hier irgendeine Verbeugung stattfindet, dann ist das Eure vor MIR.~
 @42135 = ~Wartet … <CHARNAME>? Was bringt Euch in diese Gegend?~
@@ -7478,14 +7478,14 @@ Gewicht: 10~
 @42982 = ~Ich habe Euer Lager gesehen. Seid Ihr Anhänger der Strahlenden Dame?~
 @42983 = ~Ich mag es einfach, in den Wäldern herumzutollen.~
 @42984 = ~Nicht Spezielles. Ich reise hier nur durch.~
-@42985 = ~Kreuzzügler? Pah, sehen wir so aus, als ob wir nichts Besseres zu tun hätten, als das Ego einer Verrückten anzukurbeln? Nein, die Arbeit, die wir tun, hat einen tatsächlichen Wert. Im Augenblick jagen wir eine niederträchtige, untote Kreatur. Haltet Euch von uns fern.~ [BD42985]
+@42985 = ~Kreuzzügler? Pah, sehen wir so aus, als ob wir nichts Besseres zu tun hätten, als das Ego einer Verrückten anzukurbeln? Nein, die Arbeit, die wir tun, hat einen tatsächlichen Wert. Im Augenblick jagen wir eine niederträchtige, untote Kreatur. Haltet Euch von uns fern!~ [BD42985]
 @42986 = ~Tollt woanders herum. Wir jagen hier eine niederträchtige, untote Kreatur. Das Letzte, was wir brauchen, ist Ablenkung. Haltet Euch von uns fern.~
 @42987 = ~Wir jagen eine niederträchtige, untote Kreatur. Das Letzte, was wir brauchen, ist Ablenkung. Haltet Euch von uns fern.~
 @42988 = ~Wirklich, Isabella, es gibt keinen Grund, unhöflich zu werden.~
 @42989 = ~Welche Art von Kreatur jagt Ihr?~
 @42990 = ~Wenn Eure Mission so gefährlich ist, könntet Ihr da nicht ein wenig Hilfe gebrauchen? Gegen Bezahlung, selbstverständlich.~
 @42991 = ~Ihr scheint schlecht ausgerüstet zu sein, um etwas wirklich Gefährliches zu bekämpfen.~
-@42992 = ~Wenn Ihr uns jetzt entschuldigen würdet, wir haben zu tun. Verzieht Euch.~
+@42992 = ~Wenn Ihr uns jetzt entschuldigen würdet, wir haben zu tun. Verzieht Euch!~
 @42993 = ~Ein Vampir! Ein solch widerwärtiges Wesen, dass es ihm nicht erlaubt sein sollte zu leben. Lasst mich Euch helfen, ihn zu vernichten.~
 @42994 = ~Ich bin ein heiliger Krieger. Bitte, lass mich Euch bei dieser edlen Unternehmung unterstützen.~
 @42995 = ~Dann werde ich Euch der Suche nach Eurem Feindes überlassen.~
@@ -7655,7 +7655,7 @@ Gewicht: 10~
 @43184 = ~„Ziemlich“ charmant? Was für eine Art vorgeschobenes Kompliment ist das denn?~ [BD43184]
 @43185 = ~(Das Summen des Menhirs wird zu einem markerschütternden Heulen.)~ [CASTB]
 @43186 = ~(Das Summen des Menhirs geht in ein gräßliches Knackgeräusch über.)~ [CASTB]
-@43188 = ~Wer seid Ihr? Nennt Euren Namen, Geist.~
+@43188 = ~Wer seid Ihr? Nennt Euren Namen, Geist!~
 @43189 = ~Großartig, ich habe einen Geist entfesselt. Seid Ihr ein böser Geist? Bitte seid kein böser Geist.~
 @43190 = ~Sagt mir Euren Namen, Schatten, und zwar schnell, sonst schicke ich Euch in das Jenseits zurück, aus dem Ihr gekommen seid.~
 @43191 = ~Crommus ist mein Name. Im Leben war ich ein armer Barde. In meinem transparenten Herzen lauert nichts Böses, das versichere ich Euch.~
@@ -7691,7 +7691,7 @@ Gewicht: 10~
 @43227 = ~Ich wünsche Euch und Carline alles Gute, Crommus.~
 @43228 = ~Ich würde nach einer Belohnung fragen, aber den Geist muss ich noch finden, der einen gefüllten Goldbeutel hätte. Ah, nun … ich vermute, dieses Mal ist die gute Tat ihre eigene Belohnung.~
 @43229 = ~Dann hinfort mit Euch, Ihr beide.~
-@43230 = ~Ich wurde in einem Hügelgrab nicht weit von hier begraben, auf der östlichen Seite des Waldes. Sucht mein Grab auf. Was immer Ihr dort findet, nehmt es mit meinem Segen. Aber passt auf, in der Nähe lauert eine bösartige Präsenz.~
+@43230 = ~Ich wurde in einem Hügelgrab nicht weit von hier begraben, in der östlichen Hälfte des Waldes. Sucht mein Grab auf. Was immer Ihr dort findet, nehmt es mit meinem Segen. Aber passt auf, in der Nähe lauert eine bösartige Präsenz.~
 @43234 = ~Mögt Ihr Trost in den Melodien Milils finden, bis wir uns wiedersehen. Lebt wohl.~
 @43235 = ~Ich fürchte, ich habe nur wenig Handelbares übrig. Als ich vor dem Kreuzzug geflohen bin, musste ich vieles zurücklassen.~
 @43236 = ~Ich würde gerne sehen, was Ihr zum Verkauf anbietet.~
@@ -9376,7 +9376,7 @@ Der Träger ist immun gegen Gift und Krankheiten.
 Auf dem Träger liegt Schutz vor Bösem.
 
 Rüstungsklasse: 2
-RK-Bonus: −2 gg. Klingenwaffen
+RK-Bonus: –2 gg. Klingenwaffen
 RK-Malus: +2 gg. Wuchtwaffen
 Mindeststärke: 6
 
@@ -9389,7 +9389,7 @@ EIGENSCHAFTEN:
 Konstitution: +1
 Feuerwiderstand: +40 %
 
-RK-Bonus: −4
+RK-Bonus: –4
 Mindeststärke: 12
 
 Gewicht: 3~
@@ -9400,7 +9400,7 @@ EIGENSCHAFTEN:
 
 Magiewiderstand: +30 %
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Klinge)
 Schadensbonus: +2 (Klinge) gg. Teufel
 Initiativefaktor: 2
@@ -9436,7 +9436,7 @@ EIGENSCHAFTEN:
 
 Bei 20 % der Treffer erscheint ein zufälliger Edelstein im Gepäck des Trägers.
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W4 +1 (Stich)
 Initiativefaktor: 0
 Fertigkeit: Dolch
@@ -9451,7 +9451,7 @@ EIGENSCHAFTEN:
 
 10 % der Treffer wirken „Leichte Wunden heilen“ auf den Träger.
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W6+2 (Wucht)
 Initiativefaktor: 6
 Fertigkeit: Streitkolben
@@ -9465,9 +9465,9 @@ EIGENSCHAFTEN:
 
 Bei einem kritischen Treffer werden Elementare und Mephite auf ihre Heimatebene gebannt.
 
-RK-Bonus: −2 gg. Elementare und Mephite
+RK-Bonus: –2 gg. Elementare und Mephite
 
-ETW0-Bonus: −1, zusätzlich −1 gg. Elementare und Mephite
+ETW0-Bonus: –1, zusätzlich –1 gg. Elementare und Mephite
 Schaden: 1W8 +1 (Klinge)
 Schadensbonus: +2 gg. Elementare und Mephite
 Initiativefaktor: 4
@@ -9484,7 +9484,7 @@ EIGENSCHAFTEN:
 
 „Illusion entdecken“ (1x täglich)
 
-RW-Bonus: −3 gg. Zauber der Schule „Nekromantie“
+RW-Bonus: –3 gg. Zauber der Schule „Nekromantie“
 Weisheit: +1 für Kleriker des Helm
 
 Gewicht: 0~
@@ -9557,7 +9557,7 @@ EIGENSCHAFTEN:
 Kann nur durch „Fluch brechen“ wieder abgenommen werden.
 Der Träger ist gezwungen, geschmacklose Witze zu erzählen.
 
-Charisma: −1 außer für Gaukler
+Charisma: –1 außer für Gaukler
 
 Rüstungsklasse: 5
 
@@ -9573,8 +9573,8 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −2 gg. chaotische Wesen
-ETW0-Bonus: −2 gg. chaotische Wesen
+RK-Bonus: –2 gg. chaotische Wesen
+ETW0-Bonus: –2 gg. chaotische Wesen
 Schadensbonus: +2 gg. chaotische Wesen
 
 Gewicht: 1~
@@ -9615,7 +9615,7 @@ EIGENSCHAFTEN:
 
 Bei einem kritischen Treffer wird das Ziel für 1 Runde bewusstlos, da es die Vision hat, seine Seele würde seinen Körper verlassen (kein Rettungswurf).
 
-ETW0-Bonus: −2, zusätzlich −2 gg. böse Wesen
+ETW0-Bonus: –2, zusätzlich –2 gg. böse Wesen
 Schadensbonus:
   +2 (Geschoss) gg. neutrale und gute Wesen
   +4 (Geschoss) gg. böse Wesen
@@ -9646,7 +9646,7 @@ EIGENSCHAFTEN:
 
 Kann nur durch „Fluch brechen“ wieder abgenommen werden.
 
-ETW0-Bonus: −5
+ETW0-Bonus: –5
 Schaden: 1W8+5 (Klinge)
 Initiativefaktor: 0
 Fertigkeit: Langschwert
@@ -9978,7 +9978,7 @@ EIGENSCHAFTEN:
 Freundschaft (1x täglich)
 Sagenkunde: +10
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W6 +1 (Wucht)
 Initiativefaktor: 3
 Fertigkeit: Kampfstab
@@ -9993,7 +9993,7 @@ EIGENSCHAFTEN:
 
 Der Träger ist immun gegen „Personen festhalten“.
 
-RK-Bonus: −3
+RK-Bonus: –3
 (kein Schutz vor Geschoss- und Stichwaffen)
 Mindeststärke: 4
 
@@ -10062,7 +10062,7 @@ Gewicht: 0~
 EIGENSCHAFTEN:
 
 Bei 5 % der Treffer wird auf den Träger „Verschwimmen“ gewirkt.
-Der Träger erhält einen Bonus von −2 bei Rettungswürfen gegen Zauber der Schule Verzauberung.
+Der Träger erhält einen Bonus von –2 bei Rettungswürfen gegen Zauber der Schule Verzauberung.
 
 Gewicht: 3~
 @45634 = ~Sternenbesetzte Stiefel~
@@ -10319,7 +10319,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −2 gg. riesige Humanoide
+RK-Bonus: –2 gg. riesige Humanoide
 Trefferpunkte: +5 für Halblinge
 
 Gewicht: 3~
@@ -10335,7 +10335,7 @@ Sonnenfeuer (1x täglich)
 
 Bei 15 % der Nahkampfangriffe gegen den Träger erleidet der Angreifer 1W4 Schadenspunkte durch Feuer und wird für 2 Runden geblendet (Rettungswurf gg. Zauber für halben Schaden und keine Blindheit).
 
-RK-Bonus: −3
+RK-Bonus: –3
 (kein Schutz gegen Geschosswaffen)
 Mindeststärke: 4
 
@@ -10649,7 +10649,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4 +2 (Stich)
 Initiativefaktor: 0
 Fertigkeit: Dolch
@@ -11438,7 +11438,7 @@ EIGENSCHAFTEN:
 
 Der Träger erhält einen Bonus von +1 auf „Untote bannen“. Priester des Lathander und Geisterjäger erhalten einen weiteren Bonus von +1.
 
-RK-Bonus: −3
+RK-Bonus: –3
 Mindeststärke: 12
 
 Gewicht: 6~
@@ -12270,14 +12270,14 @@ Gewicht: 0~
 
 Ihr müsst augenblicklich zur Krypta des Hexenmeisters aufbrechen. Ich muss Euch nicht sagen, dass Ihr Wege abseits großer Straßen nehmen solltet und aufpassen müsst, nicht entdeckt zu werden. Wenn Ihr Athkatla erreicht habt, wird einer meiner Lakaien Euch dort den Ort der Krypta verraten. Enttäuscht mich nicht.
 
-L~
+L.~
 @48430 = ~Dieser Ionenstein schimmert dunkelgrün wie eine ausgehärtete Kugel aus Trollblut. Legenden sagen, dass er aus dem Blut sieben verschiedener Trolle gemacht wurde, jeder davon gefangen genommen und sieben Tage lang für magische Experimente benutzt. Der dadurch entstandene Ionenstein gewährt dem Träger eine schwächere Form an Trollheilungskräften und erhöht seine kriegerischen Fähigkeiten gegen Trolle.
 
 EIGENSCHAFTEN:
 
 Regeneration: 1 Trefferpunkt pro Runde
 
-ETW0-Bonus: −3 gg. Trolle
+ETW0-Bonus: –3 gg. Trolle
 
 Gewicht: 0~
 @48432 = ~Die guten Druiden
@@ -12925,11 +12925,11 @@ Gewicht: 5~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden:
   1W3 +1 (Stich)
   1W4 +1 (Geschoss)
-Initiativefaktor: 2, zusätzlich −1 als Geschoss
+Initiativefaktor: 2, zusätzlich –1 als Geschoss
 Fertigkeit: Dolch
 Typ: 1-händig
 Mindeststärke: 3
@@ -14137,7 +14137,7 @@ Stärke: +1
 
 Die Wahrscheinlichkeit eines kritischen Treffers mit dieser Waffe erhöht sich um +10 %.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Klinge)
 Initiativefaktor: 1
 Fertigkeit: Kurzschwert
@@ -14223,7 +14223,7 @@ Ich habe versucht, Tharantis die Halskette von Kendra zurückzuverkaufen, aber d
 @50582 = ~Neugierig? Das ist ’ne lustige Formulierung von „verängstigt“.~
 @50583 = ~Soldaten müssen den Leuten trauen können, an deren Seite sie kämpfen.~
 @50584 = ~Und dass wir Halborks sind, hat damit nichts zu tun, richtig? Verarschen kann ich mich allein.~
-@50585 = ~Ich bin hier, um Kreuzzügler zu verprügeln, genau wie jeder andere hier. Ihr wollt mehr von mir wissen? Vergesst es. Jetzt verschwindet, ich habe Arbeit zu erledigen.~
+@50585 = ~Ich bin hier, um Kreuzzügler zu verprügeln, genau wie jeder andere hier. Ihr wollt mehr von mir wissen? Vergesst es! Jetzt verschwindet, ich habe Arbeit zu erledigen!~
 @50586 = ~Ich würde Euch wirklich gerne kennenlernen. Es muss doch einen Weg geben, Euch zu überzeugen, mir zu vertrauen.~
 @50587 = ~Sagt mir, warum Ihr tatsächlich hier seid. Sofort, oder Ihr bekommt eine verpasst!~
 @50588 = ~Kommt schon, wir sind beide Halborks. Was geht hier in Wahrheit vor?~
@@ -15347,7 +15347,7 @@ Dieser Flegel ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer 
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W6 +4 (Wucht)
 Initiativefaktor: 4
 Fertigkeit: Flegel/Morgenstern
@@ -15364,7 +15364,7 @@ EIGENSCHAFTEN:
 
 Bei jedem Treffer schläft das Ziel für 4 Runden ein (Rettungswurf gg. Gift).
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Geschoss)
 Schusswaffe: Armbrust
 
@@ -15378,7 +15378,7 @@ EIGENSCHAFTEN:
 
 Bei jedem Treffer wird das Ziel für 4 Runden betäubt (Rettungswurf gg. Tod).
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Geschoss)
 Schusswaffe: Armbrust
 
@@ -15389,7 +15389,7 @@ Der Bolzen ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer Ada
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Geschoss)
 Schusswaffe: Armbrust
 
@@ -15405,14 +15405,14 @@ EIGENSCHAFTEN:
 Der Zeitaufwand beim Zaubern verringert sich um 1.
 
 Magiewiderstand: +5 %
-Schlösser öffnen: −5 %
-Fallen finden: −5 %
-Taschendiebstahl: −20 %
-Leise bewegen: −10 %
+Schlösser öffnen: –5 %
+Fallen finden: –5 %
+Taschendiebstahl: –20 %
+Leise bewegen: –10 %
 Blockiert nicht das Wirken von Zaubern
 
 Rüstungsklasse: 2
-RK-Bonus: −2 gg. Klingenwaffen
+RK-Bonus: –2 gg. Klingenwaffen
 RK-Malus: +2 gg. Wuchtwaffen
 Mindeststärke: 5
 
@@ -15423,14 +15423,14 @@ Die Rüstung ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer A
 
 EIGENSCHAFTEN:
 
-Schlösser öffnen: −5 %
-Fallen finden: −5 %
-Taschendiebstahl: −20 %
-Leise bewegen: −10 %
+Schlösser öffnen: –5 %
+Fallen finden: –5 %
+Taschendiebstahl: –20 %
+Leise bewegen: –10 %
 Blockiert nicht das Wirken von Zaubern
 
 Rüstungsklasse: 0
-RK-Bonus: −4 gg. Wuchtwaffen
+RK-Bonus: –4 gg. Wuchtwaffen
 Mindeststärke: 5
 
 Gewicht: 12~
@@ -15439,7 +15439,7 @@ Gewicht: 12~
 
 EIGENSCHAFTEN:
 
-RW-Bonus: −6 gg. Odemwaffen
+RW-Bonus: –6 gg. Odemwaffen
 Leise bewegen: +75 %
 Im Schatten verstecken: +75 %
 
@@ -15453,11 +15453,11 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-Rüstungsklasse: −2
+Rüstungsklasse: –2
 RK-Bonus:
-  −3 gg. Klingenwaffen
-  −3 gg. Stichwaffen
-  −3 gg. Geschosswaffen
+  –3 gg. Klingenwaffen
+  –3 gg. Stichwaffen
+  –3 gg. Geschosswaffen
 Mindeststärke: 15
 
 Gewicht: 70~
@@ -15467,7 +15467,7 @@ Dieser Schild ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer 
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −4
+RK-Bonus: –4
 Mindeststärke: 12
 
 Gewicht: 7~
@@ -15477,7 +15477,7 @@ Dieser Speer ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer A
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W6 +3 (Stich)
 Initiativefaktor: 3
 Fertigkeit: Speer
@@ -15489,7 +15489,7 @@ Gewicht: 5~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Klinge)
 Initiativefaktor: 2
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -15501,7 +15501,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Klinge)
 Initiativefaktor: 2
 Fertigkeit: Langschwert
@@ -15517,7 +15517,7 @@ EIGENSCHAFTEN:
 
 Angriffe pro Runde: +1
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schadensbonus: +3 (Geschoss)
 Initiativefaktor: 1
 Fertigkeit: Armbrust
@@ -15534,7 +15534,7 @@ EIGENSCHAFTEN:
 
 Bei jedem Treffer schläft das Ziel für 4 Runden (Rettungswurf gg. Gift).
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W3 +1 (Geschoss)
 Initiativefaktor: 2
 Fertigkeit: Wurfpfeil
@@ -15641,9 +15641,9 @@ Glint liebt seinen Vetter Peptram, aber fürchtet im Bündnislager um seine Sich
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −2 gg. riesige Humanoide
+RK-Bonus: –2 gg. riesige Humanoide
 
-ETW0-Bonus: −2, zusätzlich −2 gg. riesige Humanoide
+ETW0-Bonus: –2, zusätzlich –2 gg. riesige Humanoide
 Schaden: 1W4 +2 (Stich)
 Schadensbonus: +4 (Stich) gg. riesige Humanoide
 Initiativefaktor: 0
@@ -18604,9 +18604,9 @@ Kältewiderstand: +20 %
 
 Rüstungsklasse: 5
 RK-Bonus:
-  −2 gg. Klingenwaffen
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
+  –2 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
 Mindeststärke: 6
 
 Gewicht: 8~
@@ -18615,13 +18615,13 @@ Gewicht: 8~
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer erleidet das Ziel einen Malus von −1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
+Bei jedem Treffer erleidet das Ziel einen Malus von –1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
 Fügt Untoten keinen Schaden zu.
 Boni auf Treffer- und Schadenswürfe aufgrund von hoher Stärke werden ignoriert.
 
-Stärke: −1
+Stärke: –1
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Magie)
 Initiativefaktor: 2
 Fertigkeit: Langschwert
@@ -18634,10 +18634,10 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer erleidet das Ziel einen Malus von −1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
+Bei jedem Treffer erleidet das Ziel einen Malus von –1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
 Fügt Untoten keinen Schaden zu.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Magie)
 Schusswaffe: Bogen
 
@@ -18646,10 +18646,10 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer erleidet das Ziel einen Malus von −1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
+Bei jedem Treffer erleidet das Ziel einen Malus von –1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
 Fügt Untoten keinen Schaden zu.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W4 +4 (Magie)
 Schusswaffe: Schleuder
 
@@ -18659,13 +18659,13 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer erleidet das Ziel einen Malus von −1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
+Bei jedem Treffer erleidet das Ziel einen Malus von –1 auf Stärke für 5 Runden bis zu einem Minimum von 1 (Rettungswurf gg. Zauber).
 Fügt Untoten keinen Schaden zu.
 Boni auf Treffer- und Schadenswürfe aufgrund von hoher Stärke werden ignoriert.
 
-Stärke: −1
+Stärke: –1
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W4 +4 (Magie)
 Initiativefaktor: 1
 Fertigkeit: Kriegshammer
@@ -18720,9 +18720,9 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −2 gg. Klingenwaffen für Kensai
+RK-Bonus: –2 gg. Klingenwaffen für Kensai
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Stich)
 Initiativefaktor: 2
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -19213,9 +19213,9 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-Charisma: −1
+Charisma: –1
 
-RK-Bonus: −1
+RK-Bonus: –1
 
 Gewicht: 3~
 @56352 = ~Prachtkäfer~
@@ -19227,7 +19227,7 @@ EIGENSCHAFTEN:
 Steinform (1x täglich)
   Rüstungsklasse: auf 0 gesetzt
   RW-Bonus: +3
-  Geschicklichkeit: −3
+  Geschicklichkeit: –3
   Dauer: 5 Phasen
 
 Widerstand gg. alle Waffen: +5 %
@@ -19241,7 +19241,7 @@ EIGENSCHAFTEN:
 
 Bei 15 % der Treffer erleidet das Ziel zusätzlich 1 Schaden durch Säure pro Runde für die nächsten 3 Runden.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4 +2 (Stich)
 Schadensbonus: +1 (Säure)
 Initiativefaktor: 0
@@ -19464,9 +19464,9 @@ Gewicht: 20~
 
 EIGENSCHAFTEN:
 
-Bei 10 % der Treffer wird das Ziel mit einer Krankheit infiziert und erhält einen nichtkumulativen Malus von −2 auf Geschicklichkeit und wird für 3 Runden verlangsamt (Rettungswurf gg. Tod).
+Bei 10 % der Treffer wird das Ziel mit einer Krankheit infiziert und erhält einen nichtkumulativen Malus von –2 auf Geschicklichkeit und wird für 3 Runden verlangsamt (Rettungswurf gg. Tod).
 
-ETW0-Bonus: −1, zusätzlich −2 gg. Zwerge und Gnome
+ETW0-Bonus: –1, zusätzlich –2 gg. Zwerge und Gnome
 Schadensbonus: +1, zusätzlich +2 gg. Zwerge und Gnome
 Initiativefaktor: 5
 Fertigkeit: Kurzbogen
@@ -19500,10 +19500,10 @@ EIGENSCHAFTEN:
 Wenn der Träger vergiftet wird, wirkt die Rüstung automatisch „Gift verlangsamen“ auf ihn.
 
 Konstitution: +1
-Schlösser öffnen: −10 %
-Fallen finden: −10 %
-Taschendiebstahl: −10 %
-Leise bewegen: −20 %
+Schlösser öffnen: –10 %
+Fallen finden: –10 %
+Taschendiebstahl: –10 %
+Leise bewegen: –20 %
 
 Rüstungsklasse: 4
 RK-Malus:
@@ -19518,11 +19518,11 @@ EIGENSCHAFTEN:
 
 Der Träger ist immun gegen Betäubung.
 
-Weisheit: −1
-Schlösser öffnen: −10 %
-Fallen finden: −10 %
-Taschendiebstahl: −10 %
-Leise bewegen: −20 %
+Weisheit: –1
+Schlösser öffnen: –10 %
+Fallen finden: –10 %
+Taschendiebstahl: –10 %
+Leise bewegen: –20 %
 
 Rüstungsklasse: 3
 RK-Malus:
@@ -19540,7 +19540,7 @@ Kehrt sofort zum Werfer zurück.
 
 Angriffe pro Runde: +1
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +3 (Klinge/Geschoss)
 Initiativefaktor: 2
 Fertigkeit: Axt
@@ -19568,7 +19568,7 @@ Vom Träger beschworene Geister bekommen einen Bonus von +1 auf Stärke.
 
 Magiewiderstand: +15 %
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 (Wucht)
 Schadensbonus: +2 (Magie)
 Initiativefaktor: 2
@@ -21061,7 +21061,7 @@ EIGENSCHAFTEN:
 
 Widerstand gg. Geschosswaffen: +15 %
 
-RK-Bonus: −3, zusätzlich −2 gg. Geschosswaffen
+RK-Bonus: –3, zusätzlich –2 gg. Geschosswaffen
 Mindeststärke: 10
 
 Gewicht: 6~
@@ -21459,8 +21459,8 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −1, zusätzlich −2 gg. Dämonen und Teufel
-RW-Bonus: −1, zusätzlich −2 gg. Dämonen und Teufel
+RK-Bonus: –1, zusätzlich –2 gg. Dämonen und Teufel
+RW-Bonus: –1, zusätzlich –2 gg. Dämonen und Teufel
 
 Gewicht: 0~
 @58532 = ~Dann lasse ich Euch in Ruhe.~
@@ -21959,7 +21959,7 @@ Ich habe mit Tristian gesprochen, einem Kleriker der Roten Ritterin. Er wurde vo
 @58894 = ~Die meisten tuns.~ [BD58894]
 @58895 = ~Na, was ist denn das? Der unbestechliche Hauptmann Corwin glaubt, ich sei ein guter Gegenpart für ein Gespräch.~ [BD58895]
 @58896 = ~Für eine Sekunde habe ich das. Dann habt Ihr angefangen zu reden und ich habs mir nochmal überlegt.~ [BD58896]
-@58897 = ~Voraussehbar. Eine Vorherrschaft des Volks tut das.~ [BD58897]
+@58897 = ~Berechenbar. Ein großer Batzen der Bevölkerung tut das.~ [BD58897]
 @58899 = ~Ich bin ein Hauptmann der Flammenden Faust, wenn es das ist, was Ihr wissen wollt.~ [BD58899]
 @58900 = ~Faust hat meinen Bruder getötet. Und meinen Vetter. Und meinen anderen Bruder. Und meinen Onkel. Und zwei meiner anderen Brüder.~ [BD58900]
 @58901 = ~Euer Verlust tut mir leid.~ [BD58901]
@@ -25275,7 +25275,7 @@ Jeder hat seine eigenen Gründe, sich dem Bündnis anzuschließen. Wächterin Ha
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 
 Gewicht: 0~
 @61457 = ~Medaille der Tapferkeit~
@@ -25356,7 +25356,7 @@ Gewicht: 4~
 
 EIGEENSCHAFTEN:
 
-RW-Bonus: −3 für Zwerge
+RW-Bonus: –3 für Zwerge
 
 Gewicht: 4~
 @61509 = ~Helvdars Glücksbringer
@@ -25759,7 +25759,7 @@ EIGENSCHAFTEN:
 
 Bei 10 % der Treffer wird das Ziel für 3 Runden verlangsamt (Rettungswurf gg. Zauber).
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8+3 (Klinge)
 Schadensbonus: 1W3 (Säure)
 Initiativefaktor: 2
@@ -25773,7 +25773,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −1
+RK-Bonus: –1
 Widerstand gg. Klingenwaffen: +15 %
 Widerstand gg. Geschosswaffen: +15 %
 Widerstand gg. Stichwaffen: +15 %
@@ -25789,7 +25789,7 @@ Roter Feuerschild (2x täglich)
 
 Bei 5 % der Treffer wird „Sonnenfeuer“ mit dem Träger als Zentrum gewirkt.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W6 +3 (Wucht)
 Initiativefaktor: 1
 Fertigkeit: Kampfstab
@@ -25803,7 +25803,7 @@ EIGENSCHAFTEN:
 
 Kann nur durch „Fluch brechen“ wieder abgenommen werden.
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8+1 (Klinge)
 Initiativefaktor: 4
 Fertigkeit: Langsschwert
@@ -26364,9 +26364,9 @@ EIGENSCHAFTEN:
 
 Bei einem kritischen Treffer wird „Glück“ auf den Träger gewirkt.
 
-RK-Bonus: −1
+RK-Bonus: –1
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schadensbonus: +4 (Geschoss)
 Initiativefaktor: 5
 Fertigkeit: Langbogen
@@ -26382,7 +26382,7 @@ EIGENSCHAFTEN:
 Die Bewegungsrate des Trägers wird um 1 erhöht.
 Bei 10 % der Treffer wird „Roter Feuerschild“ auf den Träger gewirkt.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Klinge)
 Schadensbonus: +1 (Feuer)
 Initiativefaktor: 3
@@ -26411,7 +26411,7 @@ EIGENSCHAFTEN:
 
 Bei einem kritischen Treffer gegen einen Troll erhält der Träger einen nichtkumulativen Bonus von +1 auf Stärke für 1 Phase.
 
-ETW0-Bonus: −1, zusätzlich −2 gg. Trolle
+ETW0-Bonus: –1, zusätzlich –2 gg. Trolle
 Schaden: 1W10 +1 (Klinge)
 Schadenbonus: +2 (Feuer) gg. Trolle
 Initiativefaktor: 9
@@ -26426,13 +26426,13 @@ Gewicht: 12~
 EIGENSCHAFTEN:
 
 Feuerwiderstand: +40%
-RK-Bonus: −2 gg. Odemwaffen
+RK-Bonus: –2 gg. Odemwaffen
 
 Rüstungsklasse: 0
 RK-Bonus:
-  −4 gg. Klingenwaffen
-  −3 gg. Stichwaffen
-  −3 gg. Geschosswaffen
+  –4 gg. Klingenwaffen
+  –3 gg. Stichwaffen
+  –3 gg. Geschosswaffen
 Mindeststärke: 15
 
 Gewicht: 30~
@@ -26450,7 +26450,7 @@ Der Träger und Verbündete im Umkreis von 9 m (Sichtfeld) sind immun gegen Fur
 Charisma: +1
 
 Rüstungsklasse: 2
-RK-Bonus: −2 gg. Klingenwaffen
+RK-Bonus: –2 gg. Klingenwaffen
 RK-Malus: +2 gg. Wuchtwaffen
 Mindeststärke: 8
 
@@ -26495,9 +26495,9 @@ EIGENSCHAFTEN:
 
 Bei jedem kritischer Treffer verliert das Ziel 15 % seiner maximalen Trefferpunkte.
 
-Trefferpunkte: −10
+Trefferpunkte: –10
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 2W4 +2 (Wucht)
 Initativefaktor: 5
 Fertigkeit: Flegel/Morgenstern
@@ -26513,7 +26513,7 @@ EIGENSCHAFTEN:
 Bei 5 % der Treffer wird für 4 Runden „Hast“ auf den Träger gewirkt.
 Die Bewegungsrate des Trägers wird um +2 erhöht.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +2
 Initiativefaktor: 4
 Fertigkeit: Kurzbogen
@@ -26556,7 +26556,7 @@ EIGENSCHAFTEN:
 
 Bei 15 % der Treffer wird „Verderben“ auf das Ziel gewirkt.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +4 (Geschoss)
 Initiativefaktor: 8
 Fertigkeit: Armbrust
@@ -26569,16 +26569,16 @@ Gewicht: 11~
 
 EIGENSCHAFTEN:
 
-Bei 20 % der Treffer wird der Träger vor einen zufälligen Gegner teleportiert und erhält einen Bonus von −4 auf den ETW0 für 1 Runde.
+Bei 20 % der Treffer wird der Träger vor einen zufälligen Gegner teleportiert und erhält einen Bonus von –4 auf den ETW0 für 1 Runde.
 Bei 5 % der Treffer wird der Träger vor einen zufälligen Gegner teleportiert und auf ihn wird „Ätherisches Sein“ für 1 Runde gewirkt.
 
 Ätherisches Sein
   Der Träger ist immun gegen normale Waffen. Er kann noch Zauber wirken und Waffen nutzen.
   Dauer: 1 Runde
 
-RK-Bonus: −2
+RK-Bonus: –2
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Stich)
 Initiativefaktor: 4
 Fertigkeit: Speer
@@ -26593,7 +26593,7 @@ EIGENSCHAFTEN:
 
 Bei 33 % der Treffer erleidet das Ziel zufällig +1W4, +2W4 oder +3W4 Schadenspunkte durch Stich.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +3 (Wucht)
 Initiativefaktor: 5
 Fertigkeit: Flegel/Morgenstern
@@ -27088,7 +27088,7 @@ Stärke: +1
 
 Bei 2 % der Treffer wird der Träger in „Berserkerwut“ versetzt, die ihn für 3 Runden die Kontrolle verlieren lässt.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Klinge)
 Schadensbonus: +1 (Kälte)
 Initiativefaktor: 5
@@ -27104,7 +27104,7 @@ EIGENSCHAFTEN:
 Während der Träger „Berserkerwut“ oder „Kampfrausch“ einsetzt, erhöht sich die Wahrscheinlichkeit eines kritischen Treffers um 10 % (nur Berserker, Barbaren und Krieger aus Rashemen).
 Bei einem kritischen Treffer erleidet das Ziel zusätzlich 2W4 Schadenspunkte durch Kälte und wird für 1 Runde verlangsamt (kein Rettungswurf).
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W10 +3 (Klinge)
 Schadensbonus: +1 (Kälte)
 Initiativefaktor: 7
@@ -27151,7 +27151,7 @@ Ich habe einen polierten Schild von den Untotenjägern Isabella und Ikros erhalt
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6+3 (Wucht)
 Initiativefaktor: 5
 Fertigkeit: Streitkolben
@@ -27164,7 +27164,7 @@ Gewicht: 7~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Klinge)
 Initiativefaktor: 5
 Fertigkeit: Axt
@@ -27176,7 +27176,7 @@ Gewicht: 5~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4 +3 (Wucht)
 Initiativefaktor: 2
 Fertigkeit: Kriegshammer
@@ -27202,9 +27202,9 @@ EIGENSCHAFTEN:
 
 Rüstungsklasse: 5
 RK-Bonus:
-  −2 gg. Klingenwaffen
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
+  –2 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
 Mindeststärke: 6
 
 Gewicht: 8~
@@ -27213,7 +27213,7 @@ Gewicht: 8~
 EIGENSCHAFTEN:
 
 Rüstungsklasse: 2
-RK-Bonus: −3 gg. Klingenwaffen
+RK-Bonus: –3 gg. Klingenwaffen
 Mindeststärke: 12
 
 Gewicht: 20~
@@ -27223,9 +27223,9 @@ EIGENSCHAFTEN:
 
 Rüstungsklasse: 0
 RK-Bonus:
-  −4 gg. Klingenwaffen
-  −3 gg Stichwaffen
-  −3 gg. Geschosswaffen
+  –4 gg. Klingenwaffen
+  –3 gg Stichwaffen
+  –3 gg. Geschosswaffen
 Mindeststärke: 15
 
 Gewicht: 35~
@@ -27234,7 +27234,7 @@ Gewicht: 35~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −3, zusätzlich −1 gg. Geschosswaffen
+RK-Bonus: –3, zusätzlich –1 gg. Geschosswaffen
 Mindeststärke: 10
 
 Gewicht: 4~
@@ -27243,7 +27243,7 @@ Gewicht: 4~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W6 +3 (Stich)
 Initiativefaktor: 3
 Fertigkeit: Speer
@@ -27255,7 +27255,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Stich)
 Initiativefaktor: 1
 Fertigkeit: Kurzschwert
@@ -27267,7 +27267,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +4 (Geschoss)
 Initiativefaktor: 8
 Fertigkeit: Armbrust
@@ -27279,7 +27279,7 @@ Gewicht: 11~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +2 (Geschoss)
 Initiativefaktor: 3
 Fertigkeit: Armbrust
@@ -27292,7 +27292,7 @@ Gewicht: 5~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Klinge)
 Initiativefaktor: 4
 Fertigkeit: Axt
@@ -27308,7 +27308,7 @@ EIGENSCHAFTEN:
 Kehrt sofort zum Werfer zurück.
 Bei jedem Treffer wird das Ziel zurückgeworfen und erleidet zusätzlich 2W6 Schadenspunkte (Rettungswurf gg. Tod).
 
-ETW0-Bonus: −4
+ETW0-Bonus: –4
 Schaden: 1W6 +4 (Klinge/Geschoss)
 Initiativefaktor: 0
 Fertigkeit: Axt
@@ -27320,7 +27320,7 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Klinge)
 Schadensbonus: +1 (Feuer)
 Initiativefaktor: 4
@@ -27334,8 +27334,8 @@ Gewicht: 4~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −1
-RW-Bonus: −1
+RK-Bonus: –1
+RW-Bonus: –1
 
 Gewicht: 1~
 @62007 = ~Geschosshalskette~
@@ -27379,7 +27379,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 
 Gewicht: 2~
 @62017 = ~Handschuhe der Waffenkunst~
@@ -27387,7 +27387,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schadensbonus: +2
 
 Gewicht: 1~
@@ -27409,7 +27409,7 @@ Gewicht: 10~
 EIGENSCHAFTEN:
 
 Rüstungsklasse: 1
-RK-Bonus: −3 gg. Klingenwaffen
+RK-Bonus: –3 gg. Klingenwaffen
 Mindeststärke: 12
 
 Gewicht: 20~
@@ -27439,7 +27439,7 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Klinge)
 Initiativefaktor: 2
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -27462,7 +27462,7 @@ Zeitaufwand: 9
 Bereich: Speziell
 Rettungswurf: Speziell (gg. Zauber)
 
-Der Anwender erzeugt mit diesem Zauber eine Kugel aus rasiermesserscharfen Klingen, die ihn umgibt und so ein fast undurchdringliches Hindernis darstellt. Jedes Wesen, das durch die wirbelnden Klingen hindurch will, erleidet 10W10 Schadenspunkte. Wesen, die sich im Wirkungsbereich der Klingen aufhalten, wenn der Zauber gewirkt wird, steht ein Rettungswurf mit einem Malus von −2 gegen Zauber zu. Gelingt der Rettungswurf, erleidet das Wesen keinen Schaden.~
+Der Anwender erzeugt mit diesem Zauber eine Kugel aus rasiermesserscharfen Klingen, die ihn umgibt und so ein fast undurchdringliches Hindernis darstellt. Jedes Wesen, das durch die wirbelnden Klingen hindurch will, erleidet 10W10 Schadenspunkte. Wesen, die sich im Wirkungsbereich der Klingen aufhalten, wenn der Zauber gewirkt wird, steht ein Rettungswurf mit einem Malus von –2 gegen Zauber zu. Gelingt der Rettungswurf, erleidet das Wesen keinen Schaden.~
 @62049 = ~Meuchelmord
 Mithilfe dieser Fähigkeit kann ein erfahrener Dieb all die vielen Tricks, die er in zahllosen Kämpfen gelernt hat, geballt einsetzen und seinen Gegner so überrumpeln, dass jeder Schlag, den er in der nächsten Runde ausführt, wie ein hinterhältiger Angriff zählt, d. h. der Multiplikator wird für 1 Runde auf jeden Schlag des Diebes angewandt.~
 @62050 = ~Tod entrinnen~
@@ -27473,8 +27473,8 @@ Mit einer unglaublichen Willensanstrengung kann ein hochstufiger Spitzbube dank 
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −2
-RW-Bonus: −2
+RK-Bonus: –2
+RW-Bonus: –2
 
 Gewicht: 0~
 @62054 = ~Unendliches Gedächtnis~
@@ -27495,7 +27495,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Geschoss)
 Schadensbonus: +1W3 (Feuer)
 Schusswaffe: Armbrust
@@ -27505,7 +27505,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Klinge)
 Initiativefaktor: 3
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -27570,7 +27570,7 @@ EIGENSCHAFTEN:
 Bei 10 % der Treffer gegen den Träger wird er von 3 Spiegelbildern für 3 Runden umrundet.
 Bei 50 % der Treffer werden alle Illusionszauber (wie „Spiegelbild“ oder „Verbesserte Unsichtbarkeit“) vom Ziel gebannt.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Stich)
 Initiativefaktor: 0
 Fertigkeit: Kurzschwert
@@ -27585,7 +27585,7 @@ EIGENSCHAFTEN:
 Bei 10 % der Treffer wird „Mantel der Furcht“ mit dem Träger als Zentrum gewirkt.
 Bei jedem Treffer erleiden fliehende Ziele 1 Schadenspunkt durch Magie.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schadensbonus: +2
 Initiativefaktor: 5
 Fertigkeit: Langbogen
@@ -27599,9 +27599,9 @@ Gewicht: 3~
 EIGENSCHAFTEN:
 
 Bei jedem Treffer erleidet das Ziel 1 Schadenspunkt pro Runde für 2 Runden durch Bluten.
-Bei einem kritischen Treffer wird das Ziel krank und erleidet einen nichtkumulativen Malus von −2 auf Stärke und Geschicklichkeit für 1 Phase.
+Bei einem kritischen Treffer wird das Ziel krank und erleidet einen nichtkumulativen Malus von –2 auf Stärke und Geschicklichkeit für 1 Phase.
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W6 +1 (Stich)
 Initiativefaktor: 5
 Fertigkeit: Speer
@@ -27736,7 +27736,7 @@ EIGENSCHAFTEN:
 Stärke: auf 18 gesetzt
 
 ETW0-Malus: +2
-Schaden: 1W6 −2 (Wucht)
+Schaden: 1W6 –2 (Wucht)
 Initiativefaktor: 3
 Fertigkeit: Kampfstab
 Typ: 2-händig
@@ -27750,10 +27750,10 @@ EIGENSCHAFTEN:
 
 Der Träger ist immun gegen hinterhältige Angriffe.
 
-Charisma: −1
+Charisma: –1
 
 Rüstungsklasse: 1
-RK-Bonus: −3 gg. Klingenwaffen
+RK-Bonus: –3 gg. Klingenwaffen
 Mindeststärke: 8
 
 Gewicht: 20~
@@ -27762,7 +27762,7 @@ Gewicht: 20~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2 für Zweithand für Waffenkünstler und Säbelrassler
+ETW0-Bonus: –2 für Zweithand für Waffenkünstler und Säbelrassler
 Schadensbonus: +10 % für Klingenwaffen
 
 Gewicht: 2~
@@ -27772,8 +27772,8 @@ Gewicht: 2~
 EIGENSCHAFTEN:
 
 Geschicklichkeit: +1
-RK-Bonus: −1
-RW-Bonus: −2 gg. Zauber der Schule „Hervorrufung“
+RK-Bonus: –1
+RW-Bonus: –2 gg. Zauber der Schule „Hervorrufung“
 
 Gewicht: 3~
 @62244 = ~Rüstung des Geschichtenerzählers +2~
@@ -27786,9 +27786,9 @@ Blockiert nicht das Wirken von Zaubern
 
 Rüstungsklasse: 5
 RK-Bonus:
-  −2 gg. Klingenwaffen
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
+  –2 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
 Mindeststärke: 6
 
 Gewicht: 8~
@@ -27819,7 +27819,7 @@ Gewicht: 8~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +2 (Geschoss)
 Initiativefaktor: 4
 Fertigkeit: Schleuder
@@ -27831,7 +27831,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schadensbonus: +3 (Geschoss)
 Initiativefaktor: 3
 Fertigkeit: Schleuder
@@ -27843,7 +27843,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W6 +3 (Stich)
 Initiativefaktor: 0
 Fertigkeit: Kurzschwert
@@ -27929,7 +27929,7 @@ EIGENSCHAFTEN:
 Schaden:
   1W6 +1 (Klinge)
   1W6 +2 (Geschoss)
-Initiativefaktor: 4, zusätzlich −1 als Geschoss
+Initiativefaktor: 4, zusätzlich –1 als Geschoss
 Fertigkeit: Axt
 Typ: 1-händig
 Mindeststärke: 4
@@ -27939,7 +27939,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W10 +2 (Stich)
 Initiativefaktor: 7
 Fertigkeit: Hellebarde
@@ -27951,7 +27951,7 @@ Gewicht: 12~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 2W4+2 (Klinge)
 Initiativefaktor: 3
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -27963,7 +27963,7 @@ Gewicht: 4~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Stich)
 Initiativefaktor: 1
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -27998,14 +27998,14 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-Schlösser öffnen: −5 %
-Fallen finden: −5 %
-Taschendiebstahl: −20 %
-Leise bewegen: −10 %
+Schlösser öffnen: –5 %
+Fallen finden: –5 %
+Taschendiebstahl: –20 %
+Leise bewegen: –10 %
 Blockiert nicht das Wirken von Zaubern
 
 Rüstungsklasse: 4
-RK-Bonus: −2 gg. Klingenwaffen
+RK-Bonus: –2 gg. Klingenwaffen
 RK-Malus: +2 gg. Wuchtwaffen
 Mindeststärke: 5
 
@@ -28041,9 +28041,9 @@ Das Problem mit der Elfenfrau, die Geflüchtete von Caelars Kreuzzug in Statuen 
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −1 gg. Klinge
+RK-Bonus: –1 gg. Klinge
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6+3 (Klinge)
 Initiativefaktor: 2
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -28055,7 +28055,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Klinge)
 Initiativefaktor: 2
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -28067,7 +28067,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W3 +2 (Geschoss)
 Initiativefaktor: 0
 Fertigkeit: Wurfpfeil
@@ -28080,7 +28080,7 @@ EIGENSCHAFTEN:
 
 Kehrt sofort zum Werfer zurück.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4 +2 (Stich/Geschoss)
 Initiativefaktor: 1
 Fertigkeit: Dolch
@@ -28101,7 +28101,7 @@ Mindeststärke: 6
 Gewicht: 2~
 @62438 = ~EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden:
   1W4 +2 (Geschoss)
   1W3 +2 (Wucht)
@@ -28115,7 +28115,7 @@ Gewicht: 1~
 
 Kehrt sofort zum Werfer zurück.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4+3 (Geschoss/Wucht)
 Initiativefaktor: 1
 Fertigkeit: Kriegshammer
@@ -28130,7 +28130,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6+2 (Wucht)
 Initiativefaktor: 2
 Fertigkeit: Keule
@@ -28143,7 +28143,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −5 gg. Geschosswaffen
+RK-Bonus: –5 gg. Geschosswaffen
 
 Gewicht: 4~
 @62449 = ~Umhang der Unauffindbarkeit~
@@ -28162,7 +28162,7 @@ Bezauberung
   Reichweite: Berührung
   Dauer: 12 Stunden
   Bereich: 1 Wesen
-  Rettungswurf: Ja (−1 gg. Odemwaffen)
+  Rettungswurf: Ja (–1 gg. Odemwaffen)
 
 Charisma: +2
 
@@ -28212,7 +28212,7 @@ EIGENSCHAFTEN:
 Der Träger ist immun gegen „Befehl“, „Höherer Befehl“ und jegliches „Wort der Macht“.
 Bei 20 % der Treffer wird „Taubheit“ auf das Ziel gewirkt.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Strich)
 Initiativefaktor: 1
 Fertigkeit: Kurzschwert
@@ -28259,7 +28259,7 @@ Das Problem mit der Elfenfrau, die Geflüchtete von Caelars Kreuzzug in Statuen 
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W8 +1 (Geschoss)
 Schadensbonus: +1W3 (Kälte)
 Schusswaffe: Armbrust
@@ -28283,9 +28283,9 @@ EIGENSCHAFTEN:
 
 Rüstungsklasse: 2
 RK-Bonus:
-  −2 gg. Wuchtwaffen
-  −1 gg. Geschosswaffen
-  −1 gg. Stichwaffen
+  –2 gg. Wuchtwaffen
+  –1 gg. Geschosswaffen
+  –1 gg. Stichwaffen
 Mindeststärke: 8
 
 Gewicht: 10~
@@ -28294,10 +28294,10 @@ Gewicht: 10~
 EIGENSCHAFTEN:
 
 RK-Bonus:
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
-  −3 gg. Wuchtwaffen
-  −3 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
+  –3 gg. Wuchtwaffen
+  –3 gg. Klingenwaffen
 Mindeststärke: 4
 
 Gewicht: 2~
@@ -28316,7 +28316,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schaden: 1W6 +1 (Stich)
 Initiativefaktor: 3
 Fertigkeit: Speer
@@ -28328,7 +28328,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Stich)
 Initiativefaktor: 2
 Fertigkeit: Speer
@@ -28357,9 +28357,9 @@ In Grottenschrat, Baby-Lindwurm oder Eissalamander verwandeln (3x täglich)
 
 Rüstungklasse: 5
 RK-Bonus:
-  −2 gg. Klingenwaffen
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
+  –2 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
 Mindeststärke: 4
 
 Gewicht: 8~
@@ -29253,7 +29253,7 @@ Gewicht: 10~
 @63591 = ~Ich mache mir weder über das eine, noch über das andere Gedanken.~
 @63592 = ~Aye? Na, das is’ vielleicht die gesündeste Einstellung, die man hab’n kann. Ich für meinen Teil werd mich ausruh’n, Kräfte zurückgewinnen und wieder in die Höhlen hinein geh’n. Der Magier Kaltherd hatte ’ne Truhe, die ich mir mal genauer anscheu’n werde, wenn Ihr wisst, was ich meine.~
 @63593 = ~Ha! Ich tu’ meine Arbeit, und das gut. Stapel all die Dinger, die ich getötet hab, aufeinander, und … Na, es wär ’n ziemlich großer Stapel, das is’ alles, was ich sage.~
-@63594 = ~Und Ihr könnt drauf wett’n, dass ich da wieder reingeh’ und weitermach’, sobald ich meine Kräfte wiederhab. Wenn die Glücksmaid lächelt, kann ich vielleicht noch einen der Priester lebend find’n und tatsächlich noch bezahlt werd’n für diesen Schlamassel.~
+@63594 = ~Und Ihr könnt drauf wett’n, dass ich da wieder reingeh und weitermach, sobald ich meine Kräfte wiederhab. Wenn die Glücksmaid lächelt, kann ich vielleicht noch einen der Priester lebend find’n und tatsächlich noch bezahlt werd’n für diesen Schlamassel.~
 @63595 = ~Wenn nich’, dann hatte der Magier Kaltherd ’ne Truhe, die er unter die Lupe nehmen wollte. Er war der Erste, der gefallen is’. Bezweifle, dass er was dagegen hat, wenn ich sie mir als Bezahlung für meine Mühen nehm’.~
 @63596 = ~Die Kleriker hab’n sich nach unten gegrab’n. Fünf, sechs Tunnel hab’n sie angefangen und Ausschau gehalten nach dem, was Tiefader da auch immer gesucht hat – irgendein Metall, von dem er ’ne Vision hatte. Vision, pah … Hatte vermutlich nur einen sitzen. Aber Kaltherd is’ hinzugekommen. Scheint mir nich’ einer zu sein, der seine Zeit mit Hirngespinsten verschwendet.~
 @63597 = ~Wie auch immer, sie hab’n nach unten gegrab’n und sind auf … irgendwas gestoßen. War keine Erzader, sondern ’s war voll mit den Dingern, gegen die Ihr mir geholfen habt. ’ne Menge davon.~
@@ -29566,7 +29566,7 @@ Gewicht: 10~
 @63919 = ~Nein, das tue ich nicht. Ich konzentriere mich und schaffe Klarheit in meinem Kopf, bis das Wasser im Becken sich wieder beruhigt.~
 @63920 = ~Konzentriert Euch, Mädchen. Befreit Euren Geist von allen Gedanken.~ [BD63920]
 @63921 = ~Das sollte leicht sein. Eine Menge Leute sagen, dass da drin eh nicht viel vor sich geht.~ [BD63921]
-@63922 = ~Ihr seid durchaus witzig, Imoen, aber das wird Euch nicht weiterbringen. Was Ihr braucht, und momentan noch nicht habt, ist Konzentrationsfähigkeit.~ [BD63922]
+@63922 = ~Ihr habt durchaus Verstand, Imoen, aber das wird Euch nicht weiterbringen. Was Ihr braucht – und momentan noch nicht habt –, ist Konzentrationsfähigkeit.~ [BD63922]
 @63923 = ~Vergebt mir, Herzogin Jannath. Es ist nur … Es ist schwer. Mein bester Freund stürmt in ein Drachenmaul hinein und ich … sitze hier einfach herum und denke über Magie und so ein Zeugs nach.~ [BD63923] ~Vergebt mir, Herzogin Jannath. Es ist nur … Es ist schwer. Meine beste Freundin stürmt in ein Drachenmaul hinein und ich … sitze hier einfach herum und denke über Magie und so ein Zeugs nach.~ [BD63923]
 @63924 = ~Wenn Ihr tatsächlich über Magie nachdenken würdet, würdet Ihr nicht so viel reden.~ [BD63924]
 @63925 = ~Ich habe einen Fehler gemacht. Ich hätte <CHARNAME> niemals Caelar gegenübertreten lassen sollen, ohne dass ich dabei bin.~ [BD63925]
@@ -29664,7 +29664,7 @@ Gewicht: 10~
 @64026 = ~Der Teleportationskreis leuchtet mithilfe Eures Schlüsselsteins durch arkane Energie auf.~
 @64027 = ~Der Teleportationskreis leuchtet als Antwort auf Euren Schlüsselstein durch arkane Energie auf.~
 @64028 = ~Glühende Runen auf diesen Steinen lassen darauf schließen, dass dies ein inaktiver magischer Kreis ist.~
-@64029 = ~Wer ist da? Mein Augenlicht ist fort, aber ich kann Euch hören … und riechen. Mein dunkler Gott schickt mir Gesellschaft! Sprecht zu mir, Ihr, der nach Sonnenlicht und Blut riecht. Sagt mir, wer Ihr seid, dass Ihr mein staubiges Verlies besucht.~ [BD64029]
+@64029 = ~Wer ist da? Mein Augenlicht ist fort, aber ich kann Euch hören … und riechen. Mein dunkler Gott schickt mir Gesellschaft! Sprecht zu mir, Ihr, der nach Sonnenlicht und Blut riecht. Sagt mir, wer Ihr seid, dass Ihr mein staubiges Verlies besucht.~ [BD64029] ~Wer ist da? Mein Augenlicht ist fort, aber ich kann Euch hören … und riechen. Mein dunkler Gott schickt mir Gesellschaft! Sprecht zu mir, Ihr, die nach Sonnenlicht und Blut riecht. Sagt mir, wer Ihr seid, dass Ihr mein staubiges Verlies besucht.~ [BD64029]
 @64031 = ~Welcher dunkle Gott ist der Eurige? Es gibt so viele heutzutage …~
 @64032 = ~Seid still, Frau! Wenn ich Eure Stimme hören will, lasse ich es Euch wissen.~
 @64033 = ~Der Gott des Mordes, der hier Herrscher war, bevor Verrät und Heimtücke ihn niedergestreckt haben. Doch auch wenn ich an diesem Tag sowohl mein Augenlicht als auch meine Freiheit verloren habe, bleibe ich ihm treu ergeben.~ [BD64033]
@@ -29673,11 +29673,11 @@ Gewicht: 10~
 @64036 = ~Der Tempel liegt nun in Ruinen und Ihr seid eingesperrt, Eure Augen aus Eurem Schädel entfernt. Wie ist es soweit gekommen?~
 @64038 = ~Die Tage von Bhaal sind lange vorüber.~
 @64039 = ~Mir ist es egal, wer Ihr seid. Geht mir nicht länger auf die Nerven!~
-@64040 = ~Dass ein Kind des Mordes vor mir steht! Alles ist vorherbestimmt. Es ist kein Zufall, der Euch hierhergebracht hat, Gottkind.~ [BD64040]
+@64040 = ~Oooh, dass ein Kind des Mordes vor mir steht! Alles ist vorherbestimmt. Es ist kein Zufall, der Euch hierhergebracht hat, Gottkind.~ [BD64040]
 @64041 = ~Der niedere Gott des Verrats regiert nun hier. Sein höhnisches Gelächter verbrennt meinen Verstand. Ich werde seinen Namen nicht aussprechen. Sie wird mich niemals seinen Namen sagen hören! Ein neues Zeitalter von Bhaal steht uns bevor, und zwar bald. Die Harfner haben unsere Kinder gestohlen und getötet, aber dennoch bleibe ich treu ergeben. Der Gott des Mordes wird erneut auferstehen!~
 @64042 = ~Die Harfner haben Kinder gestohlen? Das glaube ich Euch nicht.~
 @64043 = ~Erzählt mir genau, was hier passiert ist.~
-@64044 = ~Sprecht nicht mehr von Bhaal oder von irgendetwas anderem in dieser Angelegenheit.~
+@64044 = ~Sprecht nicht mehr von Bhaal oder von irgendetwas anderem in dieser Angelegenheit!~
 @64045 = ~„Gestohlen“ ist nicht das richtige Wort. „Befreit“ ist zutreffender. Harfner retten manchmal Unschuldige aus den Händen von Kulten, die sie opfern wollen.~
 @64046 = ~Welche Geschichte soll ich vor Euch ausbreiten – die unserer gestohlenen Kinder oder die unseres Untergangs?~
 @64047 = ~Ich will von den Kindern hören.~
@@ -29852,7 +29852,7 @@ Ich sollte nach einem Tempel von Bhaal Ausschau halten, in dem möglicherweise e
 
 Oberleutnant Kharm, ein Zwerg im Dienste des Kreuzzugs, will, dass ich einen verloren gegangenen Schlüsselstein finde, der den Zugang zur Brückenfeste ermöglicht. Wenn ich das Vertrauen der Kreuzzügler gewinne, kann ich vielleicht mehr über sie herausfinden. Möglicherweise kann ich sogar diese Belagerung beenden.~
 @64183 = ~Was gibts?~ [BD64183]
-@64184 = ~Ich bin mir unsicher, die Zugbrücke der Brückenfeste herunterzulassen. Ich denke, ich bin nicht der Richtige für diese Arbeit.~
+@64184 = ~Ich bin mir unsicher, die Zugbrücke der Brückenfeste herunterzulassen. Ich denke, ich bin nicht der Richtige für diese Arbeit.~ ~Ich bin mir unsicher, die Zugbrücke der Brückenfeste herunterzulassen. Ich denke, ich bin nicht die Richtige für diese Arbeit.~
 @64186 = ~Nichts, Oberleutnant.~
 @64187 = ~Halt! Wer geht da?~
 @64188 = ~Ich bin es, <CHARNAME>, der Held von Baldurs Tor.~ ~Ich bin es, <CHARNAME>, die Heldin von Baldurs Tor.~
@@ -29875,7 +29875,7 @@ Oberleutnant Kharm, ein Zwerg im Dienste des Kreuzzugs, will, dass ich einen ver
 @64206 = ~Aber ich diene dem Kreuzzug schon für eine lange Zeit. Es muss einen Weg geben hineinzugelangen.~
 @64207 = ~Wie kann ich mich dem Barghest gegenüber als würdig erweisen?~
 @64208 = ~Ihr wollt mir sagen, dass es niemand anderen als den Barghest gibt, der die Autorität hat, mich ins Lager zu lassen?~
-@64209 = ~Oberleutnant Kharm ist derjenige, den Ihr wirklich beeindrucken wollt. Er ist für neue Rekruten verantwortlich. Kharms Neffe Keherrem ist mit seinem Trupp vor einem Zehntag verschwunden, während sie nach einem Schlüsselstein gesucht haben, der uns in die Brückenfeste bringen und uns ihre Verteidigungen durchbrechen lassen könnte.~
+@64209 = ~Oberleutnant Kharm ist derjenige, den Ihr wirklich beeindrucken wollt. Er ist für neue Rekruten verantwortlich. Kharms Neffe Keherrem ist mit seinem Trupp vor einem Zehntag verschwunden, während sie nach einem Schlüsselstein gesucht haben, der uns in die Brückenfeste bringen und uns die Verteidigungen durchbrechen lassen könnte.~
 @64210 = ~Kharm steht seinem Neffen ziemlich nah, so wie wir alle. Er ist ein feiner Kerl und hat eine große Zukunft vor sich, sofern er überhaupt eine vor sich hat. Findet Keherrem und Ihr werdet in Kharm einen Freund haben. Und Kharms Freundschaft ist das Einzige, dass Euch in naher Zeit ins Lager bringen könnte. Jetzt geht, ich habe genug Ablenkungen, ohne dass Ihr mich volljammern müsst.~
 @64211 = ~Möge das Licht immer auf Euch scheinen.~
 @64212 = ~Ihr geht am besten Eures Weges.~
@@ -30128,7 +30128,7 @@ Gewicht: 2~
 @64393 = ~Ihr drückt die Messingplatte zurück in die Vertiefung in der Steinsäule. Sie rastet mit einem hörbaren Klicken ein, gefolgt von einem sofortigen Rumpeln altertümlicher Zahnräder, die ineinander greifen.~
 @64394 = ~Bleibt weg! Es gehört mir! Es gehört MIR!~
 @64395 = ~NEIN! Dafür werde ich Euch töten! Ich werde Euch die Seele aus Eurem Körper reißen! Eure Leiden werden Legende über alle Ebenen werden!~
-@64396 = ~Das Schloss der Truhe, die dieser kleine, aber fein gewundene Schlüssel öffnet, muss höllisch kompliziert sein. Das Bild eines Zwergs, der einen juwelenbesetzten Dolch hält, wurde sorgsam in den Schlüsselkopf geätzt.
+@64396 = ~Das Schloss der Truhe, die dieser kleine, aber fein gewundene Schlüssel öffnet, muss höllisch kompliziert sein. In den Schlüsselkopf wurde sorgsam das Bild eines Zwergs, der einen juwelenbesetzten Dolch hält, geätzt.
 
 EIGENSCHAFTEN:
 
@@ -30379,7 +30379,7 @@ Gewicht: 3~
 @64476 = ~Dieser kunstvolle Metallthron ist ein eindrucksvoller Anblick, trotz der Baufälligkeit, die er nach Jahren der Nichtbeachtung aufweist.~
 @64477 = ~Verdeckt in der linken Armlehne befindet sich ein komplizierter, hölzerner Hebel. Der Mechanismus dahinter ist alt, aber handwerklich solide gemacht. Wahrscheinlich funktioniert er noch.~
 @64478 = ~Ihr zieht am Hebel in der linken Armlehne und hört das Geräusch alter Zahnräder, die ineinandergreifen. Von der Decke fällt Staub, als das Ächzen von sich bewegendem Metall durch den Komplex hallt.~
-@64479 = ~Die Flüssigkeiten, die einst das komplexe Netzwerk von Röhren und Fläschchen auf diesem Tisch gefüllt haben, sind schon lange vertrocknet, aber der Geruch von Wahnsinn liegt noch immer in der Luft.~
+@64479 = ~Die Flüssigkeiten, die einst das komplexe Netzwerk von Röhren und Fläschchen auf diesem Tisch gefüllt haben, sind schon lange vertrocknet. Aber der Geruch von Schweißfüßen und Wahnsinn liegt noch immer in der Luft.~
 @64480 = ~Als Ihr in das Becken von Blut schaut, trifft Euer Blick den einer teuflischen Figur. Nach einem kurzen Moment realisiert Ihr, dass Ihr Euch selbst anblickt, da Euer Gesicht auf der glitzernden Wasseroberfläche reflektiert wird. Aber auch als Ihr die Reflexion als das erkennt, was sie ist, erscheint sie Euch unbekannt – ein Fremder mit Eurem Gesicht.~ ~Als Ihr in das Becken von Blut schaut, trifft Euer Blick den einer teuflischen Figur. Nach einem kurzen Moment realisiert Ihr, dass Ihr Euch selbst anblickt, da Euer Gesicht auf der glitzernden Wasseroberfläche reflektiert wird. Aber auch als Ihr die Reflexion als das erkennt, was sie ist, erscheint sie Euch unbekannt – eine Fremde mit Eurem Gesicht.~
 @64481 = ~In der Mitte der Kammer wurde ein Steinsockel erbaut. Eine kreisförmige Rinne, die den Sockel umgibt, ist offenbar mit frischem Blut gefüllt.~
 @64482 = ~Diese Statue wurde aus festem Stein gehauen und stellt eine finstere Figur dar, die in einem Umhang einer alten nesserischen Machart gekleidet ist.~
@@ -30893,7 +30893,7 @@ EIGENSCHAFTEN:
 
 Bei einem kritischer Fehlschlag erleidet der Träger 1W4 Schadenspunkte durch Kälte.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4 +3 (Wucht)
 Schadensbonus:
   +1 (Kälte)
@@ -33097,7 +33097,7 @@ Bei einem kritischen Treffer erleidet das Ziel zusätzliche 2W4 Schadenspunkte d
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W10 +2 (Klinge)
 Initiativefaktor: 8
 Fertigkeit: Zweihänder
@@ -33112,7 +33112,7 @@ EIGENSCHAFTEN:
 
 Der Träger ist immun gegen Verwirrung.
 
-RK-Bonus: −1
+RK-Bonus: –1
 Schützt vor kritischen Treffern
 
 Gewicht: 2~
@@ -33448,9 +33448,9 @@ Der Träger ist immun gegen Gift.
 
 Rüstungsklasse: 4
 RK-Bonus:
-  −2 gg. Klingenwaffen
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
+  –2 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
 Mindeststärke: 6
 
 Gewicht: 7~
@@ -33461,8 +33461,8 @@ Gewicht: 7~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −4
-RW-Bonus: −3 gg. Tod
+RK-Bonus: –4
+RW-Bonus: –3 gg. Tod
 Mindeststärke: 8
 
 Gewicht: 5~
@@ -33495,7 +33495,7 @@ Belegarm hat zugestimmt, ein neues Paar Stiefel für Helvdar zu fertigen, da er 
 @67148 = ~Ich merke, dass diese Unterhaltung nicht so läuft, wie ich mir das vorgestellt hatte. Ein anderes Mal dann.~
 @67149 = ~Mein Vater hat immer gesagt: Wörter können beschönigen, aber Blut lügt nicht.~
 @67151 = ~Glaubt Ihr, dass es mir gefällt, ein Kind des Herrn des Mordes zu sein? Ich habs mir nicht ausgesucht, Sarevoks Bruder zu sein. Alles, was ich tun kann, ist zu versuchen, meine Taten für mich sprechen zu lassen. Wenn Euch das nicht genügt … Nun, es wird Euch genügen müssen. Ich kann nicht mehr tun, und das sollte ich auch nicht müssen.~ ~Glaubt Ihr, dass es mir gefällt, ein Kind des Herrn des Mordes zu sein? Ich habs mir nicht ausgesucht, Sarevoks Schwester zu sein. Alles, was ich tun kann, ist zu versuchen, meine Taten für mich sprechen zu lassen. Wenn Euch das nicht genügt … Nun, es wird Euch genügen müssen. Ich kann nicht mehr tun, und das sollte ich auch nicht müssen.~
-@67152 = ~Eine trostlose Sicht der Dinge. Ich bevorzuge es zu glauben, dass die Taten eines Einzelnen durch seinen eigenen Willen bestimmt werden.~
+@67152 = ~Eine trostlose Sicht der Dinge. Ich bevorzuge es zu glauben, dass die Taten eines Einzelnen durch seinen eigenen Willen bestimmt werden.~ ~Eine trostlose Sicht der Dinge. Ich bevorzuge es zu glauben, dass die Taten einer Einzelnen durch ihren eigenen Willen bestimmt werden.~
 @67153 = ~Euer Vater ist ein Narr, und Ihr seid keinen Deut besser, wenn Ihr so einen Schwachsinn glaubt.~
 @67154 = ~Ich hoffe, mir gefällt, was sie sagen. Bedenkt, dass es Gerüchte gibt, die besagen, dass Caelar auch ein Kind Bhaals ist. Das könnte die Dinge verkomplizieren. Um einiges.~
 @67155 = ~Ich will Euch glauben.~
@@ -33729,7 +33729,7 @@ Ich habe die vermisste Patrouille gefunden, aber sie fürs Erste nicht befreit. 
 @67323 = ~In einer Ecke des Tisches steht neben einem Stapel Pergamente, die mit verblichener Tinte beschrieben sind, ein klobiges, goldenes Kästchen und sammelt Staub an.~
 @67324 = ~Mehrere Pergamentseiten sind mit Notizen bedeckt, die von einer ruhigen und systematischen Hand geschrieben wurden. Das meiste der Schrift ist unlesbar ausgeblichen oder besteht aus arkanen Gleichungen, die jenseits Eures Verständnisses liegen. Ein paar Zeilen unten im Stapel können aber entziffert werden: 
 
-„Obgleich sich die Goldlegierung als schwieriger in der Handhabung herausstellte, als ich es gehofft hatte, bin ich noch immer überzeugt, dass sobald sie ausreichend schmiedbar ist, sie eine ideale Substanz für die Konstruktion eines Phylakteriums darstellt. Die Hitze der Elementarebene des Feuers sollte das Material biegsamer werden lassen. Ich werde in Kürze das Portal benutzen, um das versengende Inferno zu betreten. Aber zuerst muss ich dort eine geeignete Unterkunft ausfindig machen, in der ich meine Arbeit fortsetzen kann.“~
+„Obgleich sich die Goldlegierung als schwieriger in der Handhabung herausstellte, als ich es gehofft hatte, bin ich noch immer überzeugt, dass – sobald sie ausreichend schmiedbar ist – sie eine ideale Substanz für die Konstruktion eines Phylakteriums darstellt. Die Hitze der Elementarebene des Feuers sollte das Material biegsamer werden lassen. Ich werde in Kürze das Portal benutzen, um das versengende Inferno zu betreten. Aber zuerst muss ich dort eine geeignete Unterkunft ausfindig machen, in der ich meine Arbeit fortsetzen kann.“~
 @67325 = ~Die Seiten dieses Kästchens sind aus goldfarbenen, klumpigen Metall gemacht und sind dermaßen ungleichmäßig, dass der Deckel sich nicht vollständig schließen lässt. Eingeschmolzen könnte es vielleicht noch einen Wert haben. Als Behältnis ist es nutzlos.
 
 EIGENSCHAFTEN:
@@ -33865,7 +33865,7 @@ Ich habe etwas über Caelars Berater erfahren. Als Junge war Ifearnan anscheinen
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −3
+RK-Bonus: –3
 (kein Schutz vor Geschoss- und Stichwaffen) 
 Trefferpunkte: +10
 Mindeststärke: 4
@@ -33879,7 +33879,7 @@ EIGENSCHAFTEN:
 Bei 20 % der Treffer wird auf das Ziel für 3 Runden „Verwirrung“ gewirkt (Rettungswurf gg. Zauber).
 Kehrt sofort zum Werfer zurück.
 
-ETW0-Bonus: −1, zusätzlich −2 gg. Humanoide
+ETW0-Bonus: –1, zusätzlich –2 gg. Humanoide
 Schaden: 1W6 +2 (Klinge/Geschoss)
 Schadensbonus: +2 (Magie) gg. Humanoide
 Initiativefaktor: 3
@@ -33897,9 +33897,9 @@ Der Träger ist immun gegen „Verstricken“.
 
 Rüstungsklasse: 6
 RK-Bonus:
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
-  −2 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
+  –2 gg. Klingenwaffen
 Mindeststärke: 6
 
 Gewicht: 15~
@@ -33910,7 +33910,7 @@ EIGENSCHAFTEN:
 
 Intelligenz: +1
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W4 +2 (Stich) 
 Initiativefaktor: 0 
 Fertigkeit: Dolch 
@@ -35265,9 +35265,9 @@ Korlasz ist besiegt und ihre sichere Unterkunft bereinigt. Ich werde nun zum Her
 
 EIGENSCHAFTEN:
 
-RW-Bonus: −2 für Halblinge
+RW-Bonus: –2 für Halblinge
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus:
   +2 (Geschoss)
   +1 (Feuer)
@@ -35294,9 +35294,9 @@ Gewicht: 0~
 EIGENSCHAFTEN:
 
 Bei jedem Treffer erleidet das Ziel 1 Schadenspunkt durch Bluten pro Runde für 2 Runden.
-Bei jedem Treffer durch einen hinterhältigen Angriff erleidet das Ziel für 5 Runden einen nichtkumulativen Malus von −2 auf Stärke und der Träger erhält einen nichtkumulativen Bonus von +2 auf Stärke.
+Bei jedem Treffer durch einen hinterhältigen Angriff erleidet das Ziel für 5 Runden einen nichtkumulativen Malus von –2 auf Stärke und der Träger erhält einen nichtkumulativen Bonus von +2 auf Stärke.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Stich)
 Initiativefaktor: 1
 Fertigkeit: Kurzschwert
@@ -35321,10 +35321,10 @@ unsere Späher haben den Verbannten nahe der Eberfellbrücke gesehen. Erlaubt ih
 
 EIGENSCHAFTEN:
 
-Bei 10 % der Treffer erleidet das Ziel einen Malus von −1 auf die Rüstungsklasse für 1 Phase (Rettungswurf gg. Odemwaffen).
+Bei 10 % der Treffer erleidet das Ziel einen Malus von –1 auf die Rüstungsklasse für 1 Phase (Rettungswurf gg. Odemwaffen).
 Kehrt sofort zum Werfer zurück.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W3 +2 (Geschoss)
 Schadensbonus: +1 (Säure)
 Initiativefaktor: 0
@@ -35414,7 +35414,7 @@ EIGENSCHAFTEN:
 
 Bei jedem Treffer wird ein Wesen aus Feuer oder ein feuernutzendes Wesen für 3 Runden verlangsamt (Rettungswurf gg. Zauber).
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W10 +2 (Klinge/Stich – je nachdem, was besser ist)
 Schadensbonus: +1W2 (Kälte)
 Initiativefaktor: 7
@@ -35509,7 +35509,7 @@ EIGENSCHAFTEN:
 
 Bei jedem Treffer durch einen hinterhältigen Angriff wird das Ziel für 2 Runden bewusstlos (Rettungswurf gg. Tod).
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Wucht)
 Initiativefaktor: 2
 Fertigkeit: Keule
@@ -35542,7 +35542,7 @@ Heilige Macht entlehnen (1x täglich)
 
 Die Wahrscheinlichkeit eines kritischen Treffers im waffenlosen Kampf steigt um +5 %.
 
-ETW0-Bonus: −2 im waffenlosen Kampf
+ETW0-Bonus: –2 im waffenlosen Kampf
 
 Gewicht: 1~
 @69196 = ~Fels in der Brandung +2~
@@ -35550,7 +35550,7 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −3
+RK-Bonus: –3
 (kein Schutz vor Geschoss- und Stichwaffen)
 Trefferpunkte: +5, zusätzlich +5 für Zwerge
 Mindeststärke: 4
@@ -35591,7 +35591,7 @@ EIGENSCHAFTEN:
 Die Bewegungsrate des Trägers wird um 1 erhöht.
 
 Rüstungsklasse: 3
-RK-Bonus: −2 gg. Klingenwaffen
+RK-Bonus: –2 gg. Klingenwaffen
 RK-Malus: +2 gg. Wuchtwaffen
 Magiewiderstand: +10 %
 Mindeststärke: 5
@@ -35721,7 +35721,7 @@ Weisheit: +1
 
 Bei 10 % der Treffer wird „Segen“ auf den Träger gewirkt.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6+3 (Wucht)
 Initiativefaktor: 5
 Fertigkeit: Streitkolben
@@ -35736,7 +35736,7 @@ EIGENSCHAFTEN:
 
 Bei 15 % der Treffer erleidet das Ziel 1W4 Schadenspunkte und heilt den Träger um diesen Betrag. Der Träger kann dadurch nicht mehr als seine maximalen Trefferpunkte erhalten. Untote, Konstrukte und von anderen Ebenen stammende Wesen sind nicht betroffen.
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 2W4 +2 (Klinge)
 Initiativefaktor: 6
 Fertigkeit: Langschwert
@@ -35753,9 +35753,9 @@ Widerstand gg. Klingenwaffen: +10 %
 
 Rüstungsklasse: 2
 RK-Bonus:
-  −2 gg. Wuchtwaffen
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
+  –2 gg. Wuchtwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
 Mindeststärke: 8
 
 Gewicht: 15~
@@ -35781,7 +35781,7 @@ EIGENSCHAFTEN:
 
 Konstitution: +1 für Elfen und Halbelfen
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +2, zusätzlich +1 gg. Orks, Halborks und Oger
 Initiativefaktor: 4
 Fertigkeit: Kurzbogen
@@ -35793,10 +35793,10 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-Schlösser öffnen: −10 %
-Fallen finden: −10 %
-Taschendiebstahl: −10 %
-Leise bewegen: −20 %
+Schlösser öffnen: –10 %
+Fallen finden: –10 %
+Taschendiebstahl: –10 %
+Leise bewegen: –20 %
 
 Rüstungsklasse: 5
 RK-Malus:
@@ -35815,7 +35815,7 @@ Bei 10 % der Treffer verstrickt sich das Ziel für 3 Runden (Rettungswurf gg. O
 
 Geschicklichkeit: +1
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schadensbonus: +3 (Geschoss)
 Initiativefaktor: 6
 Fertigkeit: Langbogen
@@ -35830,7 +35830,7 @@ EIGENSCHAFTEN:
 
 Sinken die Trefferpunkte des Trägers unter 50 %, bekommt er einen Bonus von +1 auf Stärke für 5 Runden.
 
-RK-Bonus: −3, zusätzlich −1 gg. Geschosswaffen
+RK-Bonus: –3, zusätzlich –1 gg. Geschosswaffen
 Feuerwiderstand: +25 %
 Mindeststärke: 10
 
@@ -35857,7 +35857,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8 +2 (Klinge)
 Initiativefaktor: 3
 Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
@@ -35869,7 +35869,7 @@ Gewicht: 4~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W6 +2 (Stich)
 Initiativefaktor: 1
 Fertigkeit: Kurzschwert
@@ -36175,8 +36175,8 @@ Ich hatte meine Gründe, Julann und Rigah umzubringen. Was immer auch passiert, 
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −2
-RW-Bonus: −2
+RK-Bonus: –2
+RW-Bonus: –2
 
 Gewicht: 1~
 @69567 = ~Während einem Kampf Lebensbalken über den Figuren aller Wesen einblenden.~
@@ -36187,9 +36187,9 @@ EIGENSCHAFTEN:
 
 Kritische Treffern wirken „Magie bannen“ auf das Ziel.
 
-RW-Bonus: −2 gg. Zauber, zusätzlich −2 für Magiertöter und Inquisitoren 
+RW-Bonus: –2 gg. Zauber, zusätzlich –2 für Magiertöter und Inquisitoren 
 
-ETW0-Bonus: −2
+ETW0-Bonus: –2
 Schaden: 1W8+2 (Klinge)
 Initiativefaktor: 3
 Fertigkeit: Langschwert
@@ -36336,7 +36336,7 @@ Ich habe Nederlock über Skies Rettung informiert. Er war froh, die Neuigkeiten 
 @69688 = ~Besitztümers eines Halblings
 
 Der Halbling-Gastwirt Takos war sehr erfreut darüber, dass ich seine Familienerbstücke gefunden habe, aber weniger erfreut davon, dass ich beschlossen habe, sie zu behalten. Der Idiot hat mich angegriffen. Ein vergeblicher Versuch.~
-@69689 = ~Ihr wurdet verflucht und bekommt einen Malus von −1 auf Eure Rettungswürfe.~
+@69689 = ~Ihr wurdet verflucht und bekommt einen Malus von –1 auf Eure Rettungswürfe.~
 @69690 = ~Schluck und das Verlies
 
 Nun, da ich das versprochene Versteck leergeräumt habe, sollte ich wieder zu Schluck im Oger-Lager über Tage gehen.~
@@ -36355,15 +36355,15 @@ Hyginus hat zugestimmt, dass ich ihn heilen darf, sobald ich einen Priester gefu
 @69700 = ~Das kann ich tun. Mein Onkel Kharm kann Euch reinbringen. Ich werde dafür sorgen, holt mich nur hier raus.~
 @69701 = ~He, der Held kämpft gegen diese Söldner!~ ~He, die Heldin kämpft gegen diese Söldner!~
 @69702 = ~Es müssen Gegner sein. Ergreift sie!~
-@69707 = ~Die Abzüge des Trägers reduzieren sich auf −2 mit der Hauptwaffe und −6 mit der Zweitwaffe.~
-@69708 = ~Die Abzüge des Trägers reduzieren sich auf 0 mit der Hauptwaffe und −4 mit der Zweitwaffe.~
-@69709 = ~Die Abzüge des Trägers reduzieren sich auf 0 mit der Hauptwaffe und −2 mit der Zweitwaffe.~
-@69710 = ~Der Benutzer erhält einen Bonus von +1 auf Schaden, einen Bonus von −2 auf Initiative und verursacht bei einer gewürfelten 19 oder 20 (statt nur bei einer gewürfelten 20) einen kritischen Treffer mit einer Zweihandwaffe.~
-@69711 = ~Der Benutzer erhält einen weiteren Bonus von −2 auf Initiative.~
-@69712 = ~Der Träger erhält einen Bonus von −1 auf seine Rüstungsklasse und verursacht bei einem Trefferwurf von 19 oder 20 einen kritischen Treffer.~
-@69713 = ~Der Träger erhält einen RK-Bonus von −2 und verursacht bei einem Trefferwurf von 19 oder 20 einen kritischen Treffer.~
-@69714 = ~Der Träger erhält einen Bonus von −2 auf seine Rüstungsklasse gegen Geschosswaffen. HINWEIS: Trotz des Namens dieses Stils erhält jede einhändige Nahkampfwaffe in Kombination mit einem Schild die genannten Boni.~
-@69715 = ~Der Träger erhält einen Bonus von −4 auf seine Rüstungsklasse gegen Geschosswaffen. HINWEIS: Trotz des Namens dieses Stils erhält jede einhändige Nahkampfwaffe in Kombination mit einem Schild die genannten Boni.~
+@69707 = ~Die Abzüge des Trägers reduzieren sich auf –2 mit der Hauptwaffe und –6 mit der Zweitwaffe.~
+@69708 = ~Die Abzüge des Trägers reduzieren sich auf 0 mit der Hauptwaffe und –4 mit der Zweitwaffe.~
+@69709 = ~Die Abzüge des Trägers reduzieren sich auf 0 mit der Hauptwaffe und –2 mit der Zweitwaffe.~
+@69710 = ~Der Benutzer erhält einen Bonus von +1 auf Schaden, einen Bonus von –2 auf Initiative und verursacht bei einer gewürfelten 19 oder 20 (statt nur bei einer gewürfelten 20) einen kritischen Treffer mit einer Zweihandwaffe.~
+@69711 = ~Der Benutzer erhält einen weiteren Bonus von –2 auf Initiative.~
+@69712 = ~Der Träger erhält einen Bonus von –1 auf seine Rüstungsklasse und verursacht bei einem Trefferwurf von 19 oder 20 einen kritischen Treffer.~
+@69713 = ~Der Träger erhält einen RK-Bonus von –2 und verursacht bei einem Trefferwurf von 19 oder 20 einen kritischen Treffer.~
+@69714 = ~Der Träger erhält einen Bonus von –2 auf seine Rüstungsklasse gegen Geschosswaffen. HINWEIS: Trotz des Namens dieses Stils erhält jede einhändige Nahkampfwaffe in Kombination mit einem Schild die genannten Boni.~
+@69715 = ~Der Träger erhält einen Bonus von –4 auf seine Rüstungsklasse gegen Geschosswaffen. HINWEIS: Trotz des Namens dieses Stils erhält jede einhändige Nahkampfwaffe in Kombination mit einem Schild die genannten Boni.~
 @69716 = ~Hmmm, ja?~ [GNOMEM03]
 @69721 = ~Ihr … Ihr würdet doch einem Gnom nichts antun, oder?~ [GNOMEM02]
 @69723 = ~Ein verteufelt komplizierter Mechanismus hat den Hebel im Arm des Throns blockiert. Ihr könnt nicht herausfinden, wie man ihn in seine ursprüngliche Position bekommt.~
@@ -36556,7 +36556,7 @@ Imoen und <CHARNAME>, wieder vereint. Jetzt, da ich frei bin, kann ich meinen Na
 @69904 = ~Siehst du, Mirlena? Ich hab ja gesagt, dass <PRO_HESHE> uns nicht helfen wird.~
 @69905 = ~Wir waren tagelang auf der Straße unterwegs, <PRO_LADYLORD>. Ich weiß nicht, für wie lange.~
 @69906 = ~Die verdammte Caelar und ihre verdammten Kreuzzügler haben unser Haus bis auf die Grundmauern niedergebrannt. Bei den Höllen, sogar das gesamte Dorf.~
-@69907 = ~Wir haben uns auf dem Weg nach Baldurs Tor bis hierher durchgeschlagen. Ich frage mich, ob Ihr mir sagen könntet, wie weit ich noch zu gehen habe.~
+@69907 = ~Wir haben uns auf dem Weg nach Baldurs Tor bis hierher durchgeschlagen. Ich frage mich, ob Ihr mir sagen könntet, wie weit wir noch zu gehen haben.~
 @69908 = ~Ihr habt noch ein wenig Strecke vor Euch, fürchte ich. Hier, nehmt 10 Goldstücke. Sie werden Euch im Feldlager den Weg runter eine ordentliche Mahlzeit und Nachtlager ermöglichen.~
 @69909 = ~Ihr habt noch ein wenig Strecke vor Euch, fürchte ich. Ihr könnt eventuell im Feldlager den Weg runter eine ordentliche Mahlzeit und Nachtlager finden.~
 @69910 = ~Einen langen Weg. Am besten geht Ihr sofort weiter, solange Ihr noch könnt.~
@@ -36625,7 +36625,7 @@ Imoen und <CHARNAME>, wieder vereint. Jetzt, da ich frei bin, kann ich meinen Na
 @69973 = ~Versucht es und ich werde Euch vielleicht auch etwas verpassen.~
 @69974 = ~Öder als das Leben auf dem Anwesen meines Vaters, und das will was heißen.~
 @69975 = ~Ihr benehmt Euch wie ein trotziges Kind, Skie. Merkt Ihr denn nicht, dass Ihr durch Euer rücksichtsloses Verhalten viel mehr als nur Euer eigenes Leben aufs Spiel setzt?~
-@69976 = ~Nun denn, Ihr hattet Euren Spaß und ich bin sicher, dass Korporal Bence Euch vermisst, daher …~
+@69976 = ~Nun denn, Ihr hattet Euren Spaß und ich bin sicher, dass Korporal Duncan Euch vermisst, daher …~
 @69977 = ~Ich habe genug von Euch gehört. Zurück ins Lager!~
 @69978 = ~Ihr denkt, diese Rüpel seien eine Gefahr für mich gewesen? Ihr wisst gar nicht, wozu ich fähig bin, oder? Und ich dachte, wir würden an einem Strang ziehen.~
 @69979 = ~An einem Strang ziehen?~
@@ -36666,9 +36666,9 @@ Widerstand gg. Geschosswaffen: +25 %
 
 Rüstungsklasse: 1
 RK-Bonus:
-  −1 gg. Stichwaffen
-  −1 gg. Geschosswaffen
-  −3 gg. Klingenwaffen
+  –1 gg. Stichwaffen
+  –1 gg. Geschosswaffen
+  –3 gg. Klingenwaffen
 Mindeststärke: 8
 
 Gewicht: 25~
@@ -36773,7 +36773,7 @@ Ich habe das Kopfstück für einen Stab in einem der Räume hier unten gefunden.
 @70084 = ~Äh, ich meinte … Es war nur Arbeit, wisst Ihr? Keine große Sache, ich werde schon eine andere finden. Will keinen Ärger. Ich werde Euch Euren Angelegenheiten überlassen, wenn Ihr mich meinen überlasst. In Ordnung?~
 @70085 = ~Kunan~
 @70086 = ~Hallo da, Freund. Wenn ich Euch einen Rat geben darf: In diesen Gefilden gibt es überall Spinnen. Kleine, große, richtig große. Wenn Euch Euer Leben lieb ist, dann geht in keine der Höhlen, auf die Ihr stoßt.~ ~Hallo da, Freundin. Wenn ich Euch einen Rat geben darf: In diesen Gefilden gibt es überall Spinnen. Kleine, große, richtig große. Wenn Euch Euer Leben lieb ist, dann geht in keine der Höhlen, auf die Ihr stoßt.~
-@70087 = ~Möge Tymora Euch gewogen sein. Lebt wohl.~
+@70087 = ~Möge Tymora Euch wohlgesonnen sein. Lebt wohl.~
 @70088 = ~Nuuber~
 @70089 = ~He da! Ich bin Nuuber. Ich suche nach dem Kreuzzug.~
 @70091 = ~Eine Frau mit dem Namen Kailer führt ihn an. Den Kreuzzug. Das sagen zumindest alle.~
@@ -36810,7 +36810,7 @@ EIGENSCHAFTEN:
 
 Durch den Träger beschworene Geister bekommen einen Bonus von +10 Trefferpunkten.
 
-RK-Bonus: −2
+RK-Bonus: –2
 
 Gewicht: 0~
 @70127 = ~Tymora möge Euch gewogen sein, <CHARNAME>. Nicht, dass Ihr es brauchen würdet.~ [BD70127]
@@ -36826,7 +36826,7 @@ Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Dieser Zauber umgibt das Ziel mit einer magischen Barriere im Abstand von 30 cm. Geister, magische Wesen, Elementare und geisterhafte Untote erhalten einen Malus von −2 auf ihre Trefferwürfe, wenn sie das geschützte Wesen angreifen. Zudem erhält das Ziel einen Bonus von +3 auf Rettungswürfe gegen alle Zauber der Schule „Verzauberung“. Der Zauber kann nicht auf Geister, magische Wesen, Elementare und geisterhafte Untote gewirkt werden.~
+Dieser Zauber umgibt das Ziel mit einer magischen Barriere im Abstand von 30 cm. Geister, magische Wesen, Elementare und geisterhafte Untote erhalten einen Malus von –2 auf ihre Trefferwürfe, wenn sie das geschützte Wesen angreifen. Zudem erhält das Ziel einen Bonus von +3 auf Rettungswürfe gegen alle Zauber der Schule „Verzauberung“. Der Zauber kann nicht auf Geister, magische Wesen, Elementare und geisterhafte Untote gewirkt werden.~
 @70131 = ~Infernalischer Austausch~
 @70132 = ~Verzehrende Schmerzen~
 @70134 = ~Eure bescheidenen Anfänge in der Bibliothek von Kerzenburg hielten Euch nicht davon ab, den Eisenthron herauszufordern. So wurdet Ihr zum Helden der Stadt Baldurs Tor.~ [BD70134] ~Eure bescheidenen Anfänge in der Bibliothek von Kerzenburg hielten Euch nicht davon ab, den Eisenthron herauszufordern. So wurdet Ihr zur Heldin der Stadt Baldurs Tor.~ [BD70134]
@@ -36897,7 +36897,7 @@ Diese einzigartige Fähigkeit erlaubt es Caelar, einmal am Tag einem Gegner eine
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W6 +3 (Geschoss)
 Schusswaffen: Bogen
 
@@ -36906,7 +36906,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W8 +3 (Geschoss)
 Schusswaffe: Armbrust
 
@@ -36915,7 +36915,7 @@ Gewicht: 0~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 1W4 +4 (Geschoss)
 Schusswaffe: Schleuder
 
@@ -37076,7 +37076,7 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 
 Gewicht: 2~
 @70358 = ~Handschuhe der Waffenkunde~
@@ -37084,7 +37084,7 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-ETW0-Bonus: −1
+ETW0-Bonus: –1
 Schadensbonus: +2
 
 Gewicht: 1~
@@ -37108,16 +37108,16 @@ Gewicht: 2~
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −1
-RW-Bonus: −1
+RK-Bonus: –1
+RW-Bonus: –1
 
 Gewicht: 0~
 @70365 = ~Dieses Amulett verbessert die Rüstungsklasse und Rettungswürfe des Trägers gegen alle Formen eines Angriffs. Die magischen Eigenschaften des Amuletts verhindern, dass es gleichzeitig mit anderen magischen Gegenständen, inklusive verzauberter Rüstung, getragen werden kann.
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −1
-RW-Bonus: −1
+RK-Bonus: –1
+RW-Bonus: –1
 
 Gewicht: 1~
 @70366 = ~Wir können Euch das nicht tun lassen, mein Fürst …~ [BD70366]
@@ -37416,14 +37416,14 @@ But thank you for staying to the end anyway."
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −3 gg. Klingenwaffen
+RK-Bonus: –3 gg. Klingenwaffen
 
 Gewicht: 2~
 @70383 = ~Die komplizierten Muster, die mit goldenem Garn in das Leder genäht sind, lassen den Gürtel eher dekorativ als nützlich erscheinen. Aber genauere Betrachtung lässt erkennen, dass er zu mehr fähig ist – dem Gewähren von Schutz gegen Hämmer, Keulen und anderen Wuchtwaffen.
 
 EIGENSCHAFTEN:
 
-RK-Bonus: −4 gg. Wuchtwaffen
+RK-Bonus: –4 gg. Wuchtwaffen
 
 Gewicht: 2~
 @70384 = ~Gürtel des Durchbohrens~
@@ -37432,8 +37432,8 @@ Gewicht: 2~
 EIGENSCHAFTEN:
 
 RK-Bonus:
-  −3 gg. Geschosswaffen
-  −3 gg. Stichwaffen
+  –3 gg. Geschosswaffen
+  –3 gg. Stichwaffen
 
 Gewicht: 2~
 @70386 = ~000000000-Auto-Save~
@@ -38153,7 +38153,7 @@ Der Träger ist immun gegen Erschöpfung.
 
 Bei 10 % der Treffer wird „Gesang“ mit dem Träger als Zentrum gewirkt.
 
-ETW0-Bonus: −3
+ETW0-Bonus: –3
 Schaden: 2W4 +3 (Wucht)
 Schadensbonus: +1 (Feuer)
 Initiativefaktor: 4
