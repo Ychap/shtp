@@ -16,11 +16,11 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom %%date%%. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom 2022-10-29. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
-- BG1:EE: %%bg1%%
-- BG:Sod: %%bgsod%%
-- BG2:EE: %%bg2%%
+- BG1:EE: 4533
+- BG:Sod: 29949
+- BG2:EE: 22103
 
 
 2  INHALTE
