@@ -5,6 +5,7 @@ INHALT
    2.1  Änderungen für alle EE-Teile
    2.2  Änderungen für BG1:EE
    2.3  Änderungen für BG:SoD
+   2.4  Änderungen für BG2:EE
 3  Hinweise
 4  Installation
    4.1  Windows 64 Bit
@@ -15,11 +16,11 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom 2022-08-13. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom %%date%%. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
-- BG1:EE: 4418
-- BG:Sod: 29943
-- BG2:EE: 19881
+- BG1:EE: %%bg1%%
+- BG:Sod: %%bgsod%%
+- BG2:EE: %%bg2%%
 
 
 2  INHALTE
@@ -28,7 +29,7 @@ Diese Übersetzung ist auf dem Stand vom 2022-08-13. Die originale deutschen Üb
 2.1 ÄNDERUNGEN FÜR ALLE EE-TEILE
 
 - Formale und inhaltliche Vereinheitlichungen für eine einheitliche Verwendung von Begriffen
-  („Zeit der Klagen“ und „Zeit der Unruhen“ -> „Zeit der Sorgen“, „Hochmoor“ -> „Hohe Heide“ uvm.),
+  („Zeit der Klagen“ und „Zeit der Unruhen“ -> „Zeit der Sorgen“, „Hochmoor“ -> „Hohe Heide“, „Zentarim“ -> „Zhentarim“ uvm.),
 
 - Diverse Rechtschreibkorrekturen
   („fort ging“ -> „fortging“, „hierher zu kommen“ -> „hierherzukommen“, „kennen lernen“ -> „kennenlernen“, „acht geben“ -> „achtgeben“, „soviel“ -> „so viel“, „Leid tun“ -> „leidtun“ uvm.),
@@ -69,15 +70,27 @@ Diese Übersetzung ist auf dem Stand vom 2022-08-13. Die originale deutschen Üb
 - Verwendung von zwei Leerzeichen bei Einrückungen statt einem
   (bei Gegenstandsbeschreibungen, Zaubern, Klassen, etc.),
 
-- Korrekturen von Anschlussfehlern in Dialogen und
+- Korrekturen von Anschlussfehlern in Dialogen,
+
+- Verbesserte Nutzung von Ausrufezeichen bei Imperativen
+  („Geht jetzt.“ -> „Geht jetzt!“),
 
 - Korrigierte Beschreibung von „Tote erwecken“
-  („Rettungswurf: Speziell“ -> „Rettungswurf: Nein“).
+  („Rettungswurf: Speziell“ -> „Rettungswurf: Nein“),
+
+- Umbenennung des „Dread Wolf“ wegen Namensgleichheit mit „Dire Wolf“ (Danke Jarl)
+  („Schreckenswolf“ -> „Untoter Wolf“),
+
+- Vereinheitlichung der Schreibweise der Unbändigen Magie
+  („unbändige Magie/Woge“ -> „Unbändige Magie/Woge“),
+
+- Geänderter Begriff des Wealdath
+  („Wealdath“ -> „Tethirwald“).
 
 
 2.2  ÄNDERUNGEN FÜR BG1:EE
 
-- Korrigiertes Monty-Python-Zitat
+- Korrigiertes Monty-Python-Zitat #15479
   („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“).
 
 
@@ -126,6 +139,32 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
  Pritchard                Pritchard                 Peptram                     
 ----------------------------------------------------------------------------
 
+
+2.4  ÄNDERUNGEN FÜR BG2:EE
+
+- Namen des Händlers im Seeschatz vereinheitlicht
+  („Marcus“/„Markus“ -> „Markus“),
+
+- Namen des Diebesgilden-Verwalters vereinheitlicht
+  („Lathan“/„Lathen“ -> „Lathan“),
+
+- Valygars Nachnamen vereinheitlicht
+  („Corhtala“/„Corthala“ -> „Corthala“),
+
+- Umbenennung des Betrachters in der Sahuagin-Stadt nach offizieller Bezeichnung
+  („Zuschauer“ -> „Beobachter“),
+
+- Vereinheitlichung von Voghilns Beinamen
+  („Voghiln der Gewaltige“ -> „Voghiln der Mächtige“),
+
+- Vereinheitlichung der Bezeichnung der Glocke der Herbeirufung
+  („Glocke der Beschwörung“ -> „Glocke der herebirufung“,
+
+- Vereinheitlichung von Nyalees Namen
+  („Nyaelee“ -> „Nyalee“),
+
+- Korrigiertes Eine-Frage-der-Ehre-Zitat #64666
+  („Ihr wollt die Wahrheit? Ihr könnt mit der Wahrheit nicht umgehen!“ -> „Ihr wollt die Wahrheit? Ihr könnt die Wahrheit doch gar nicht vertragen!“).
 
 3  HINWEISE
 
