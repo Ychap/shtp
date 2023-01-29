@@ -16,11 +16,11 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom 2022-10-29. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom 2023-01-29. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
-- BG1:EE: 4533
-- BG:Sod: 29949
-- BG2:EE: 22103
+- BG1:EE: 4732
+- BG:Sod: 29948
+- BG2:EE: 22456
 
 
 2  INHALTE
@@ -91,7 +91,9 @@ Diese Übersetzung ist auf dem Stand vom 2022-10-29. Die originale deutschen Üb
 2.2  ÄNDERUNGEN FÜR BG1:EE
 
 - Korrigiertes Monty-Python-Zitat #15479
-  („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“).
+  („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“) und
+- Vollständig übersetzter Name von Firebead 
+  („Firebead Elfenhaar“ -> „Feuerperle Elfenhaar“).
 
 
 2.3  ÄNDERUNGEN FÜR BG:SOD
