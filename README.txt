@@ -16,11 +16,11 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom 2023-01-29. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom 2023-07-15. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
-- BG1:EE: 4732
-- BG:Sod: 29948
-- BG2:EE: 22456
+- BG1:EE: 4802
+- BG:Sod: 29816
+- BG2:EE: 22718
 
 
 2  INHALTE
@@ -91,9 +91,13 @@ Diese Übersetzung ist auf dem Stand vom 2023-01-29. Die originale deutschen Üb
 2.2  ÄNDERUNGEN FÜR BG1:EE
 
 - Korrigiertes Monty-Python-Zitat #15479
-  („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“) und
+  („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“),
 - Vollständig übersetzter Name von Firebead 
-  („Firebead Elfenhaar“ -> „Feuerperle Elfenhaar“).
+  („Firebead Elfenhaar“ -> „Feuerperle Elfenhaar“),
+– Verwendung der weiblichen Form für Vai
+ („Offizier Vai“ -> „Offizierin Vai“) und
+ – Änderung des Namens von Petrines Katze
+  („Angel“ -> „Engelchen“).
 
 
 2.3  ÄNDERUNGEN FÜR BG:SOD
@@ -113,32 +117,33 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
 ----------------------------------------------------------------------------
  Englischer Begriff       Übersetzung von Beamdog   Shai Huluds Text-Patch
 ----------------------------------------------------------------------------
- Fenster                  Fenster                   Fester                      
- Phossey Dugdeep          Phossey Tiefschürfer      Poschne Tiefschürfer        
- Hooded Man               Mann mit Kapuze           Vermummter Mann             
+ Andrus                   Andrus                    Andra
+ Aun Argent               Aun Argent                Aun Silberweiß
+ Bridgefort               Brückenfort               Brückenfeste
+ Caelar Argent            Caelar Argent             Caelar Silberweiß
+ Coalition camp           Koalitionslager           Bündnislager
+ Coats Way Crossing       Küstenwegübergang         Küstenwegquerung
+ Coast Way Forest         Küstenwegforst            Küstenwegwald
+ Crusader                 Kreuzzritter/Kreuzfahrer  Kreuzzügler
+ Dahk Hensleigh           Dahk Hensleigh            Dahk Henslai
+ Estebarre                Estebarre                 Estebar
+ Fenster                  Fenster                   Vensther                
+ Gnarg Big-Bug            Gnarg Big-Bug             Gnarg Großmücke
+ Hephernaan               Hephernaan                Ifearnan
+ Hooded Man               Mann mit Kapuze           Vermummter Mann
  M'Khiin Grubdoubler      M'Khiin Madendoppler      M’Khiin Doppelfraß
- Minsc                    Minsc                     Minsk                       
- Caelar Argent            Caelar Argent             Caelar Silberweiß           
- Hephernaan               Hephernaan                Ifearnan                    
- Andrus                   Andrus                    Andra                       
- Aun Argent               Aun Argent                Aun Silberweiß              
- Crusader                 Kreuzzritter/Kreuzfahrer  Kreuzzügler                 
- Bridgefort               Brückenfort               Brückenfeste                
- Dahk Hensleigh           Dahk Hensleigh            Dahk Henslai                
- Estebarre                Estebarre                 Estebar                     
- Gnarg Big-Bug            Gnarg Big-Bug             Gnarg Großmücke             
- Nederlok                 Nederlok                  Nederlock                   
- Patrescus                Patrescus                 Patreskus                   
- Rayphus Goodtree         Rayphus Gutbaum           Raifus Gutbaum              
- Rhonda Swiftfootsdottir  Rhonda Swiftfootsdottir   Rhonda Schnellfußdottir     
- Thrix the Profane        Thrix der Profane         Thrix der Gottlose          
- Uxley                    Uxley                     Uxlai                       
- Coast Way Forest         Küstenwegforst            Küstenwegwald               
- Troll Claw Forest        Trollklauenwald           Trollklauen-Wälder          
- Coats Way Crossing       Küstenwegübergang         Küstenwegquerung            
- coalition camp           Koalitionslager           Bündnislager                
- Myrleena                 Myrleena                  Mirlena                     
- Pritchard                Pritchard                 Peptram                     
+ Minsc                    Minsc                     Minsk
+ Myrleena                 Myrleena                  Mirlena
+ Nederlok                 Nederlok                  Nederlock
+ Patrescus                Patrescus                 Patreskus
+ Phossey Dugdeep          Phossey Tiefschürfer      Poschne Tiefschürfer
+ Pritchard                Pritchard                 Peptram
+ Rayphus Goodtree         Rayphus Gutbaum           Raifus Gutbaum
+ Rhonda Swiftfootsdottir  Rhonda Swiftfootsdottir   Rhonda Schnellfußdottir
+ Slug                     Slug                      Schluck
+ Thrix the Profane        Thrix der Profane         Thrix der Gottlose
+ Troll Claw Forest        Trollklauenwald           Trollklauen-Wälder
+ Uxley                    Uxley                     Uxlai
 ----------------------------------------------------------------------------
 
 
@@ -160,7 +165,7 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
   („Voghiln der Gewaltige“ -> „Voghiln der Mächtige“),
 
 - Vereinheitlichung der Bezeichnung der Glocke der Herbeirufung
-  („Glocke der Beschwörung“ -> „Glocke der herebirufung“,
+  („Glocke der Beschwörung“ -> „Glocke der Herbeirufung“,
 
 - Vereinheitlichung von Nyalees Namen
   („Nyaelee“ -> „Nyalee“),
