@@ -16,11 +16,12 @@ INHALT
 
 1  VERSION
 
-Diese Übersetzung ist auf dem Stand vom 2023-07-15. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
-- BG1:EE: 4802
-- BG:Sod: 29816
-- BG2:EE: 22718
+Diese Übersetzung ist auf dem Stand vom 2023-11-30. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+
+- BG1:EE: 4979
+- BG:Sod: 29828
+- BG2:EE: 23256
 
 
 2  INHALTE
@@ -90,14 +91,16 @@ Diese Übersetzung ist auf dem Stand vom 2023-07-15. Die originale deutschen Üb
 
 2.2  ÄNDERUNGEN FÜR BG1:EE
 
-- Korrigiertes Monty-Python-Zitat #15479
+- Korrigiertes „Monty Python“-Zitat #15479
   („Ohhhh, ich bin Holzfäller, wenn ich's doch sag - Ich arbeit die Nacht und schlaf am Tag!“ -> „Ohhhh, ich bin Holzfäller und mir gehts gut, am Tag packt mich die Arbeitswut!“),
 - Vollständig übersetzter Name von Firebead 
   („Firebead Elfenhaar“ -> „Feuerperle Elfenhaar“),
 – Verwendung der weiblichen Form für Vai
  („Offizier Vai“ -> „Offizierin Vai“) und
  – Änderung des Namens von Petrines Katze
-  („Angel“ -> „Engelchen“).
+  („Angel“ -> „Engelchen“),
+- Übersetzter Name von Lord Foreshadow 
+  („Lord Foreshadow“ -> „Fürst Vorahnung“).
 
 
 2.3  ÄNDERUNGEN FÜR BG:SOD
@@ -170,10 +173,12 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
 - Vereinheitlichung von Nyalees Namen
   („Nyaelee“ -> „Nyalee“),
 
-- Korrigiertes Eine-Frage-der-Ehre-Zitat #64666
+- Korrigiertes „Eine Frage der Ehre“-Zitat #64666
   („Ihr wollt die Wahrheit? Ihr könnt mit der Wahrheit nicht umgehen!“ -> „Ihr wollt die Wahrheit? Ihr könnt die Wahrheit doch gar nicht vertragen!“).
 
+
 3  HINWEISE
+
 
 Wenn eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installationsdatei der installierten Version.
 
@@ -185,6 +190,7 @@ Im Zusammenspiel mit anderen Mods ist es ratsam, den Text-Patch vor anderen Mods
 
 
 4  INSTALLATION
+
 
 Wenn Ihr die Enhanced-Editions von GOG oder Steam verwendet, müsst Ihr das Spiel erst vorbereiten, bevor Ihr Mods installieren könnt. Hierfür gibt es zwei Möglichkeiten:
 
@@ -232,5 +238,6 @@ f) Schließt das Terminal wieder.
 
 
 5 RÜCKMELDUNG BEI FEHLERN
+
 
 Die Mod wird unter https://www.baldurs-gate.de/index.php?threads/shai-huluds-text-patch.45417/ gepflegt. Dort können Fragen oder Hinweise auf Rechtschreibfehler o. ä. platziert werden.
