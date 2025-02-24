@@ -18,11 +18,11 @@ INHALT
 1  VERSION
 
 
-Diese Übersetzung ist auf dem Stand vom %%date%%. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
+Diese Übersetzung ist auf dem Stand vom 2025-02-24. Die originale deutschen Übersetzung wurde in der nachfolgende Anzahl an Strings verändert:
 
-- BG1:EE: %%bg1%%
-- BG:Sod: %%bgsod%%
-- BG2:EE: %%bg2%%
+- BG1:EE: 5209
+- BG:Sod: 29917
+- BG2:EE: 24211
 
 
 2  INHALTE
@@ -90,10 +90,18 @@ Diese Übersetzung ist auf dem Stand vom %%date%%. Die originale deutschen Über
   („Wealdath“ -> „Tethirwald“),
 
 - vereinheitlichter Sprachstil bei Vertrauten
-  (beschreibende Texte in Kalmmern, ausgesprochene Texte ohne Anführungszeichen) und
+  (beschreibende Texte in Kalmmern, ausgesprochene Texte ohne Anführungszeichen),
 
 - Vereinheitlichung der Schreibweise von „pit fiend“
-  („Höllenschlundscheusal“ -> „Höllenschlundteufel“).
+  („Höllenschlundscheusal“ -> „Höllenschlundteufel“),
+
+- Vereinheitlichung der Schreibweise von Selûne
+  („Selune/Selûne“ -> „Selûne“),
+
+- Vereinheitlichte Beschrebung des Effekts Handlungsfreiheit und
+
+- Vereinheitlichung des Geschlechts von Abyss
+  („die Abyss“ -> „der Abyss“).
 
 
 2.2  ÄNDERUNGEN FÜR BG1:EE
@@ -113,11 +121,16 @@ Diese Übersetzung ist auf dem Stand vom %%date%%. Die originale deutschen Über
 - Übersetzter Name von Lord Foreshadow 
   („Lord Foreshadow“ -> „Fürst Vorahnung“),
 
+- Korrigierte Fehlübersetzung bei Tagebucheintrag	
+  („Streit um den Eisenthron“ -> „Konkurrenz für den Eisenthron“),
+
+- Übersetzter Name von Berrun Ghastkill 
+  („Berrun Ghastkill“ -> „Berrun Grultöter“),
+
 - Vereinheitlichte Erwähnung und Korrektur des Verzauberungsbonus im Namen von Waffen
   („Nachtschlag +1“ -> „Nachtschlag +2“,
    „Baldurans Schwert“ -> „Baldurans Schwert +1“,
    „Streitkolben“ (DEVA.ITM) -> „Streitkolben +3“,
-   „Kurzbogen“ (GODBOW.ITM) -> „Kurzbogen +4“,
    „Zweihänder +1“ (SKELWASU.ITM) -> „Zweihänder +3“,
    „Die Führung +2“ -> „Die Führung +5“) und
 
@@ -125,7 +138,6 @@ Diese Übersetzung ist auf dem Stand vom %%date%%. Die originale deutschen Über
   („Nimmervoller Beutel […] Gewicht 2“ -> „Nimmervoller Beutel […] Gewicht 9“,
    „Die Pranken des Geparden […] Gewicht 4“ -> „Die Pranken des Geparden […] Gewicht 0“,
    „Streitkolben +3 […] Gewicht 10“ -> „Streitkolben +3 […] Gewicht 8“).
-
 
 
 2.3  ÄNDERUNGEN FÜR BG:SOD
@@ -189,7 +201,7 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
   („Lathan/Lathen“ -> „Lathan“),
 
 - Vereinheitlichung von Valygars Nachnamen
-  („Corhtala“/„Corthala“ -> „Corthala“),
+  („Corhtala/Corthala“ -> „Corthala“),
 
 - Umbenennung des Betrachters in der Sahuagin-Stadt nach offizieller Bezeichnung
   („Zuschauer“ -> „Beobachter“),
@@ -233,7 +245,6 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
    „Stecken der Beherrschung“ -> „Stecken der Beherrschung +2“,
    „Lilarcor“ -> „Lilarcor +3“,
    „Die Führung +2“ -> „Die Führung +5“,
-   „Kurzbogen“ (GODBOW.ITM) -> „Kurzbogen +4“,
    „Drowbasla“ -> „Drowbasla +3“,
    „Abyssklinge“ -> „Abyssklinge +3“),
 
@@ -246,14 +257,23 @@ Unterschiede dieser Übersetzung gegenüber der offiziellen Übersetzung sind zu
    „Pellans Schild +2 […] Gewicht 4“ -> „Pellans Schild +2 […] Gewicht 10“,
    „Drowbasla +3 […] Gewicht 2“ -> „Drowbasla +3 […] Gewicht 3“,
    „Die Klaue des Schwarzen Leoparden […] Gewicht 2“ -> „Die Klaue des Schwarzen Leoparden […] Gewicht 1“,
-   „Unbändige Schleuder +1 […] Gewicht 1“ -> „Unbändige Schleuder +1 […] Gewicht 0“).
+   „Unbändige Schleuder +1 […] Gewicht 1“ -> „Unbändige Schleuder +1 […] Gewicht 0“),
 
 - Korrigierte Mindeststärke bei Gegenständen
   („Umhang des Hochwaldes +1 […]“ -> „Umhang des Hochwaldes +1 […] Mindeststärke: 13“,
    „Prunkharnisch der Firecams […]“ -> „Prunkharnisch der Firecams […] Mindeststärke: 15“,
    „Familienschild der Delryns […]“ -> „Familienschild der Delryns […] Mindeststärke: 14“,
    „Stecken des Hochwaldes +2 […]“ -> „Stecken des Hochwaldes +2 […] Mindeststärke: 13“,
-   „Strahlendes Zepter […]“ -> „Strahlendes Zepter […] Mindeststärke: 5“).
+   „Strahlendes Zepter […]“ -> „Strahlendes Zepter […] Mindeststärke: 5“),
+
+- Übersetzter Name von Keldorn Firecam
+  („Firecam“ -> „Feuerkam“),
+
+- Vereinheitlichung von Jierdn Firkraags Namen
+  („Jeirdan“ -> „Jierdan“) und
+
+- Vereinheitlichung der <schreibweise der Rolle der Auflösung
+  („Rolle der Aufhebung“ -> „Rolle der Auflösung“).
 
 
 2.5  VERBLIEBENE INKONSISTENZEN
@@ -303,6 +323,14 @@ Die folgenden Strings enthalten Fehler oder inhaltliche Inkonsistenzen, die aus 
 - BG2EE#64689: Der String „Spektralfeuer +4“ wird neben SW1H68.ITM und SW1H68C.ITM auch für SW1H68A.ITM verwendet, das einen anderen Verzauberungswert als +4 hat.
 
 - BG2EE#102528: Der String „Dunkle Gerechtigkeit +5“ wird neben ohbwing.ITM auch für ohbwing2.ITM verwendet, das einen anderen Verzauberungswert als +5 hat.
+
+- BG2EE#17371: Wegen Vertonung wird das falsche Geschlecht für Abyss beibehalten.
+
+- BG2EE#28252: Wegen Vertonung wird das falsche Geschlecht für Abyss beibehalten.
+
+- BG2EE#72313: Wegen Vertonung wird das falsche Geschlecht für Abyss beibehalten.
+
+- BG2EE#72315: Wegen Vertonung wird das falsche Geschlecht für Abyss beibehalten.
 
 
 3  INSTALLATION

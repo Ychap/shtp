@@ -1,6 +1,6 @@
 // creator: Shai Hulud
 // game: Shai Huluds Text-Patch
-// date: 2024-05-26, 21:27
+// date: 2025-02-24, 19:17
 // Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
 @34003 = ~Die glitzernde goldene Krone sieht beeindruckend aus, aber sie ist aus schlichtem Katzengold gefertigt und ihre „Edelsteine“ sind lediglich gefärbte Glasstückchen. Auf dem Kopf getragen, erlaubt die Krone dem Träger, sich mehr Zauber einzuprägen, aber füllt den Kopf des Trägers gleichzeitig mit falschem Wissen.
@@ -142,7 +142,7 @@ Ein kritischer Fehlschlag des Trägers fügt ihm 1W4 Schaden durch Elektrizität
 ETW0-Bonus: –2
 Schaden: 1W10 +2 (Klinge/Stich – je nachdem, was besser ist)
 Schadensbonus: +1 (Elektrizität)
-Iniativefaktor: 7
+Initiativefaktor: 7
 Fertigkeit: Hellebarde
 Typ: 2-händig
 Mindeststärke: 11
@@ -1174,7 +1174,7 @@ Zeitaufwand: 4
 Bereich: 4,5 m Radius
 Rettungswurf: Speziell (gg. Zauber)
 
-Mithilfe dieses Zaubers sammelt der Anwender Energie aus der spirituellen Welt und formt eine blassblaue Kugel. Der Anwender kann die Kugel werfen, woraufhin sie in geisterhaften, himmelblauen Flammen explodiert. Die Flammen richten 1W4 Schadenspunkte durch Magie je Stufe des Anwenders an, bis zu einem Maximum von 10W4. Zudem besteht eine Chance von 33 %, dass jeder Gegner im Wirkungsbereich vom Zauber „Verderben“ betroffen wird (Malus von –2 auf Rettungs- und Trefferwürfe für 1 Phase). Ein erfolgreicher Rettungswurf gegen Zauber halbiert den Schaden und verhindert die Auswirkungen von „Verderben“. Geister, magische Wesen, Elementare und geisterhafte Untote erleiden den doppelten Schaden.~
+Mithilfe dieses Zaubers sammelt der Anwender Energie aus der spirituellen Welt und formt eine blassblaue Kugel. Der Anwender kann die Kugel werfen, woraufhin sie in geisterhaften, himmelblauen Flammen explodiert. Die Flammen richten 1W4 Schadenspunkte durch Magie je Stufe des Anwenders an, bis zu einem Maximum von 10W4. Zudem besteht eine Chance von 33 %, dass jeder Gegner im Wirkungsbereich vom Zauber „Verderben“ betroffen wird (Malus von +2 auf Rettungswürfe und Malus von –1 auf Trefferwürfe für 1 Phase). Ein erfolgreicher Rettungswurf gegen Zauber halbiert den Schaden und verhindert die Auswirkungen von „Verderben“. Geister, magische Wesen, Elementare und geisterhafte Untote erleiden den doppelten Schaden.~
 @35363 = ~Äthertunnel
 
 Grad: 7
@@ -1195,7 +1195,7 @@ Zeitaufwand: 1
 Bereich: Anwender
 Rettungswurf: Nein
 
-Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materiellen Ebene, wodurch er teilweise körperlos wird. Für die Wirkungsdauer des Zaubers richten alle physischen Angriffe gegen den Schamanen nur 50 % ihres normalen Schadens an. Während dieser Zeit ist der Schamane außerdem von „Verbesserte Unsichtbarkeit“ betroffen und kann nicht direktes Ziel von Zaubersprüchen sein.~
+Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der Materiellen Ebene, wodurch er teilweise körperlos wird. Für die Wirkungsdauer des Zaubers richten alle physischen Angriffe gegen den Schamanen nur 50 % ihres normalen Schadens an. Während dieser Zeit ist der Schamane außerdem von „Verbesserte Unsichtbarkeit“ betroffen und kann nicht direktes Ziel von Zaubersprüchen sein.~
 @35374 = ~Nun … Seid Ihr bereit?~
 @35375 = ~So bereit, wie ich es nur sein kann.~
 @35376 = ~Nein. Ihr?~
@@ -1770,7 +1770,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @36030 = ~Danke, <CHARNAME>, Ihr seid der Beste!~ ~Danke, <CHARNAME>, Ihr seid die Beste!~
 @36031 = ~Ich brauche diese Feder WIRKLICH, <CHARNAME>.~ [BD36031]
 @36032 = ~Acht, acht. Eins, zwei, drei, vier mal zwei macht acht … Verdammt!~
-@36033 = ~Acht, acht. Eins zwei drei vier mal zwei macht acht … Verflucht! Es sollte doch nicht so schwer sein, eine siebenbeinige Spinne zu finden.~ [BD36033]
+@36033 = ~Acht, acht. Eins, zwei, drei, vier mal zwei macht acht … Verflucht! Es sollte doch nicht so schwer sein, eine siebenbeinige Spinne zu finden.~ [BD36033]
 @36034 = ~Eine siebenbeinige Spinne? Ich kann nicht sagen, dass ich so etwas schon einmal gesehen hätte.~
 @36035 = ~Wenn Ihr eine siebenbeinige Spinne haben wollt, dann haltet nach einer fünfbeinigen Fliege Ausschau.~
 @36036 = ~Was zum Geier wollt Ihr mit einer siebenbeinigen Spinne?~
@@ -1826,7 +1826,7 @@ Der Schamane schlüpft in einen Raum zwischen der Geisterwelt und der materielle
 @36089 = ~Aber sobald Ihr bereit seid, kann ich diesen gottverdammten Trank brauen und diesen gottverdammten Magier in meinen gottverdammten Kopf endlich zum Schweigen bringen! JA, DAS HABE ICH GEHÖRT!~ [BD36089]
 @36090 = ~Tief einatmen, Neera. Gut. Wann immer Ihr bereit seid, <CHARNAME>, bin auch ich bereit. Bereit. Ich bin bereit.~ [BD36090]
 @36091 = ~Ich will so, so sehr, dass es vorbei ist. Geht schlafen, <CHARNAME>. Das wird eine Weile brauchen.~ [BD36091]
-@36092 = ~ES IST VOLLBRACHT. Haha! Es ist vollbracht! Spektakulär, was? In Ordnung … wird schon schiefgehen …~ [BD36092]
+@36092 = ~ER IST FERTIG. Haha! Er ist fertig! Spektakulär, was? In Ordnung … wird schon schiefgehen …~ [BD36092]
 @36093 = ~Dramatisch, was? Alles klar … wird schon schiefgehen …~
 @36094 = ~Ja. Ja. JA! Stille … glückselige und prachtvolle Stille! Ich hätte niemals gedacht, dass ich das wieder hören könnte. Oder nicht mehr hören könnte. Könnt Ihr die Stille hören?~ [BD36094]
 @36095 = ~Adoy ist immer noch da, ich kann ihn spüren, aber ich kann damit leben. Ich glaube, ich könnte sogar … das könnte ich wohl. Aber sollte ich?~ [BD36095]
@@ -2644,6 +2644,7 @@ Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die üb
 @37077 = ~Ihr wollt die eigenen Waffen des Kreuzzugs gegen ihn verwenden? Gefällt mir.~
 @37078 = ~Dann macht weiter. Stellt sicher, dass der Kreuzzug keine weiteren Feuerelementare – oder Schlimmeres – in seine Dienste stellt. Während der Rest unserer Truppen hinübermarschiert, helfe ich beim Aufladen der Fässer. Es ist das Mindeste, was ich tun kann.~
 @37080 = ~Möge der Eichenvater Mitleid mit Euch haben. Der mächtige Voghiln wird es nicht.~
+@37080 = ~Möge der Eichenvater Mitleid mit Euch haben. Der mächtige Voghiln wird es nicht.~
 @37081 = ~Spürt das Verlöschen des Lichts!~
 @37082 = ~Zeit, ein paar böse Jungs zu verbrennen!~
 @37083 = ~He, das ist ja mal ein schönes Schwert. Bitte hört mit den Versuchen auf, mich damit zu stechen.~
@@ -2857,6 +2858,7 @@ Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die üb
 @37435 = ~Ebenso, Marschall Nederlock.~ [BD37435]
 @37436 = ~Und das muss der sogenannte Held von Baldurs Tor sein, von dem ich schon so viel gehört habe.~ [BD37436] ~Und das muss die sogenannte Heldin von Baldurs Tor sein, von der ich schon so viel gehört habe.~ [BD37436]
 @37437 = ~Die Großherzöge haben mir diese Ehre zukommen lassen. Wenn man die ganzen Opfer bedenkt, die all die Menschen von Baldurs Tor während der Eisenkrise erbringen mussten, bin ich nicht sonderlich glücklich darüber.~
+@37437 = ~Die Großherzöge haben mir diese Ehre zukommen lassen. Wenn man die ganzen Opfer bedenkt, die all die Menschen von Baldurs Tor während der Eisenkrise erbringen mussten, bin ich nicht sonderlich glücklich darüber.~
 @37438 = ~So nennt man mich. Zumindest die netten Leute tun das.~
 @37439 = ~Wo ist Caelar? Ich will diese Sache endlich beenden.~
 @37440 = ~Wenn Ihr Euch dadurch besser fühlt, erwartet hier keinen Empfang wie in Baldurs Tor. Was auf der Eberfellbrücke passiert ist, hat sich herumgesprochen.~
@@ -3037,6 +3039,7 @@ Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die üb
 @37624 = ~Sie weiß von meiner Anwesenheit hier. Wenn diese Information in die Hände des Kreuzzugs fallen sollte … Nun gut, ich werde diese einfältige Kuh wiederfinden.~
 @37625 = ~Bringt sie sicher zurück, <CHARNAME> … Wenn der Kreuzzug Skie bekommt, wird ihr Vater all unsere Köpfe rollen lassen.~ [BD37625]
 @37626 = ~Mädchen sind und bleiben Mädchen.~ [BD37595]
+@37627 = ~Und dem allmächtigen Eichenvater sei Dank dafür, was?~ [BD37627]
 @37627 = ~Und dem allmächtigen Eichenvater sei Dank dafür, was?~ [BD37627]
 @37628 = ~Sie werden sie eher beim ersten Sichtkontakt töten.~ [BD37628]
 @37629 = ~So haben die Wachen es gesagt. Bringt sie sicher zurück, <CHARNAME>. Und versucht, keine Aufmerksamkeit zu erregen. Wenn ein Wort darüber nach außen dringt … Nun, ich würde es lieber vermeiden wollen. Jetzt geht, schnell.~ [BD37629]
@@ -3259,6 +3262,7 @@ Mithilfe dieses Zaubers ruft der Anwender geisterhafte Kreaturen herbei, die üb
 @37860 = ~Wollt Ihr uns alle zum Tode verurteilen, <CHARNAME>? Nichts anderes wird das hier zur Folge haben.~ [BD37860]
 @37861 = ~Das Blut, das bisher vergossen wurde, war nicht unseres. Wir sollten es dabei belassen. Verschwinden wir von diesem Ort.~ [BD37861]
 @37862 = ~Ich weiß nicht, wie es Euch geht, aber ich habe genug von diesem düsteren Ort. Können wir jetzt bitte gehen?~ [BD37862]
+@37863 = ~Wenn wir noch länger hierbleiben, werden wir mit Sicherheit überrannt.~ [BD37863]
 @37864 = ~Seid nicht dumm, <CHARNAME>. Hört auf Baeloth Barrityl: Es ist richtiger, Reißaus zu nehmen, als sich roh die Rübe rausreißen zu lassen.~ [BD37864]
 @37865 = ~Boo sagt, Besonnenheit sollte unsere Parole sein. HÖRT AUF BOO, <CHARNAME>! SEID BESONNEN!~ [BD37865]
 @37866 = ~Wir sollten verschwinden. Bald. Bald im Sinne von jetzt.~ [BD37866]
@@ -3367,7 +3371,7 @@ Lasst uns an einem ruhigen Ort herumtoben.~
 @37966 = ~Ihr habt Unterstützung mitgebracht?~
 @37967 = ~Ein Lager von Söldnern der Flammenden Faust ein paar Kilometer Richtung Süden erwartet meinen Befehl zum Angriff. Wir werden die Kreuzzügler zerschmettern, Eure und meine Leute.~
 @37968 = ~Jaheira und fünfzig andere sind bereit zuzuschlagen. Alles, was Ihr tun müsst, ist, bereit zu sein und auf das Zeichen zu warten.~
-@37969 = ~Ja. Nicht, dass ich mit den Kreuzzüglern nicht selbst fertig werden könnte.~
+@37969 = ~Ja. Nicht dass ich mit den Kreuzzüglern nicht selbst fertig werden könnte.~
 @37970 = ~Ihr wollt Euch Caelar stellen? Jaheira wird darüber nicht glücklich sein.~
 @37971 = ~Sie mag es nicht gutheißen, aber sie lässt mich meine eigenen Entscheidungen treffen.~
 @37972 = ~Ist sie nicht. Ich werde es wieder gutmachen, indem ich Euch wiedervereinige.~
@@ -3411,7 +3415,7 @@ Lasst uns an einem ruhigen Ort herumtoben.~
 @38010 = ~B-Bevor wir v-verhandeln, solltet Ihr mit dem Zauberer W-Wynan Hess sprechen. In der F-F-Feste. Ihr solltet ihn hinten f-finden. Er hat uns v-vor der schlimmsten Magie des K-K-Kreuzzugs bewahrt. Wie lange er das noch k-kann, wird unsere Verhandlungsp-position sicherlich b-beeinflussen.~
 @38011 = ~Mit der Hasardeurin hier ist das eine e-eindeutige Möglichkeit.~
 @38012 = ~Ich bin stolz auf Euch, Khalid. Ihr habt Euch hier gut geschlagen.~
-@38013 = ~Da hat sie Recht. Aber Ihr werdet Euch bald noch besser schlagen.~
+@38013 = ~Da hat sie recht. Aber Ihr werdet Euch bald noch besser schlagen.~
 @38014 = ~Es ist beeindruckend, dass die Feste gegen den Kreuzzug gehalten wurde. Würde es Euch etwas ausmachen, wenn ich mich umschaue?~
 @38015 = ~Sie ist zu freundlich. Warum habt Ihr den Kampf nicht zum Kreuzzug getragen?~
 @38016 = ~W-Wir haben es schon schwer gehabt, die Burg nur zu v-verteidigen.~
@@ -3691,6 +3695,7 @@ Lasst uns an einem ruhigen Ort herumtoben.~
 @38334 = ~Meine Herrin, nein, das dürft Ihr nicht.~
 @38335 = ~Schweigt! Ich weiß, was ich tue. Na los, kommt und tretet ins Licht!~
 @38336 = ~Ihr sagt, Caelar hat Attentäter geschickt? Das glaube ich nicht.~
+@38337 = ~Ihr stellt meine Ehre in Frage? Das ist eine Beleidigung, die ich nicht so stehen lassen kann. Stellt Euch mir, Aschatiel! Ein Zweikampf, ich kämpfe für meine Ehre, Ihr für die der Strahlenden Dame.~
 @38337 = ~Ihr stellt meine Ehre infrage? Das ist eine Beleidigung, die ich nicht so stehen lassen kann. Stellt Euch mir, Aschatiel! Ein Zweikampf, ich kämpfe für meine Ehre, Ihr für die der Strahlenden Dame.~
 @38338 = ~Ihr glaubt, dass Ihr in die Hölle marschieren und die Toten retten könnt, aber könnt den Verrat Eurer verrückten Anführerin nicht akzeptieren. Ihr macht mich traurig, Aschatiel.~
 @38340 = ~Es tut mir leid, dass ich Euch enttäuschen muss. Ergreift ihn!~ ~Es tut mir leid, dass ich Euch enttäuschen muss. Ergreift sie!~
@@ -3813,7 +3818,7 @@ Lasst uns an einem ruhigen Ort herumtoben.~
 @38536 = ~Das einzig Vernünftige, was ich tun kann: von hier weglaufen, so weit und so schnell ich kann.~
 @38538 = ~Das Schicksal von Toril liegt in Euren Händen. Mögen die Götter mit Euch sein.~ [BD38538]
 @38539 = ~Solch offensichtliche Schwindeleien werden niemanden hereinlegen, nicht einmal die Affen da draußen. Jeder, der nur ein bisschen Gespür hat, kann fühlen, wie die infernalische Macht der ersten Hölle von diesem Ort ausstrahlt.~
-@38540 = ~Es schmerzt mich das zuzugeben, aber der Tayaner hat Recht.~
+@38540 = ~Es schmerzt mich das zuzugeben, aber der Tayaner hat recht.~
 @38541 = ~Meine Magier sagen mir, dass das Portal offen ist. Und solange das der Fall ist, bleiben diese Türen verschlossen. Ihr müsst einen Weg finden, diesen Riss zwischen den Ebenen zu versiegeln.~ [BD38541]
 @38550 = ~Ich sage, wir mehr rasten, dass wir arbeiten härter. Rast macht bessere Arbeit.~ [BD38550]
 @38551 = ~Wie sein das möglich? Rast bedeuten weniger Zeit arbeiten.~ [BD38551]
@@ -3882,6 +3887,7 @@ Lasst uns an einem ruhigen Ort herumtoben.~
 @38626 = ~Ich werde Euch etwas Wein besorgen und gleich wiederkommen.~
 @38627 = ~Dreht das Rad und schickt mich nach oben Richtung Drachenspeer oder ich werde Euren dreimal verdammten Kopf abschlagen, Oger! Das sein Hinweis genug.~
 @38628 = ~Ihr Euch Zeit lassen. Wir nicht gehen weg …~ [BD38628]
+@38629 = ~Hoi! Betror mögen haben Stock in seinem Hintern, aber er sein immer noch mein Freund. Un’ das heißen, Ihr Euch gemacht haben einen … einen … Wie heißen das? Einen … einen Feind! GRAAHHH!~ [BD38629]
 @38629 = ~Hoi! Belben mögen haben Stock in seinem Hintern, aber er sein immer noch mein Freund. Un’ das heißen, Ihr Euch gemacht haben einen … einen … Wie heißen das? Einen … einen Feind! GRAAHHH!~ [BD38629]
 @38631 = ~Genau, ein Pfeind! Betet zu dem Gott, den Ihr habt – Ihr werdet ihm gleich gegenübertret’n!~
 @38632 = ~Nicht sagen „Wir Euch jetzt töten“, Betror. Schlimm genug, wir hier festsitzen, um dieses Rad zu drehen. Ich nicht auch noch wollen Kämpfe des Kreuzzugs kämpfen.~ [BD38632]
@@ -3992,6 +3998,7 @@ Was ist es?~ [BD38743]
 @38756 = ~Ich wars nicht.~
 @38757 = ~Direkt aus der Bratpfanne rein in … DAS HIER. SEHR GUT gemacht, <CHARNAME>.~ [BD38757]
 @38758 = ~Beim belaubten Hintern des Eichenvaters! Der alte Voghiln ist bereits an manch heißen Orten gewesen, aber das ist ein Kessel eines anderen Kalibers.~ [BD38758]
+@38758 = ~Beim belaubten Hintern des Eichenvaters! Der alte Voghiln ist bereits an manch heißen Orten gewesen, aber das ist ein Kessel eines anderen Kalibers.~ [BD38758]
 @38759 = ~Die Hölle ist kein Ort für Helden. Zu mir, Boo! Wir werden kämpfen, bis der Ort hier nichts mehr ist als Asche.~ [BD38759]
 @38760 = ~Ihr hättet niemals an diesen Ort kommen sollen, Sterbliche. Aber wir sind so, so froh, dass Ihr es getan habt.~
 @38761 = ~Zurück, Ihr Teufel! Zurück, sage ich!~ [BD38761]
@@ -4038,6 +4045,7 @@ Was ist es?~ [BD38743]
 @38826 = ~Glint, ich weiß, Ihr würdet lieber die Runde durch Avernus drehen, aber diese Menschen brauchen Eure Hilfe.~
 @38830 = ~M’Khiin, zeigt diesen Leuten, dass nicht alle Goblins Monster sind. Tut, was Ihr könnt, um sie lebend nach Drachenspeer zurückzubringen.~
 @38832 = ~Heute ist Euer Glückstag, Kreuzzügler! Bei Minsk seid Ihr in guten Händen.~
+@38835 = ~Der Löwe von Luskan wird dafür sorgen, dass diesen Leuten kein Schaden zugefügt wird. Möge der Eichenvater über Euch wachen, <CHARNAME>. Wir sehen uns auf der anderen Seite des Portals.~
 @38836 = ~Kann das nicht jemand anderes übernehmen? Nach dem, was in der Brückenfeste passiert ist, möchte ich n-nur noch an der Seite meiner Frau sein.~
 @38837 = ~F-Folgt mir, Diener von Caelar. Ich bringe E-E-Euch zurück nach Toril. Ich v-versuche es zumindest.~
 @38839 = ~N-Na gut. Folgt mir, Kreuzzügler! Ich b-bringe Euch zurück nach Drachenspeer. Ich versuche es jedenfalls.~
@@ -4111,7 +4119,7 @@ Was ist es?~ [BD38743]
 @38925 = ~Thrix missfällt der Glanz im Auge dieses Gnoms. Wenn Ihr Thrix’ Rätsel nicht richtig beantworten könnt, wird Thrix ihn nehmen. Dann werden wir sehen, wie lange er noch lächelt.~
 @38926 = ~Ich kenne Glint Gardnersonson erst seit kurzer Zeit, dennoch glaube ich, dass selbst Ihr es kaum schaffen werdet, sein Lächeln zu unterdrücken, Gottloser. Stellt mir das Rätsel. Wenn ich es nicht beantworten kann, könnt Ihr es wenigstens versuchen.~
 @38927 = ~Nein, werden wir nicht. Ich werde Glint nicht Euren Klauen überlassen, Thrix. Wenn Ihr wirklich spielen wollt, dann wählt jemand anderen als Euren Gewinn.~
-@38928 = ~Es braucht schon mehr als Euch, um Glints Feuer zum Erlöschen zu bringen, Thrix … Nicht, dass es jemals wichtig werden könnte, da meine Seele als Einsatz dienen wird. Abgemacht?~
+@38928 = ~Es braucht schon mehr als Euch, um Glints Feuer zum Erlöschen zu bringen, Thrix … Nicht dass es jemals wichtig werden könnte, da meine Seele als Einsatz dienen wird. Abgemacht?~
 @38929 = ~Tretet zur Seite und lasst uns unverzüglich in den Turm oder ich schwöre Euch, dass IHR nie wieder lächeln werdet.~
 @38930 = ~Thrix erkennt einen Diener von Ur-Gothoz, wenn er einen riecht. Der Halbork wird als Thrix’ Preis dienen, solltet Ihr mit der Antwort auf das Rätsel falsch liegen.~
 @38931 = ~Ich stimme zu.~
@@ -4465,7 +4473,7 @@ Was ist es?~ [BD38743]
 @39298 = ~Hier trennen sich unsere Wege, Freund. Da, nehmt diesen Schlüssel, den ich an Caelars Körper gefunden habe. Ich weiß nicht, was er öffnet, aber ich bin sicher, dass es nichts an diesem infernalischen Ort ist.~ ~Hier trennen sich unsere Wege, Freundin. Da, nehmt diesen Schlüssel, den ich an Caelars Körper gefunden habe. Ich weiß nicht, was er öffnet, aber ich bin sicher, dass es nichts an diesem infernalischen Ort ist.~
 @39300 = ~Ernsthaft? Nach all dem, was Ihr durchgemacht habt, wollt Ihr in Avernus bleiben?~
 @39301 = ~Wenn Ihr denkt, ich verschwende Zeit damit, mit Euch zu diskutieren, ob ich diesen Ort verlasse oder nicht, dann habt Ihr falsch gedacht.~
-@39302 = ~Das Portal kann nicht von der Materiellen Ebene aus geschlossen werden. Einer muss hier bleiben, um die Tür zur Hölle zu versiegeln – und zu bewachen, sodass die Horden von Avernus in Schach gehalten werden, sollte der Riss zwischen den Ebenen erneut geöffnet werden.~
+@39302 = ~Das Portal kann nicht von der Materiellen Ebene aus geschlossen werden. Einer muss hierbleiben, um die Tür zur Hölle zu versiegeln – und zu bewachen, sodass die Horden von Avernus in Schach gehalten werden, sollte der Riss zwischen den Ebenen erneut geöffnet werden.~
 @39303 = ~Dann werde ich es tun.~
 @39304 = ~Ich verstehe. Dann lebt wohl, Aun Silberweiß. Ich werde dafür Sorge tragen, dass die Welt erfährt, welche Opfer Ihr erbracht habt – für Toril und für Caelar.~
 @39305 = ~Das ist alleinig Eure Wahl.~
@@ -5438,8 +5446,8 @@ Ich bin mit einem Heiltrank zu den kranken Kreuzzüglern zurückgekehrt, aber si
 @40534 = ~Was da draußen los ist, ist nichts verglichen mit dem, was hier drin los ist. Geht beiseite, Ihr schuppigen Brutalos! Ich ertrage Euren üblen Gestank keine Sekunde länger.~
 @40535 = ~Ihr versucht uns hereinzulegen. Der <PRO_RACE> versucht uns hereinzulegen, Gurgel!~
 @40537 = ~Es ist schwer zu beschreiben. Wenn Ihr es wissen wollt, müsst Ihr einfach nachschauen.~
-@40538 = ~Nein, meine fischigen Freunde, ich kanns nicht. Ich kann Euch nicht dem unaussprechlichen Horror aussetzen, der hinter jener Tür da lauert. Zu Eurem Wohl müsst Ihr hier bleiben. Geht nicht da raus – nicht, wenn Euch Euer gesunder Verstand lieb ist!~
-@40539 = ~Der Schrecken da draußen ist nichts verglichen mit dem, was Euch erwartet, wenn Ihr hier bleiben solltet. Verschwindet aus meinem Weg, Ihr forellengesichtigen Scheußlichkeiten!~
+@40538 = ~Nein, meine fischigen Freunde, ich kanns nicht. Ich kann Euch nicht dem unaussprechlichen Horror aussetzen, der hinter jener Tür da lauert. Zu Eurem Wohl müsst Ihr hierbleiben. Geht nicht da raus – nicht, wenn Euch Euer gesunder Verstand lieb ist!~
+@40539 = ~Der Schrecken da draußen ist nichts verglichen mit dem, was Euch erwartet, wenn Ihr hierbleiben solltet. Verschwindet aus meinem Weg, Ihr forellengesichtigen Scheußlichkeiten!~
 @40540 = ~Hmmm…~
 @40542 = ~Ihr könnt es nach mir sehen! Ich zuerst! Ich! ICH!~
 @40543 = ~Nein, Gurgel! Ich zuerst! Ich! ICH!~
@@ -5481,7 +5489,7 @@ Ich bin mit einem Heiltrank zu den kranken Kreuzzüglern zurückgekehrt, aber si
 @40584 = ~Ihr Weg sollte Euch nicht interessieren. Ihr solltet Euch auf Euren eigenen Weg konzentrieren, da er hier und jetzt endet.~
 @40585 = ~Was passierte dann?~
 @40586 = ~Sagt es uns, <PRO_RACE>! Was passierte dann?~
-@40587 = ~Es war ihr nicht genug, Chaos zu sähen, wo immer sie war … Sie sandte andere auus, um es in weit entfernten Städten zu sähen. In eine dieser Städte entsandte sie Männer, um ein Kind Bhaals, das ihre Aufmerksamkeit erregt hatte, zu finden und umzubringen.~
+@40587 = ~Es war ihr nicht genug, Chaos zu sähen, wo immer sie war … Sie sandte andere aus, um es in weit entfernten Städten zu sähen. In eine dieser Städte entsandte sie Männer, um ein Kind Bhaals, das ihre Aufmerksamkeit erregt hatte, zu finden und umzubringen.~
 @40588 = ~Sie versuchte mich umzubringen.~
 @40589 = ~Ich sage Euch, was dann passierte – nein, noch besser, ich werde Euch ZEIGEN, welch blutiges Schicksal sie erwartete.~
 @40590 = ~Warum wollte sie das tun?~
@@ -7023,6 +7031,7 @@ Gewicht: 10~
 @42422 = ~Ich weiß, dass wir uns schon begegnet sind, aber ich weiß fast nichts über Euch.~
 @42423 = ~Ich muss mich anderen Dingen zuwenden. Das solltet Ihr auch.~
 @42424 = ~Ihr habt das Vergnügen, mit dem Mächtigen Voghiln zu sprechen, Schlächter des Albtraum-Clans, Stolz der Zehnstädte!~ [BD42424]
+@42424 = ~Ihr habt das Vergnügen, mit dem Mächtigen Voghiln zu sprechen, Schlächter des Albtraum-Clans, Stolz der Zehnstädte!~ [BD42424]
 @42425 = ~Gut gesprochen, Voghiln der Zehnstädte. Ich will Caelar Silberweiß bezwingen. Wollt Ihr Euch mir anschließen?~
 @42426 = ~Möglicherweise wollt Ihr Drachenspeer zu Euren Heldentaten hinzufügen? Caelar und Ihr Kreuzzug warten.~
 @42427 = ~Wir scheinen unseren Spaß aus unterschiedlichen Dingen zu ziehen. Ich werde Euch Eurer Feierei überlassen.~
@@ -7281,7 +7290,7 @@ Gewicht: 10~
 @42743 = ~Jawohl, das ist er. Und wird mit jedem Tag größer.~
 @42745 = ~Es ist an der Zeit. Hormorn?~
 @42746 = ~Das ist es, Barghest, danke. Und willkommen Euch, edle und würdige Diener von Caelar.~ [BD42746]
-@42747 = ~Ihr wisst, warum wir hier sind: Um den Segen der Götter zu empfangen. Um ihr heiliges Licht zu spüren, wie es in uns leuchtet.~ [BD42747]
+@42747 = ~Ihr wisst, warum wir hier sind. Um den Segen der Götter zu empfangen. Um ihr heiliges Licht zu spüren, wie es in uns leuchtet.~ [BD42747]
 @42748 = ~Ihr könnt es fühlen, nicht? In Euren Herzen, in Eurem Inneren wisst Ihr, WISST Ihr, dass wir auf einem gerechten Pfad wandeln.~ [BD42748]
 @42749 = ~Dieser Pfad wird uns an den dunkelsten Ort von allen führen. Den abscheulichsten Teufeln werden wir begegnen, aber wir wissen, dass kein Teufel uns schaden kann.~ [BD42749]
 @42750 = ~Wir folgen dem Willen der Götter. Wir folgen dem Willen von Caelar Silberweiß. Unser Sieg in diesem und jedem anderen Reich ist uns sicher!~ [BD42750]
@@ -7390,6 +7399,7 @@ Gewicht: 10~
 @42883 = ~Ich werde gehen, wenn ich die Lust dazu habe. Was ist hier passiert?~
 @42885 = ~Ich habe KEINEN Nachlass. Das ist ja das Problem.~
 @42887 = ~Betrachtet die Dinge aus ihrer Perspektive. Ihr habt die Kreuzzügler alleine angegriffen, und das nachdem sie Euch gebeten hat, es nicht zu tun. Euer Gasthaus wurde deshalb niedergebrannt, und Ihr hättet dabei leicht getötet werden können. Und Ihr habt Kinder.~
+@42888 = ~Vielleicht habt Ihr recht. Das ist nun nicht mehr wichtig. Ich habe alles verloren. Meine Familie. Mein Gasthaus. Selbst meinen Umhang und mein Schild, den Spiegel …~
 @42889 = ~Ich werde hier sein und in den Ruinen meiner Träume sitzen.~
 @42890 = ~Ich werd Euch meine Geschichte erzählen, wenn das bedeutet, dass Ihr danach geht. Eine Meute famoser Kreuzzügler hat sich betrunken und dann randaliert. Ich hatte beschlossen sie hinauszuwerfen. Und SIE haben beschlossen, mein Gasthaus in ein Flammenmeer zu verwandeln.~
 @42892 = ~Ich mag Wein genauso wie jeder andere <PRO_RACE>, aber ich habe beim Trinken nie einen Ort in Brand gesetzt.~
@@ -7466,6 +7476,7 @@ Gewicht: 10~
 @42977 = ~Lebendig, und so soll es auch bleiben. Wie wärs, wenn Ihr das Schwert runternehmt?~
 @42978 = ~Mausetot. Mir wurde in meinem Grab langweilig und ich dachte, ich unternehme einen kleinen Spaziergang.~
 @42979 = ~Ich bin lebendiger, als Ihr es sein werdet, wenn Ihr nicht aufhört, mit diesem Schwert in meinem Gesicht herumzufuchteln.~
+@42980 = ~I-Isabella, bitte, sie sind offensichtlich lebendig.~ [BD42980]
 @42980 = ~I-Isabella, bitte, sie sind offensichtlich lebendig.~ [BD42980]
 @42981 = ~Hmm … wir werden sehen. Was wollt Ihr hier?~
 @42982 = ~Ich habe Euer Lager gesehen. Seid Ihr Anhänger der Strahlenden Dame?~
@@ -7819,7 +7830,7 @@ Gewicht: 10~
 @43389 = ~Hört mit dem Gejammer auf oder ich werde Euch was zum Jammern geben.~
 @43390 = ~Verzeihung, mein Fürst. Ich habe mich gefragt, ob Ihr mir sagen könntet, wie Euer Adelswappen aussieht?~
 @43391 = ~Lasst mich mit meinem Elend allein! Mein Vermögen – gestohlen. Mein Haus – abgebrannt. Ich habe nichts mehr, für das es sich zu leben lohnt. Nichts!~
-@43392 = ~Das Vessanalsche Familienwappen ist ein vierflügliger Pegasus vor gekreuzten Schwertern. Nicht, dass das gerade von Bedeutung wäre.~
+@43392 = ~Das Vessanalsche Familienwappen ist ein vierflügliger Pegasus vor gekreuzten Schwertern. Nicht dass das gerade von Bedeutung wäre.~
 @43393 = ~Ihr könntet besser dran sein, als Ihr glaubt. In den Wäldern gleich hinter der Baumreihe habe ich auf einer Lichtung eine verschlossene Truhe gesehen. Sie hatte genau dieses Siegel auf dem Deckel.~
 @43394 = ~Wo, wo? Vielleicht bin ich am Ende doch nicht mittellos.~
 @43395 = ~Gleich am Waldrand, auf einer Lichtung an einem Teich.~
@@ -7945,7 +7956,7 @@ Mit dem Angriff auf den Kreuzzug als Ablenkung konnte Wynan Hess eine Kopie der 
 @43524 = ~Ich suche nach einer Feder vom Flügel eines Planetars. Ich nehme nicht an, dass Ihr eine habt?~
 @43525 = ~Seid Ihr der Magier, der den verzauberten Felsen geschaffen hat, der die Bewohner der Brückenfeste infiziert?~
 @43526 = ~Ihr seid offensichtlich ein Magiekundiger von großem Können. Ich würde gerne von Eurer Arbeit lernen. Darf ich die Schriftrolle, die Ihr verwendet habt, studieren? Vielleicht kann ich einen zusätzlichen Zauberspruch beisteuern, um die Verteidiger der Feste weiter zu schwächen.~
-@43527 = ~Ihr habt davon gehört, was? Ja, es war eine Verzauberung nach meinen Vorgaben. Ziemlich effektiv. Der Fall der Feste ist nur einfrage von Tagen, wenn nicht sogar von Stunden. Caelar sollte sehr zufrieden mit meinen Bemühungen sein.~ [BD43527]
+@43527 = ~Ihr habt davon gehört, was? Ja, es war eine Verzauberung nach meinen Vorgaben. Ziemlich effektiv. Der Fall der Feste ist nur eine Frage von Tagen, wenn nicht sogar von Stunden. Caelar sollte sehr zufrieden mit meinen Bemühungen sein.~ [BD43527]
 @43528 = ~Ich muss wissen, wie man die Auswirkungen des Steins stoppt.~
 @43529 = ~Das ist der Grund, warum ich NICHT zufrieden mit Euren Bemühungen bin. Wie beende ich die Auswirkungen des Steins, Magier?~
 @43530 = ~Caelar ist jetzt nicht hier. Ihr wärt gut beraten, Euch darauf zu konzentrieren mich zufriedenzustellen. Sagt mir, wie ich die Auswirkungen des verzauberten Felsens aufhalte, Magier … oder ich werde Euch an ihrer Stelle töten!~
@@ -8002,6 +8013,7 @@ Ich bin im Kreuzzug-Lager auf den Roten Magier Vichand getroffen. Edwin sehnt si
 @43586 = ~Dank sei den G-Göttern. Schnell, b-bringt sie zum verzauberten Felsen.~
 @43588 = ~Handeln wir nicht vorschnell. Selbst ohne den verzauberten Felsen erwartet uns viel Ärger.~
 @43592 = ~Vielleicht ja, vielleicht nein. Mit Eurer Erlaubnis, Khalid, würde ich versuchen, mit den Kreuzzüglern zu verhandeln. Vielleicht finde ich einen Weg aus dieser verzwickten Lage.~
+@43594 = ~Es ist sch-schwer, Hoffnung zu bewahren, wenn man L-L-Leute direkt vor einem sterben sieht. Aber ich w-werde es versuchen.~
 @43594 = ~Es ist sch-schwer, Hoffnung zu bewahren, wenn man L-L-Leute direkt vor einem sterben sieht. Aber ich w-werde es versuchen.~
 @43595 = ~Ich möchte nicht, dass meine Leute sterben – nicht auf diese W-W-Weise. Folgt m-mir.~
 @43596 = ~Besser im Kampf sterben als dahinzuvegetieren.~
@@ -8113,7 +8125,7 @@ Ich bin im Kreuzzug-Lager auf den Roten Magier Vichand getroffen. Edwin sehnt si
 @43712 = ~Ihr seid die Schmiedin der Feste, korrekt? Ich würde gerne sehen, welche Waffen und Rüstungen Ihr vorrätig habt.~
 @43713 = ~Ich will nichts von Euch.~
 @43714 = ~Dann verzieht Euch. Ich habe zu tun.~
-@43715 = ~Bin beschäftigt. Sagt mir, was Ihr wollt, oder verzieht Euch.~
+@43715 = ~Beschäftigt. Sagt mir, was Ihr wollt, oder verzieht Euch.~
 @43718 = ~Schön, lasst mich sehen, welche Waffen Ihr auf Lager habt.~
 @43719 = ~Mein Name ist Berghauer, Jegg Berhauer. FRAU Jegg Berghauer. Zumindest war ich das, bis der Kreuzzug versucht hat, die Feste einzunehmen.~ [BD43719]
 @43720 = ~Ich komme mit einer Warnung, Herrin Berghauer. Der Kreuzzug hat es auf Euer Leben abgesehen.~
@@ -8378,10 +8390,10 @@ Gewicht: 0~
 @44011 = ~Er hat uns hier wochenlang Däumchen drehen lassen. Er will zuerst die Burg „gründlich auskundschaften“. Dann will er auf weitere Truppen warten. Dann muss der Held von Baldurs Tor hier sein, bevor wir etwas tun können. Nun möchte er warten, bis Ihr …~ ~Er hat uns hier wochenlang Däumchen drehen lassen. Er will zuerst die Burg „gründlich auskundschaften“. Dann will er auf weitere Truppen warten. Dann muss die Heldin von Baldurs Tor hier sein, bevor wir etwas tun können. Nun möchte er warten, bis Ihr …~
 @44012 = ~Er lässt uns seit Wochen Däumchen drehen. Zuerst will er die Burg „aufs Gründlichste auskundschaften“. Dann auf weitere Truppen warten. Dann muss der Held von Baldurs Tor hier sein, bevor wir irgendetwas tun können. Jetzt will er stillhalten, bis Ihr mit Euren Angelegenheiten in den Höhlen fertig seid.~ [BD44012] ~Er lässt uns seit Wochen Däumchen drehen. Zuerst will er die Burg „aufs Gründlichste auskundschaften“. Dann auf weitere Truppen warten. Dann muss die Heldin von Baldurs Tor hier sein, bevor wir irgendetwas tun können. Jetzt will er stillhalten, bis Ihr mit Euren Angelegenheiten in den Höhlen fertig seid.~ [BD44012]
 @44013 = ~Ich verstehe. Mir gefällt das zwar auch nicht, aber wir tun, was wir tun müssen.~
-@44014 = ~Die Vermeidung jeglichen Risikos ist kein Merkmal guter Anführer. Es ist immer einfacher, nichts zu tun, als irgendetwas anderes.~
+@44014 = ~Die Vermeidung jeglichen Risikos ist kein Merkmal guter Anführer. Es ist immer einfacher, nichts zu tun als irgendetwas anderes.~
 @44015 = ~Ich werde das so schnell es geht hinter mich bringen. Dann werden Torsin de Lancie und ich eine … offene Diskussion über unsere Gesamtstrategie führen.~
 @44016 = ~Kann man wohl sagen. Einem Kampf am nächsten war er wohl, als er von seinem Kindermädchen versohlt wurde.~ [BD44016]
-@44017 = ~Haha, wers glaubt! Jetzt, da Ihr da seid, kommandiert Nederlock 120 Söldner. Ich habe weniger als 50. De Lancie? Er hat mehr als 300 unter ihm und er will keinen einzigen davon riskieren.~ [BD44017]
+@44017 = ~Haha, wer’s glaubt! Jetzt, da Ihr da seid, kommandiert Nederlock 120 Söldner. Ich habe weniger als fünfzig. De Lancie? Er hat mehr als 300 unter ihm und er will keinen einzigen davon riskieren.~ [BD44017]
 @44018 = ~Verdammter Mist, wir haben hier einen weiteren Torsin de Lancie.~ [BD44018]
 @44019 = ~Wie Ihr meint. Ich werde Euch dann Euren Angelegenheiten überlassen. Passt auf Euch auf.~ [BD44019]
 @44020 = ~Aye. Hoch die Äxte und so.~
@@ -8552,7 +8564,7 @@ Gewicht: 0~
 @44230 = ~Voghiln erinnert sich an den einen Zehntag, den er ohne etwas zu trinken aushielt. Höchst unangenehm.~ [BD44230]
 @44231 = ~Wir kämpfen auf umschlossenen Raum gegen eine schier endlos große Armee, <CHARNAME>. Es ist nur eine Frage der Zeit, bis wir überrannt werden.~ [BD44231]
 @44232 = ~Wir können diese Teufel nicht ewig zurückschlagen. Was befiehlt Ihr, sollen wir tun, <CHARNAME>?~
-@44233 = ~Diese Angriffe sind erst der Anfang. Wir können nicht einfach hier bleiben. Wir müssen handeln oder wir werden abgeschlachtet.~
+@44233 = ~Diese Angriffe sind erst der Anfang. Wir können nicht einfach hierbleiben. Wir müssen handeln oder wir werden abgeschlachtet.~
 @44234 = ~Wir k-können nicht durch die Tür der Gruft. Unsere Op-Optionen scheinen begrenzt zu sein.~
 @44235 = ~Edwin Odesseiron hat nicht diesen weiten Weg zurückgelegt, um einfach von irgendwelchen höllischen Teufelchen in einer unterirdischen Gruft getötet zu werden. Tut etwas, unverzüglich, ich befehle es!~
 @44236 = ~Teufel, Teufel überall! Aber vor allem auf dem Boden, wenn Minsk mit ihnen fertig ist!~ [BD44236]
@@ -8598,6 +8610,7 @@ Gewicht: 0~
 @44283 = ~Kein richtiger Eingang, <CHARNAME>, aber ich finds toll, dass jenes Tor in die Tiefen der Hölle keine Teufel mehr ausspeit.~
 @44284 = ~Ich habe die Kreuzzügler am Leben gelassen. Hätte mir nicht die Mühe machen sollen.~
 @44285 = ~Dann ist es erledigt? Gut.~
+@44286 = ~Ihr seid am L-Leben! Das ist f-f-fantastisch!~
 @44286 = ~Ihr seid am L-Leben! Das ist f-f-fantastisch!~
 @44287 = ~Die Hexe, deren Schutz Minsk sich verschrieben hat?~
 @44291 = ~Ah! Ich habe versagt! Die Götter haben mir meine Hexe genommen und meine Bestimmung mit ihr! Verflucht sei ich! Verflucht dafür, dass ich nicht an ihrer Seite war!~
@@ -8796,9 +8809,11 @@ Plötzlich endet das Scharren. Man hört, wie ein Schlüssel das Schloss öffnet
 @44506 = ~Sehr gut. Wie ich sagte, ich habe sogar gehört, dass die Herzöge sich mit Sarevoks Mörder verbündet haben.~ ~Sehr gut. Wie ich sagte, ich habe sogar gehört, dass die Herzöge sich mit Sarevoks Mörderin verbündet haben.~
 @44508 = ~Dunkle Gerüchte umgeben diesen sogenannten „Helden von Baldurs Tor“. Wir können den Herzögen offensichtlich nicht mehr trauen.~ ~Dunkle Gerüchte umgeben diese sogenannte „Heldin von Baldurs Tor“. Wir können den Herzögen offensichtlich nicht mehr trauen.~
 @44510 = ~Die Stadt zu regieren, ist eine große Bürde, aber eine, die wir annehmen müssen, wenn die Stadt gedeihen soll.~
+@44512 = ~Sallo, gibt es schon ein Zeichen von Fürst Elric?~
 @44512 = ~Sallo, gibt es schon ein Zeichen von Fürst Eldric?~
 @44516 = ~Ja, ja, eilt zurück.~
 @44517 = ~Das ist nicht Sallo! Schnell, bringt ihn zum Schweigen!~ ~Das ist nicht Sallo! Schnell, bringt sie zum Schweigen!~
+@44518 = ~Ich hoffe, Elric kommt bald.~
 @44519 = ~Geheimtreffen sind so aufregend!~
 @44520 = ~Wir hätten uns Knabberzeugs besorgen sollen.~
 @44522 = ~Im oberen Stockwerk wird eine Verschwörung gegen den Rat der Vier ausgeheckt.~
@@ -8822,9 +8837,11 @@ Plötzlich endet das Scharren. Man hört, wie ein Schlüssel das Schloss öffnet
 @44545 = ~Gut, Ihr seid hier. Irgendein Zeichen von Eldric?~
 @44547 = ~Ich habe ihn nicht gesehen. Ihr solltet Euer Treffen vielleicht ohne ihn abhalten.~
 @44548 = ~Er hat einen Boten geschickt. Es scheint, als sei er krank und schaffe es nicht. Aber er lässt ausrichten, dass Ihr ohne ihn fortfahren sollt.~
+@44549 = ~Wie ungelegen … Elric wusste wirklich am besten, wie wir fortfahren sollten.~
 @44551 = ~Vielleicht sollten wir das Treffen verlegen, bis Eldric wieder verfügbar ist!?~
 @44552 = ~Ich kann nicht garantieren, dass ich bei Eurem nächsten Treffen verfügbar bin. Wenn Ihr meine Hilfe wollt, dann müssen wir das besser früher als später erledigen.~
 @44553 = ~Schlechte Idee, Ihr habt bereits einen Großteil der Nacht vertan. Wollt Ihr den Rest ebenso vergehen lassen?~
+@44554 = ~Ich habe das Gerücht gehört, dass sich Treffen mit Fürst Elric schwierig gestalten. Er ist immer spät und verpasst die Hälfte seiner Termine.~
 @44554 = ~Ich habe das Gerücht gehört, dass sich Treffen mit Fürst Eldric schwierig gestalten. Er ist immer spät und verpasst die Hälfte seiner Termine.~
 @44555 = ~Wir haben eine Gelegenheit wie diese vielleicht so schnell nicht wieder …~
 @44556 = ~Schön, vergesst Eldric. Es gibt Dinge, die wir tun können – Ereignisse, die wir ohne seine unmittelbare Hilfe in Gang setzen können.~
@@ -8837,6 +8854,7 @@ Plötzlich endet das Scharren. Man hört, wie ein Schlüssel das Schloss öffnet
 @44564 = ~Ich verstehe. Wenn Ihr das Geld habt, dann kenne ich die Leute, die Euch helfen.~
 @44565 = ~Der Abschaum der Schwertküste füllt unsere Straßen. Die Nachfrage nach Waren steigt und die Preise werden anziehen, dafür werden wir sorgen. Ihr werdet Eure Meinung über die Unfähigkeit des Rats, mit der Lage umzugehen, laut kundtun.~
 @44566 = ~Die Leute werden auf den Helden von Baldurs Tor hören. Ihr werdet uns helfen, die Großherzöge einen nach dem anderen zu stürzen. Und wir werden da sein, um die Zügel der Macht in die Hand zu nehmen.~ ~Die Leute werden auf die Heldin von Baldurs Tor hören. Ihr werdet uns helfen, die Großherzöge einen nach dem anderen zu stürzen. Und wir werden da sein, um die Zügel der Macht in die Hand zu nehmen.~
+@44567 = ~Seltsam … das hört sich gar nicht nach Fürst Elric an.~
 @44567 = ~Seltsam … das hört sich gar nicht nach Fürst Eldric an.~
 @44568 = ~Wir sind hier fertig. Wir werden uns zu einem späteren Zeitpunkt wieder treffen, an einem vertraulicheren Ort.~
 @44569 = ~Wie könnt Ihr es wagen, uns in solch einer Weise anzugehen? Denkt Ihr, wir seien Kinder? Was bildet Ihr Euch ein?~
@@ -9103,6 +9121,7 @@ Plötzlich endet das Scharren. Man hört, wie ein Schlüssel das Schloss öffnet
 @44891 = ~Ihr sagtet, ich könnte Wesen auf die Primäre Materielle Ebene ziehen? Ist das wahr?~
 @44892 = ~Momentan nichts.~
 @44893 = ~In Ordnung, also unsere Ebene überlappt sich so mit den anderen Ebenen, verstanden? Überlappen ist nicht wirklich das richtige Wort, es ist vielmehr … ein Kreis. In anderen Kreisen. Es ist kompliziert. Wie auch immer, die anderen Ebenen beinhalten Wesen, die sich mit UNS überlappen. Das ist das, was Ihr seht.~ [BD44893]
+@44893 = ~In Ordnung, also unsere Ebene überlappt sich so mit den anderen Ebenen, verstanden? Überlappen ist nicht wirklich das richtige Wort, es ist vielmehr … ein Kreis. In anderen Kreisen. Es ist kompliziert. Wie auch immer, die anderen Ebenen beinhalten Wesen, die sich mit UNS überlappen. Das ist das, was Ihr seht.~ [BD44893]
 @44894 = ~Und Ihr sagtet, dass ich Wesen auf diese Ebene ziehen könnte?~
 @44896 = ~Ja, so als ob unsere Wirklichkeit die Primäre Materielle Ebene genannt wird und die anderen Ebenen andere Namen haben. Ihr könnt ein Wesen von seiner Ebene auf unsere ziehen, aber die werden das wohl nicht so mögen, Mann. Denkt darüber nach, wisst Ihr, wie ein Fisch aus dem Wasser, wisst Ihr? Nur vielleicht so weniger mit dem Fisch, der stirbt, sondern eher so mit dem Fisch, der dich umbringt. Oder nicht.~ [BD44896]
 @44897 = ~Was genau macht diese Brille sichtbar?~
@@ -9317,6 +9336,15 @@ Plötzlich endet das Scharren. Man hört, wie ein Schlüssel das Schloss öffnet
 @45177 = ~Nicht ganz! Ich bin kein hundertprozentiges Scheusal, gebunden durch mein Blut. Ich kann gut oder böse sein, ganz wie ich will.~ [BD45177]
 @45181 = ~Fürst Maxwell,
 
+die Zeit ist gekommen, etwas zu unternehmen. Araya stimmt mit mir überein, dass wir es nicht riskieren können, die Großherzöge von Baldurs Tor öffentlich herauszufordern. Sie verfügen über zu viel Einfluss. Man kann ihren Beweggründen nicht trauen. Ich habe verstörende Gerüchte gehört, dass die Herzöge nun mit dem Mörder von Sarevok im Bunde stehen. Wie können wir ihnen trauen, unsere Stadt zu führen und Gewinne abzuschöpfen? Trefft uns am kommenden Tag in den „Drei Alten Fässern“ und wir werden einen Schlachtplan entwerfen. Elric sollte sich uns ebenfalls anschließen. Verbrennt diesen Brief.
+
+Therton~ ~Fürst Maxwell,
+
+die Zeit ist gekommen, etwas zu unternehmen. Araya stimmt mit mir überein, dass wir es nicht riskieren können, die Großherzöge von Baldurs Tor öffentlich herauszufordern. Sie verfügen über zu viel Einfluss. Man kann ihren Beweggründen nicht trauen. Ich habe verstörende Gerüchte gehört, dass die Herzöge nun mit der Mörderin von Sarevok im Bunde stehen. Wie können wir ihnen trauen, unsere Stadt zu führen und Gewinne abzuschöpfen? Trefft uns am kommenden Tag in den „Drei Alten Fässern“ und wir werden einen Schlachtplan entwerfen. Elric sollte sich uns ebenfalls anschließen. Verbrennt diesen Brief.
+
+Therton~
+@45181 = ~Fürst Maxwell,
+
 die Zeit ist gekommen, etwas zu unternehmen. Araya stimmt mit mir überein, dass wir es nicht riskieren können, die Großherzöge von Baldurs Tor öffentlich herauszufordern. Sie verfügen über zu viel Einfluss. Man kann ihren Beweggründen nicht trauen. Ich habe verstörende Gerüchte gehört, dass die Herzöge nun mit dem Mörder von Sarevok im Bunde stehen. Wie können wir ihnen trauen, unsere Stadt zu führen und Gewinne abzuschöpfen? Trefft uns am kommenden Tag in den „Drei Alten Fässern“ und wir werden einen Schlachtplan entwerfen. Eldric sollte sich uns ebenfalls anschließen. Verbrennt diesen Brief.
 
 Therton~ ~Fürst Maxwell,
@@ -9522,6 +9550,11 @@ Gewicht: 0~
 Ich habe den Dschinn Nazramu aus der Elementarebene der Luft herbeigerufen.
 
 Fasziniert vom Leben der Primären Materiellen Ebene hat der Dschinn beschlossen, eine Weile hierzubleiben.~
+@45229 = ~Zaviaks Visionssuche
+
+Ich habe den Dschinn Nazramu aus der Elementarebene der Luft herbeigerufen.
+
+Fasziniert vom Leben der Primären Materiellen Ebene hat der Dschinn beschlossen, eine Weile hierzubleiben.~
 @45230 = ~Armschienen des Gauklers~
 @45231 = ~Diese Armschienen gehörten einst einem reisenden Gaukler, der berühmt für seine scharfe Zunge und Schlagfertigkeit war. In einer regnerischen Nacht kam der Barde in einem klapprigen Wirtshaus an der Straße nach Schattental unter. Um an eine warme Suppe zu kommen, spielte er etwas vor und streute ein paar bissige Spötteleien ein, so wie er es immer tat. Einer der Gäste in der Taverne, eine alte Dame, stand mitten in der Vorstellung auf und rief: „Ihr denkt, es sei klug, andere zu beleidigen und schlechtzumachen? Nur zu, tut das, so lange Ihr lebt!“ Der Barde konnte seine nun verfluchten Armschienen nicht mehr entfernen und war dadurch gezwungen, andauernd geschmacklose Witze vom Stapel zu lassen, bis er einen Zauberer bezahlen konnte, der ihn davon befreite.
 
@@ -9592,7 +9625,7 @@ ETW0-Bonus:
   –2
   –4 gg. böse Wesen
 Schadensbonus:
-  +2 (Geschoss) gg. neutrale und gute Wesen
+  +2 (Geschoss)
   +4 (Geschoss) gg. böse Wesen
 Initiativefaktor: 3
 Fertigkeit: Armbrust
@@ -9629,7 +9662,7 @@ Typ: 1-händig
 Mindeststärke: 6
 
 Gewicht: 2~
-@45266 = ~Ohne Rubinwein wird keiner mehr hier bleiben wollen. KEINER.~
+@45266 = ~Ohne Rubinwein wird keiner mehr hierbleiben wollen. KEINER.~
 @45267 = ~Eine Taverne ohne Rubinwein ist wie ein Magier ohne Zauberbuch.~
 @45268 = ~Die Taverne ist ruiniert! Ich werde arbeitslos.~
 @45269 = ~Eine Taverne ohne Rubinwein ist wie ein Paladin ohne Ausstrahlung.~
@@ -9875,7 +9908,7 @@ Gewicht: 5~
 @45507 = ~Ihr hättet Euch nicht mit Sarevoks Gehilfin verbünden sollen. Dieser Fehler wird Euch Euer Leben kosten.~
 @45508 = ~Nein, bin ich nicht, ich schwöre es! Ich musste nur in die Gruft gelangen. Wenn ich hier fertig bin, werde ich meiner Wege gehen und Korlasz niemals wieder sehen.~ [BD45508]
 @45509 = ~Ich erstelle ein alchemistisches Gebräu, um magisch verborgene Schriften sichtbar zu machen. Ein Söldner sollte mich weiter in die Gruft führen, um die Zutaten zu finden, die mir noch fehlen …~ [BD45509]
-@45510 = ~Aber gerade hat ihre Anführerin sie alle fort befohlen. Sie bat mich, zu meiner eigenen Sicherheit hier zu bleiben. Wenn Ihr zufällig auf Kobaltmoos stoßt und es mir mitbringen könntet, wäre ich sehr dankbar.~ [BD45510]
+@45510 = ~Aber gerade hat ihre Anführerin sie alle fortbefohlen. Sie bat mich, zu meiner eigenen Sicherheit hier zu bleiben. Wenn Ihr zufällig auf Kobaltmoos stoßt und es mir mitbringen könntet, wäre ich sehr dankbar.~ [BD45510]
 @45511 = ~Sicherlich, ich werde meine Augen offen halten.~
 @45513 = ~Muss es Kobaltmoos sein? Mit meiner Magie kann ich vielleicht einen Ersatz brauen. Lasst mich sehen, was Ihr da habt …~
 @45514 = ~Ich würde Euch gerne etwas besorgen, vorausgesetzt, Ihr bezahlt dafür.~
@@ -9890,7 +9923,6 @@ Gewicht: 5~
 @45527 = ~Nun erzählt mir von Euren Plänen für dieses Gebräu.~
 @45528 = ~Ein weiteres Mal hallo.~ [BD45528]
 @45529 = ~Ich suche noch nach dem Kobaltmoos.~
-@45530 = ~Ich habe das Kobaltmoos gefunden, nachdem Ihr gesucht habt.~
 @45531 = ~Viel Glück Euch.~
 @45532 = ~Das ist es, ja. Der Trank ist fertig.~
 @45533 = ~Ich bin neugierig. Was genau habt Ihr mit diesem Trank vor?~
@@ -9968,9 +10000,8 @@ EIGENSCHAFTEN:
 
 Der Träger ist immun gegen „Personen festhalten“.
 
-RK-Bonus:
-  –3
-  kein Schutz vor Geschoss- und Stichwaffen
+RK-Bonus: –3
+Kein Schutz vor Geschoss- und Stichwaffen
 Mindeststärke: 4
 
 Gewicht: 1~
@@ -9979,8 +10010,8 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-Zauber: +2 (Grad 1)
-Zauber: +1 (Grad 2 und 3)
+Magierzauber: +2 (Grad 1)
+Magierzauber: +1 (Grad 2 und 3)
 
 Gewicht: 1~
 @45607 = ~(placeholder) Generische Instrumentbeschreibung~
@@ -10174,7 +10205,7 @@ Gewicht: 4~
 @45774 = ~So falsch diese Entscheidung auch ist, es ist Eure Wahl. Wenn Ihr Eure Meinung nicht ändert, dann verschwindet.~
 @45777 = ~So auch Ihr. Ich bin überrascht.~
 @45778 = ~Ich habe die Aussichten auf den Erhalt der von Euch versprochenen Belohnung als mager eingeschätzt. Wäre ich nicht gekommen, wären sie erst gar nicht existent gewesen.~
-@45779 = ~Ich sagte doch, dass Ihr meine Schätze bekommt, wenn Ihr mich befreitet.~
+@45779 = ~Ich sagte doch, dass Ihr meine Schätze bekommt, wenn Ihr mich befreit.~
 @45780 = ~Und habt Ihr vor, Euch an Euer Versprechen zu halten?~
 @45781 = ~Ihr werdet mir verzeihen, dass ich Euch im Verdacht hatte, in Euren Absichten nicht wirklich ehrlich zu sein.~
 @45782 = ~Ich dachte, Ihr würdet lügen.~
@@ -10288,6 +10319,14 @@ Identifizieren (3x täglich)
 
 Gewicht: 1~
 @45912 = ~Umhang der beluirischen Wache~
+@45913 = ~Beluir ist die Hauptstadt des Halblings-Königreichs Luiren. Viele tapfere Halblinge zeigen ihrem Zuhause Respekt, indem sie in der Stadtwache dienen. Wie jede große Stadt hat auch Beluir eine relativ hohe Kriminalitätsrate, und Stadtwachen müssen jeden Tag eine hohe Wachsamkeit und Tapferkeit erkennen lassen. Während manche Halblinge nur ein paar Jahre dienen, bevor sie auf andere Arbeitsstellen wechseln oder die Stadt verlassen, werden viele lebenslange Mitglieder der Wache. Dieser Umhang ist eine Belohnung für fünf Dienstjahre und trägt auf der Spange eine Inschrift in der Sprache der Halblinge. Übersetzt lautet die Inschrift „Mit gutem Beispiel vorangehen“ und ist eine der Grundsätze der Halblingsgöttin Yollanda.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: −2 gg. riesige Humanoide
+Trefferpunkte: +5 für Halblinge
+
+Gewicht: 3~
 @45913 = ~Beluir ist die Hauptstadt des Halblings-Königreichs Luiren. Viele tapfere Halblinge zeigen ihrem Zuhause Respekt, indem sie in der Stadtwache dienen. Wie jede große Stadt hat auch Beluir eine relativ hohe Kriminalitätsrate, und Stadtwachen müssen jeden Tag eine hohe Wachsamkeit und Tapferkeit erkennen lassen. Während manche Halblinge nur ein paar Jahre dienen, bevor sie auf andere Arbeitsstellen wechseln oder die Stadt verlassen, werden viele lebenslange Mitglieder der Wache. Dieser Umhang ist eine Belohnung für fünf Dienstjahre und trägt auf der Spange eine Inschrift in der Sprache der Halblinge. Übersetzt lautet die Inschrift „Mit gutem Beispiel vorangehen“ und ist eine der Grundsätze der Halblingsgöttin Yollanda.
 
 EIGENSCHAFTEN:
@@ -11022,6 +11061,7 @@ Gewicht: 2~
 @46968 = ~Ich habe Mattron vertraut, und das hat kein besonders gutes Ende genommen. Lasst es mich wissen, wenn Ihr sonst noch etwas braucht.~
 @46969 = ~Euch bleibt kaum eine andere Wahl, sie lässt sich nicht abschließen. Beim Bau der Brückenfeste hat man nicht an Diebe gedacht, wisst Ihr? Wenn es etwas gibt, was Ihr benötigt, lasst es mich wissen.~
 @46971 = ~Schon gut, schon gut. Ich musste das sagen. Ihr müsst ja nicht gleich SO dick auftragen.~
+@46972 = ~Nicht lange, gar nicht lange. Kellard – die Frau, die vor mir diese Schicht geschoben hat – ist erst gestern gestorben. Verdammter Kreuzzug.~
 @46972 = ~Nicht lange, gar nicht lange. Kellard – der Mann, der vor mir diese Schicht geschoben hat – ist erst gestern gestorben. Verdammter Kreuzzug.~
 @46973 = ~Kann ich irgendetwas für Euch tun?~
 @46976 = ~Ich würde gern hören, was Ihr über die Untaten denkt, die man Mattron vorwirft.~
@@ -11700,7 +11740,7 @@ Gewicht: 6~
 @47808 = ~Das war überhaupt keine Hilfe, aber danke fürs Versuchen.~
 @47809 = ~Ich fange an Euch zuzustimmen. Ihr könnt jetzt gehen.~
 @47810 = ~Kein Problem, gar kein Problem. Tue ich gerne für einen Diener der Dame. He, möge Caelar auf Euch scheinen. Passt auf Euch auf.~ ~Kein Problem, gar kein Problem. Tue ich gerne für eine Dienerin der Dame. He, möge Caelar auf Euch scheinen. Passt auf Euch auf.~
-@47811 = ~Ich könnte gehen. Das könnte ich tun, ja, <PRO_SIRMAAM>, aber dann wäre ich derjenige, den Leopas schief anschauen würde. Er hat mir befohlen, diesen Posten zu besetzen. Also werde ich hier bleiben, wenn es Euch nicht stört. Möge das Licht der Strahlenden Dame Euch immer führen.~
+@47811 = ~Ich könnte gehen. Das könnte ich tun, ja, <PRO_SIRMAAM>, aber dann wäre ich derjenige, den Leopas schief anschauen würde. Er hat mir befohlen, diesen Posten zu besetzen. Also werde ich hierbleiben, wenn es Euch nicht stört. Möge das Licht der Strahlenden Dame Euch immer führen.~
 @47812 = ~Das tun viele. Sie ist vor einer Woche, vielleicht zwei, vielleicht drei, vielleicht vier oder noch mehr, hier angekommen und nach Drachenspeer gegangen. Nach dem, was ich ich weiß, ist sie noch immer da drin.~
 @47813 = ~Danke, Ihr wart äußerst hilfreich.~
 @47814 = ~Was denkt Ihr über die Angelegenheit mit Valis und Corinth? Kennt Ihr sie?~
@@ -12065,6 +12105,7 @@ Gewicht: 6~
 @48232 = ~Sie ist in schlechter Verfassung, mein Freund. Wenn wir kein Heilmittel für die Krankheit finden, wird sie die Erste sein, die stirbt. Ihre Stelle in der Mitte des Lagers setzt sie all ihren kranken Begleitern aus. Ich glaube, dass Nähe die Krankheit verschlimmert.~ ~Sie ist in schlechter Verfassung, meine Freundin. Wenn wir kein Heilmittel für die Krankheit finden, wird sie die Erste sein, die stirbt. Ihre Stelle in der Mitte des Lagers setzt sie all ihren kranken Begleitern aus. Ich vermute, dass Nähe die Krankheit verschlimmert.~
 @48233 = ~Warum geht es ihr schlechter als den anderen?~
 @48234 = ~Durch ihre Position im Zentrum des Lagers ist sie all ihren kranken Kameraden ausgesetzt. Ich denke, dass Nähe die Krankheit verschlimmert.~
+@48235 = ~Danke, Jaheira.~
 @48236 = ~Aaah… alles dreht sich …~
 @48237 = ~Haltet still! Versucht, Eure Kräfte zu sparen. Mit Glück werde ich bald ein Heilmittel haben.~
 @48238 = ~Es braucht üblicherweise ein paar Flaschen Wein, bis ich dieses Stadium erreiche. Haltet durch und versucht, es zu genießen. Ich komme bald zurück.~
@@ -12364,6 +12405,7 @@ Gewicht: 5~
 @48577 = ~Tut mir leid, ich kann Euch nicht helfen.~ [BD48577]
 @48579 = ~Viel Glück auf Eurer Mission. Aber nehmt dafür nicht mein Glück. Hehe!~ [BD48579]
 @48581 = ~Meine Augen bluten beim Anblick Eures Versuches, die Formation zu halten! Ihr seid der ungeschickteste Haufen Grenadiere, die jemals VERSUCHT haben, in einer Armee zu marschieren!~
+@48582 = ~Verzeiht die Störung, Wächter. Gehört dieses Stück Papier Euch?~
 @48582 = ~Verzeiht die Störung, Wächterin. Gehört dieses Stück Papier Euch?~
 @48586 = ~Lasst mich mal sehen … Nein, das gehört mir nicht. Sieht so aus, als ob es eine Seite aus dem Chiffrierbuch von Aufseherin Zweikante sein könnte. Habt Ihr sie gefragt?~ [BD48586]
 @48587 = ~Wer ist Aufseherin Zweikante?~
@@ -13163,6 +13205,7 @@ Ich habe mit Wynan Hess, dem obersten Zauberer der Brückenfeste, gesprochen. Un
 @49543 = ~Das solltet Ihr auch.~
 @49544 = ~Nein, das wird er nicht. Wir werden sterben. Wir werden mit leeren Mägen sterben.~
 @49545 = ~Sei nicht so melodramatisch, Merome. Kümmert Euch nicht um ihn. Habt vielen Dank, dass Ihr wenigstens versucht, uns zu helfen. Es bedeutet uns mehr, als Ihr vermuten mögt. Lebt wohl.~
+@49545 = ~Sei nicht so melodramatisch, Merome. Kümmert Euch nicht um ihn. Habt vielen Dank, dass Ihr wenigstens versucht, uns zu helfen. Es bedeutet uns mehr, als Ihr vermuten mögt. Lebt wohl.~
 @49546 = ~Trotz Euer Bemühungen werden wir sterben. Wir werden mit leeren Mägen sterben.~
 @49547 = ~Wir werden sterben. Wir werden mit leeren Mägen sterben.~
 @49548 = ~Habt Dank! Habt vielen Dank! Ich glaube, ich sollte Euch eine Art Bezahlung anbieten …~
@@ -13245,6 +13288,7 @@ Ich habe mit Wynan Hess, dem obersten Zauberer der Brückenfeste, gesprochen. Un
 @49635 = ~Ich wette auf „nichts Gutes“. Ich kenne all die Männer, die sich dieser Mission angeschlossen haben. Der Name Gardnerson steht nicht auf der Liste.~ [BD49635]
 @49636 = ~Bevor Ihr das tut, kann Gardnerson uns vielleicht erklären, was er hier tut. Er ist keiner von uns.~ [BD49636]
 @49637 = ~Ist er nicht. Ich kenne jeden, der sich bei uns eingetragen hat. Es gibt keinen Gardnerson auf dieser Liste.~ [BD49637]
+@49638 = ~Wartet einen Moment, <CHARNAME>. Irgendetwas ist hier faul. Ich kenne den Namen eines jeden, der sich uns bisher angeschlossen hat. Auf dieser Liste gibt es keinen Gardnerson.~ [BD49638]
 @49638 = ~Wartet einen Moment, <CHARNAME>. Irgendetwas ist hier faul. Ich kenne den Namen eines jeden, der sich uns bisher angeschlossen hat. Auf dieser Liste gibt es keinen Gardnerson.~ [BD49638]
 @49639 = ~Oh, in Ordnung. Ihr habt mich erwischt. Ich sollte nicht hier sein. Zumindest nicht offiziell. Meine Mutter denkt, dass ich definitiv hier sein sollte, und es ist im Allgemeinen einfacher, ihrer Meinung zu folgen, als sich mit ihr anzulegen.~ [BD49639]
 @49640 = ~Eure Mutter hat Euch geschickt?~
@@ -13557,7 +13601,8 @@ Ich habe mit Wynan Hess, dem obersten Zauberer der Brückenfeste, gesprochen. Un
 @49969 = ~Das ist kein Ort für einen Gnom wie Euch.~
 @49970 = ~Mutter würde mir niemals vergeben, wenn ich dich sterben lassen würde, Peptram. Du musst hier verschwinden.~ [BD49970]
 @49971 = ~Das sollte meine Gelegenheit werden, mich selbst zu beweisen …~
-@49972 = ~Du bist ein guter Mann, Peptram. Werde nicht zu einem toten Mann!~ [BD49972]
+@49972 = ~Du bist ein guter Mann, Peptram. Werde nicht zu einem guten toten Mann!~ [BD49972]
+@49973 = ~In … in Ordnung, ich werde gehen. Hier, nimm diesen Dolch, er gehörte Vater. Er hat ihn während der letzten beiden Drachenspeer-Kriege getragen. Es ist nur richtig, dass ein Gardnersonson, der in diesem Krieg kämpft, ihn nun trägt. Machs gut, Vetter. Lebt wohl.~ [BD49973]
 @49973 = ~In … in Ordnung, ich werde gehen. Hier, nimm diesen Dolch, er gehörte Vater. Er hat ihn während der letzten beiden Drachenspeer-Kriege getragen. Es ist nur richtig, dass ein Gardnersonson, der in diesem Krieg kämpft, ihn nun trägt. Machs gut, Vetter. Lebt wohl.~ [BD49973]
 @49974 = ~Habt Ihr die Tat schon vollbracht? Ist der watschelnde Eitersack Peptram noch unter uns?~
 @49975 = ~Wo kann ich Peptram nochmal finden?~
@@ -14009,8 +14054,8 @@ Der Geist des Ungeheuers ist getötet worden, als ich mit einer geheimen Verbind
 @50461 = ~Es tut mir weh, Euch gehen zu lassen, aber ich werde darüber hinwegkommen. Wartet auf mich im Lager.~
 @50462 = ~Nein, Ihr bleibt hier. Ich gehe.~
 @50463 = ~Das wollte ich, aber ich habe meine Meinung geändert. Bleibt bei mir.~
-@50464 = ~Ihr könnt Euch glücklich schätzen, dass ich eine geduldige Frau bin, <CHARNAME>. Ich werde hier bleiben … fürs Erste.~
-@50465 = ~Die Frage, die Ihr stellen solltet, ist, ob ich Euch noch brauche. Aber na schön, geht Eures Weges. Ich werde hier bleiben … eine Zeit lang.~
+@50464 = ~Ihr könnt Euch glücklich schätzen, dass ich eine geduldige Frau bin, <CHARNAME>. Ich werde hierbleiben … fürs Erste.~
+@50465 = ~Die Frage, die Ihr stellen solltet, ist, ob ich Euch noch brauche. Aber na schön, geht Eures Weges. Ich werde hierbleiben … eine Zeit lang.~
 @50467 = ~Hoho! Voghiln wird an Eurer Seite kämpfen, und danach werden wir unsere Siege mit Wein und Gesang feiern! Hauptsächlich mit Wein, ja?~
 @50471 = ~Hallo, <CHARNAME>. Und wie geht es dem Helden von Baldurs Tor heute <DAYNIGHTALL>?~ ~Hallo, <CHARNAME>. Und wie geht es der Heldin von Baldurs Tor heute <DAYNIGHTALL>?~
 @50477 = ~Seid Ihr sicher, dass Ihr mich nicht bei Euch haben wollt, <CHARNAME>? Die Großherzöge haben mir befohlen, an Eurer Seite zu bleiben.~ [BD50477]
@@ -14183,7 +14228,7 @@ Ich habe versucht, Tharantis die Halskette von Kendra zurückzuverkaufen, aber d
 @50587 = ~Sagt mir, warum Ihr tatsächlich hier seid. Sofort, oder Ihr bekommt eine verpasst!~
 @50588 = ~Kommt schon, wir sind beide Halborks. Was geht hier in Wahrheit vor?~
 @50589 = ~Dorn hier ist ein Halbork und ein Freund. Er vertraut mir gut genug. Könnt Ihr nicht das Gleiche tun?~
-@50591 = ~Ihr wollt kämpfen? Sprecht mit Rend. Ihr wollt reden? Besorgt mir was zu trinken. Es gibt hier keinen Alkohol. Nicht, dass einer mit uns teilen würde. Aber ich wette, dass die Kreuzzügler welchen haben.~
+@50591 = ~Ihr wollt kämpfen? Sprecht mit Rend. Ihr wollt reden? Besorgt mir was zu trinken. Es gibt hier keinen Alkohol. Nicht dass einer mit uns teilen würde. Aber ich wette, dass die Kreuzzügler welchen haben.~
 @50592 = ~Ich werde mit etwas Bier wiederkommen.~
 @50593 = ~Wir sind beide Halborks. Redet mit mir. Was geht hier in Wahrheit vor?~
 @50595 = ~Bringt mir einen frostigen Krug Bier und wir werd’n sehen. Wir haben hier keinen Alkohol und mit uns teilt auch keiner. Aber ich wette, die Kreuzzügler haben welchen.~
@@ -14387,8 +14432,8 @@ Ich habe Junia zur Rede gestellt und sie hat ihre Taten zugegeben. Sie befahl ih
 @50808 = ~(jaul)~ [WADOG08]
 @50809 = ~32 Mitglieder meines Clans sind dabei gestorben, als sie versuchten, ein Huhn aus einem Brunnen zu retten. Einer kletterte nach unten und ist ertrunken. Einer stieg hinterher, um den Ersten zu retten. Er ist ertrunken. Ein anderer ging hinein – ertrunken. Der nächste fiel hinein, hat sich den Hals gebrochen und ist ertrunken. Und der nächste, und dann ein weiterer, und so weiter und so fort. Sie hätten aufhören sollen, als das Huhn ertrunken war. Man kann einem Goblin etwas beibringen, aber nicht viel.~ [BD50809]
 @50810 = ~Was ist, Hundchen? Ist da jemand im Brunnen gefangen? Aber Boo sagt nein, da ist nur ein Huhn, und Minsk sollte nicht auf merkwürdige Tiere hören. Boo ist klug.~ [BD50810]
-@50811 = ~(wau wau)~ [WADOG04]
-@50812 = ~Was ist, Hund? Wollt Ihr das Huhn fressen? Wir sollten es ihn haben lassen. Er sieht hungrig aus.~ [BD50812]
+@50811 = ~(wau, wau)~ [WADOG04]
+@50812 = ~Was ist, Hund? Willst du das Huhn fressen? Wir sollten es ihn haben lassen. Er sieht hungrig aus.~ [BD50812]
 @50813 = ~Hühnerfedern werden für einen Zauberspruch benötigt, der Euch so leicht wie eine Feder werden lässt. Aber da Ihr in der Zeit, in der ich Euch kenne, noch nie von einer Klippe gefallen seid, habe ich mir niemals die Mühe gemacht, ihn mir einzuprägen.~ [BD50813]
 @50814 = ~Machen wir jetzt Hühnersuppe? Lasst uns etwas Thymian in den Brunnen schmeißen, wo wir schon dabei sind. Vielleicht auch noch etwas Lorbeer und ein paar Karotten.~ [BD50814]
 @50815 = ~Das konstante Kläffen des Hundes geht mir auf die Nerven. Fort mit dir, Köter!~
@@ -14953,7 +14998,7 @@ Gewicht: 2~
 @51533 = ~Es sind schon unwahrscheinlichere Dinge passiert. Wenn ich die Fragmente finde, werde ich zu Euch zurückkehren.~
 @51534 = ~Ich habe kein Interesse daran, Eure erbärmliche Bestrebung zu unterstützen.~
 @51535 = ~Danke. Wir haben das Symbol im Schutt gleich nördlich von hier gefunden, aber die Fragmente können überall im Lager sein. Untersucht jeden Schutthaufen, den Ihr finden könnt. Ich habe gesehen, dass Moraloffizier Deneld ebenfalls hier herumläuft. Er könnte etwas gesehen haben.~
-@51536 = ~Idealerweise würden die Fragmente von einem Priester des Tempus’ gesegnet werden, aber ich denke, damit könnt Ihr nicht dienen. Lebt wohl und viel Glück.~
+@51536 = ~Idealerweise würden die Fragmente von einem Priester des Tempus gesegnet werden, aber ich denke, damit könnt Ihr nicht dienen. Lebt wohl und viel Glück.~
 @51537 = ~Hallo Rekrut. Ihr müsst neu sein.~ ~Hallo Rekrutin. Ihr müsst neu sein.~
 @51538 = ~Neu, aber bereits schwer am Arbeiten. Ich suche nach einem Steinfragment, ungefähr so groß.~
 @51539 = ~Ja, ich bin erst vor Kurzem beigetreten.~
@@ -15006,12 +15051,12 @@ Gewicht: 2~
 @51595 = ~BEREITET EUCH AUF DIE HERAUSFORDERUNG FEINDHAMMERS VOR!~ [BD51595]
 @51596 = ~Tempus dankt Euch!~
 @51597 = ~Ich habe die zwei Steinfragmente gefunden.~
-@51598 = ~Die Fragmente wurden von einer Priesterin des Tempus’ gesegnet.~
+@51598 = ~Die Fragmente wurden von einer Priesterin des Tempus gesegnet.~
 @51599 = ~Und ich danke Tempus.~
 @51600 = ~Wunderbar! Ich wünschte nur, wir könnten die Fragmente irgendwie segnen lassen. Es gibt keinen Priester von Tempus im Lager.~
 @51601 = ~Zumindest können wir das Symbol wiederherstellen. Kommt, es ist da drüben neben dem Zelt.~
 @51602 = ~Wirklich? Wie habt Ihr das angestellt?~
-@51603 = ~Ich habe von einer Priesterin des Tempus’ gehört, die sich im Lager im Süden aufhalten soll.~
+@51603 = ~Ich habe von einer Priesterin des Tempus gehört, die sich im Lager im Süden aufhalten soll.~
 @51604 = ~Ich habe eine Priesterin getroffen, die in den Wäldern umherwanderte, und sie davon überzeugt, die Fragmente zu segnen.~
 @51605 = ~Spielt das eine Rolle? Die Fragmente sind jetzt geweiht.~
 @51606 = ~Ihr wart im Lager des Feindes? Ihr seid kein Kreuzzügler …~
@@ -15556,7 +15601,17 @@ Ich muss den Gnom Peptram Gardnersonson auftreiben und einen Weg finden, seinen 
 
 Mein nächster Schritt ist, nach Peptram Gardnersonson Ausschau zu halten.
 
+Zwei Soldaten aus Dolchfurt scheinen Schwierigkeiten mit ihrem kommandierenden Offizier zu haben, einem Gnom mit dem Namen Peptram Gardnerson.~
+@52038 = ~Glint Gardnersonson
+
+Mein nächster Schritt ist, nach Peptram Gardnersonson Ausschau zu halten.
+
 Zwei Soldaten aus Dolchfurt scheinen Schwierigkeiten mit ihrem kommandierenden Offizier zu haben, einem Gnom mit dem Namen Peptram Gardnersonson.~
+@52039 = ~Glint Gardnersonson
+
+Mein nächster Schritt ist, nach Peptram Gardnersonson Ausschau zu halten.
+
+Zwei Soldaten aus Dolchfurt scheinen Schwierigkeiten mit ihrem kommandierenden Offizier zu haben, einem Gnom mit dem Namen Peptram Gardnerson. Ich habe zugestimmt, ihre Schwierigkeiten zu beseitigen, im Austausch für ein paar wertvolle Tränke.~
 @52039 = ~Glint Gardnersonson
 
 Mein nächster Schritt ist, nach Peptram Gardnersonson Ausschau zu halten.
@@ -15614,6 +15669,11 @@ Peptram Gardnersonson wird in der Dolchfurter Miliz niemanden mehr belästigen.~
 Ich sollte auf unseren Reisen weiter nach Glints Verwandten Ausschau halten.
 
 Peptram Gardnersonson ist aus dem Drachenspeer-Lager vertrieben worden. Bevor er gegangen ist, hat er Glint ein Familienerbstück vermacht – einen Dolch, der von Glints Onkel im letzten Drachenspeer-Krieg getragen wurde.~
+@52049 = ~Glint Gardnersonson
+
+Ich sollte auf unseren Reisen weiter nach Glints Verwandten Ausschau halten.
+
+Ich habe Peptram Gardnersonson nicht tatsächlich getötet, aber seine „Freunde“ müssen das nicht wissen. Jetzt, da ich mich um Peptram gekümmert habe, können wir mit unserer Suche nach dem Rest von Glints Verwandten fortfahren.~
 @52049 = ~Glint Gardnersonson
 
 Ich sollte auf unseren Reisen weiter nach Glints Verwandten Ausschau halten.
@@ -15794,6 +15854,7 @@ Ich bin auf Rhonda getroffen, eine junge Gnomin, die von ihrer Familie weggeriss
 @52260 = ~Ja, gern.~
 @52261 = ~Dann gehen wir.~
 @52262 = ~Wenn es so ist, dann ist es so.~
+@52263 = ~Bei der ausgetrockneten Kehle des Eichenvaters, gibt es in diesem Ödland kein Bier? Wartet, dieser Becher hat noch was drin … Ist das Wein? Gibt nur einen Weg das herauszufinden.~
 @52263 = ~Bei der ausgetrockneten Kehle des Eichenvaters, gibt es in diesem Ödland kein Bier? Wartet, dieser Becher hat noch was drin … Ist das Wein? Gibt nur einen Weg das herauszufinden.~
 @52264 = ~Ihr wacht eingesperrt und mit einem Kater auf und klammert Euch direkt wieder an Euren Krug? Das ist ein Problem.~
 @52265 = ~Voghiln, stopp! Das ist alles andere als hygienisch.~
@@ -16150,7 +16211,7 @@ Dieser Zauber erschafft bis zu vier Sphären aus glühendem Licht (so wie es von
 @52601 = ~Ich weiß, dass es ungelegen kommt, monetär und so, aber ich würde es so sehr zu schätzen zu wissen, wieder mit ihr reden zu können. Es würde mich beruhigen, und dazu braucht es sonst SEHR viel mehr.~ [BD52601]
 @52602 = ~Ich habe nicht die Zeit, sie zu Euch zu bringen. Ihr müsst Euch die Beweise jetzt anschauen.~
 @52603 = ~Ich werde wiederkommen, wenn sie wieder mit Euch sprechen kann.~
-@52604 = ~Ich denke wirklich, dass sie hier sein sollte, Ihr nicht? Nicht, dass ich Euch nicht traue, aber Ihr wisst ja, was Fische sagen: „Besser den Tümpel, den man kennt, als den See, den man nicht kennt.“~ [BD52604]
+@52604 = ~Ich denke wirklich, dass sie hier sein sollte, Ihr nicht? Nicht dass ich Euch nicht traue, aber Ihr wisst ja, was Fische sagen: „Besser den Tümpel, den man kennt, als den See, den man nicht kennt.“~ [BD52604]
 @52605 = ~Ich stimme zu. Das ist die beste Vorgehensweise.~ [BD52605]
 @52607 = ~Notizen von einem Ritual, geschrieben von Ifearnan. Er will eine Untotenarmee aufstellen.~
 @52608 = ~Beweise der Verdorbenheit des Kreuzzugs.~
@@ -16175,7 +16236,8 @@ Dieser Zauber erschafft bis zu vier Sphären aus glühendem Licht (so wie es von
 @52629 = ~Endlich kann ich meine Aufmerksamkeit wieder auf die Dinge richten, die sie auch erfordern.~
 @52630 = ~Ich vermisse unsere Heimat in der Tat. Was meint Ihr, Rigah? Sollen wir mal wieder Rashemen besuchen?~ [BD52630]
 @52631 = ~Wenn das Euer Wunsch ist, Herrin.~ [BD52631]
-@52632 = ~Dann vorwärts! Danke nochmals, Ihr Lieben. Nehmt das hier als Dankeschön. Rigah hat eine vortreffliche, neue Waffe und die hier schleppen wir hier seit Wochen mit uns herum. Denkt bei ihrem Anblick an mich. Nicht, dass Ihr mich vergessen würdet, aber nur für den Fall.~ [BD52632]
+@52632 = ~Dann vorwärts! Danke nochmals, Ihr Lieben. Nehmt das hier als Dankeschön. Rigah hat eine vortreffliche, neue Waffe und die hier schleppen wir hier seit Wochen mit uns herum. Denkt bei ihrem Anblick an mich. Nicht dass Ihr mich vergessen würdet, aber nur für den Fall.~ [BD52632]
+@52633 = ~Nicht dass Ihr uns je vergessen würdet.~
 @52634 = ~Ja. Ja, ich sehe es nun. Ihr Wahnsinn hat die Oberhand gewonnen.~ [BD52634]
 @52635 = ~Tut das nicht, Rigah! Wir können sie immer noch zur Einsicht bringen.~ [BD52635]
 @52637 = ~Eure Weigerung, das Böse zu erkennen, mit dem Ihr im Bunde seid, kann nichts anderes bedeuten, außer dass Ihr vernichtet werden müsst!~
@@ -16199,6 +16261,7 @@ Dieser Zauber erschafft bis zu vier Sphären aus glühendem Licht (so wie es von
 @52655 = ~Der Kreuzzug hat eine Spur der Verwüstung hinter sich hergezogen. Ihr könnt nicht daneben stehen und eine solche Ungerechtigkeit geschehen lassen.~
 @52656 = ~Die meisten Anführer tun das, meine Taube. Spricht die Vogelscheuche die Wahrheit zum Vogelfutter, das sie unter ihrem Hut verbirgt? Ich glaube nicht.~ [BD52656]
 @52660 = ~Was soll ich sagen? Ich bin ein Mann des Volkes.~ ~Was soll ich sagen? Ich bin eine Frau des Volkes.~
+@52661 = ~Wenn das ein Problem für Euch ist, könnt Ihr gerne hierbleiben.~
 @52662 = ~Haltet Schritt! Die Straßen sind Schulter an Schulter voll mit Leuten. Der Traum eines jeden Taschendiebs da draußen – und der eines jeden Meuchelmörders.~
 @52664 = ~Ich bin bereit sofort aufzubrechen.~
 @52666 = ~Was mich wirklich interessieren würde, ist, wo all mein Gold hin ist.~
@@ -16243,11 +16306,14 @@ Ich habe einen merkwürdigen Mann getroffen, der sich in meinen Quartieren im He
 @52710 = ~Erzählt mir etwas über Euch.~
 @52711 = ~Was könnt Ihr mir über diesen Ort sagen?~
 @52712 = ~Ihr habt Glück. Wir haben was zu trinken hier.~
+@52713 = ~Wer, ich? Es gibt nicht viel zu erzählen. Die Taverne brauchte jemanden, der sich um den Zapfhahn kümmert, und ich brauchte ein paar zusätzliche Münzen in meiner Tasche.~
 @52713 = ~Wer, ich? Es gibt nicht viel zu erzählen. Das Gasthaus brauchte jemanden, der sich um den Zapfhahn kümmert, und ich brauchte ein paar zusätzliche Münzen in meiner Tasche.~
+@52714 = ~Wer, ich? Da gibt es nicht viel zu erzählen. Die Taverne brauchte jemanden, der sich um den Zapfhahn kümmert, und ich brauchte ein paar Münzen in meiner Tasche. Mein Mann ist ein Seemann, daher ist er wochenlang nicht da. Das hält mich beschäftigt und lässt mich mit Leuten ins Gespräch kommen.~
 @52714 = ~Wer, ich? Da gibt es nicht viel zu erzählen. Das Gasthaus brauchte jemanden, der sich um den Zapfhahn kümmert, und ich brauchte ein paar Münzen in meiner Tasche. Mein Mann ist ein Seemann, daher ist er wochenlang nicht da. Das hält mich beschäftigt und lässt mich mit Leuten ins Gespräch kommen.~
 @52715 = ~Ich hätte jetzt gerne etwas zu trinken.~
 @52716 = ~Ihr müsst von Zeit zu Zeit einsam sein.~
 @52717 = ~Was könnt Ihr mir über dieses Gasthaus erzählen?~
+@52719 = ~Das „Zu den Drei Alten Fässern“ ist eine der ältesten Tavernen in Baldurs Tor. Ich hätte niemals gedacht, dass ich mal an einem Ort arbeite, wo es so schön ist. Nantrin Bellowglyn gehört der Laden.~
 @52719 = ~Das „Zu den Drei Alten Fässern“ ist eines der ältesten Gasthäuser in Baldurs Tor. Ich hätte niemals gedacht, dass ich mal an einem Ort arbeite, wo es so schön ist. Nantrin Bellowglyn gehört der Laden.~
 @52720 = ~Interessant. Ich würde jetzt gerne etwas trinken, bitte.~
 @52723 = ~Ich will diese Art Unterredung nicht führen, <PRO_SIRMAAM>. Mein Mann ist sehr oft auf See, aber ich bin gleichwohl glücklich mit ihm. Wollt Ihr jetzt etwas zu trinken oder nicht?~
@@ -16317,7 +16383,7 @@ Ich habe einen merkwürdigen Mann getroffen, der sich in meinen Quartieren im He
 @52793 = ~Das dachten die Großherzöge auch. Das Tagesgeschäft wird von Priestern und Mönchen unterschiedlicher Glaubensrichtungen erledigt.~
 @52794 = ~Ich werde hier sein, wenn Ihr mich braucht. Versucht, nicht in Schwierigkeiten zu geraten.~
 @52795 = ~Einen selûnitischen Mönch names Rasaad yn Bashir. Er hilt dabei, sich um die Geflüchteten zu kümmern.~
-@52796 = ~Die Straßen sind schon überfüllt genug. Wenn es für die Faust da draußen einfacher ist, dass die Geflüchteten hier bleiben … Nun, dieses Gebäude hat schon schlimmeren Zwecken gedient.~
+@52796 = ~Die Straßen sind schon überfüllt genug. Wenn es für die Faust da draußen einfacher ist, dass die Geflüchteten hierbleiben … Nun, dieses Gebäude hat schon schlimmeren Zwecken gedient.~
 @52797 = ~Fertig mit dem, weswegen Ihr hier seid?~
 @52798 = ~Der Mönch hat momentan anderes im Kopf. Er wird sich uns nicht anschließen.~
 @52799 = ~So nützlich das auch gewesen sein mag.~
@@ -16657,7 +16723,7 @@ Ich habe einen merkwürdigen Mann getroffen, der sich in meinen Quartieren im He
 @53151 = ~Danke, <CHARNAME>. Lasst uns weitermachen.~ [BD53151]
 @53152 = ~Und es wird mich nicht länger zurückhalten. Niemals wieder. Lasst uns weitermachen.~ [BD53152]
 @53153 = ~Ich hätte niemals gedacht, dass ich so froh darüber sein würde, mal ein nicht lavaspeiendes Kellergeschoss zu sehen.~ [BD53153]
-@53154 = ~Nicht, dass ich jemals Zweifel daran gehabt hätte, dass wir wieder ein normales, nicht lavaspeiendes Kellergeschoss sehen. Wir sind GUT. Fast zu gut.~ [BD53154]
+@53154 = ~Nicht dass ich jemals Zweifel daran gehabt hätte, dass wir wieder ein normales, nicht lavaspeiendes Kellergeschoss sehen. Wir sind GUT. Fast zu gut.~ [BD53154]
 @53155 = ~Ihr wart sehr gut.~
 @53156 = ~Ich bin ganz in Ordnung. Ihr … Ihr wart fantastisch, Neera. Ich hätte das nicht ohne Euch erreichen können. Betörend, blitzgescheit und … und noch etwas, das mit B beginnt. Bezaubernd. Das seid Ihr alles.~
 @53157 = ~Das war eine passable Angelegenheit.~
@@ -16902,7 +16968,7 @@ Ich habe einen merkwürdigen Mann getroffen, der sich in meinen Quartieren im He
 @53428 = ~Eure Worte haben mich verletzt, ja. Ich bin, wie ich bin, Rasaad. Wenn Ihr mich attraktiv findet, verleugnet das nicht.~
 @53429 = ~Dann lasst es uns hinter uns lassen und den Blick auf unsere Aufgaben richten.~
 @53430 = ~Ihr versteht nicht. Euer Leben unterscheidet sich von meinem. Chaos ist nicht Teil Eurer Geschichte.~ [BD53430]
-@53431 = ~Habt Ihr … habt Ihr gerade einem Kind Bhaals gesagt, dass ein chaotisches Leben etwas wäre, dass es nicht verstehen würde?~
+@53431 = ~Habt Ihr … habt Ihr gerade einem Kind Bhaals gesagt, dass es chaotisches Leben nicht verstehen würde?~
 @53432 = ~Worauf wollt Ihr hinaus?~
 @53433 = ~Na, das tut jetzt echt weh. Mein Leben war nicht nur Zuckerschlecken.~
 @53434 = ~Ich sprach von Eurer Geschichte, nicht Eurem Leben. Ihr hattet ein Zuhause, einen Ort, an den Ihr gehörtet, selbst wenn es nur für eine Weile war. Ihr seid unter der Obhut von jemandem aufgewachsen, der Euch liebte.~ [BD53434]
@@ -18049,7 +18115,7 @@ Ich habe einen merkwürdigen Mann getroffen, der sich in meinen Quartieren im He
 @54742 = ~Wie jeder gute Rechte-Hand-Gnom es tun würde. Ihr seid ein wahrer Freund, Glint.~
 @54743 = ~Das ist ein wenig verstörend. Auf eine charmante Art sicherlich, aber dennoch.~
 @54744 = ~Kümmert Euch um Euch selbst, kleiner Mann, und lasst mich das Gleiche tun.~
-@54745 = ~Der Held von Baldurs Tor ist doch sicherlich daran gewöhnt, dass die Augen anderer auf ihn gerichtet sind, nicht wahr? Nicht, dass ich Euch deshalb beobachtet hätte. Ruhm ist vergänglich. Was mich zu Euch hinzieht, hat mehr Gewicht als das.~ [BD54745] ~Die Heldin von Baldurs Tor ist doch sicherlich daran gewöhnt, dass die Augen anderer auf sie gerichtet sind, nicht wahr? Nicht, dass ich Euch deshalb beobachtet hätte. Ruhm ist vergänglich. Was mich zu Euch hinzieht, hat mehr Gewicht als das.~ [BD54745]
+@54745 = ~Der Held von Baldurs Tor ist doch sicherlich daran gewöhnt, dass die Augen anderer auf ihn gerichtet sind, nicht wahr? Nicht dass ich Euch deshalb beobachtet hätte. Ruhm ist vergänglich. Was mich zu Euch hinzieht, hat mehr Gewicht als das.~ [BD54745] ~Die Heldin von Baldurs Tor ist doch sicherlich daran gewöhnt, dass die Augen anderer auf sie gerichtet sind, nicht wahr? Nicht dass ich Euch deshalb beobachtet hätte. Ruhm ist vergänglich. Was mich zu Euch hinzieht, hat mehr Gewicht als das.~ [BD54745]
 @54746 = ~Lasst mich bitte für einen Moment. Ich brauche nur ein paar Sekunden, um den Kopf freizubekommen und mich ein wenig zu konzentrieren.~ [BD54746]
 @54747 = ~Alle Zeit der Welt, mein Freund. Ich will nicht, dass Ihr Euch auch nur im Geringsten schlechter fühlt als in Bestform, wenn wir uns den kommenden Prüfungen stellen.~
 @54748 = ~Nur ein wenig, hoffe ich. Euer verwirrtes Haupt ist Teil Eures Charmes.~
@@ -18172,6 +18238,7 @@ Ich habe einen merkwürdigen Mann getroffen, der sich in meinen Quartieren im He
 @54873 = ~Machts gut, <CHARNAME>. Wir werden uns nicht wieder treffen, glaube ich. Aber ich hoffe von Herzen, dass ich falsch liege.~
 @54874 = ~Oh? Und was genau habt Ihr gehört?~
 @54875 = ~Hochverrat gegen die Fürsten dieser großartigen Stadt.~
+@54876 = ~Dinge, von denen Ihr nicht wollt, dass die Großherzöge sie erfahren. Lasst uns doch darüber reden, wie viel Ihr bereit seid, springen zu lassen, damit das nicht passiert, was?~
 @54876 = ~Dinge, von denen Ihr nicht wollt, dass die Großherzöge sie erfahren. Lasst uns doch darüber reden, wie viel Ihr bereit seid, springen zu lassen, damit das nicht passiert, was?~
 @54877 = ~Nichts, das ich seit der Vernichtung von Sarevok nicht schon viele Male gehört hätte. Der Rat ist schwach. Er muss abgelöst werden.~
 @54878 = ~Ich habe drei Adlige gehört, die Pläne gegen die Fürsten von Baldurs Tor schmieden. Pläne, bei denen ich sehr gerne mitmachen würde.~
@@ -18649,6 +18716,20 @@ Ich habe es geschafft, Delenda, eine Edelfrau im „Zu den Drei Alten Fässern�
 
 EIGENSCHAFTEN:
 
+RK-Bonus: −2 gg. Klingenwaffen für Kensai
+
+ETW0-Bonus: −1
+Schaden: 1W8 +1 (Stich)
+Initiativefaktor: 2
+Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 2~
+@55840 = ~Dieses Wakizashi ist eine feine Arbeit, aber auf seinen Griff wurden knallbunte falsche Edelsteine geklebt. Die Waffe wurde von Bartel beschafft, einem lokalen Gauner, dessen Besessenheit vom Kontinent Kara-Tur ihn zu einem der unausstehlichsten Söldner machte, der je in einer Taverne gesehen wurde. Er schwadronierte für Stunden darüber, wie verschieden die fremde Kultur doch zu der der Schwertküste sei und dass er ein wahrer „Stadt-Samurai“ sei – ein Titel, der so anmaßend wie unverdient ist.
+
+EIGENSCHAFTEN:
+
 RK-Bonus: –2 gg. Klingenwaffen für Kensai
 
 ETW0-Bonus: –1
@@ -18680,6 +18761,11 @@ Delenda, die Edelfrau im „Zu den Drei Alten Fässern“ will wirklich, wirklic
 @55858 = ~Er war einst ein Monster, nicht vom Körper her, von den Taten her aber schon. Ein grausamer Krieger, der lebte, um alles abzuschlachten, was ihm in die Quere kam. Dann traf er auf die Strahlende Dame und fand seine Berufung. Als einer von Caelars Getreuen ist er nun … zielgerichteter. Aber für die, die sich Caelar in den Weg stellen wollen, ist er ebenso gefährlich wie früher.~
 @55860 = ~Ich freue mich darauf ihn kennenzulernen.~
 @55862 = ~Ein neuer Rekrut, ja? Dann sprecht mit dem Zwerg Kharm. Er wird sich um Euch kümmern.~ ~Eine neue Rekrutin, ja? Dann sprecht mit dem Zwerg Kharm. Er wird sich um Euch kümmern.~
+@55866 = ~Tage des Weins und des Diebstahls
+
+Irina hat als Folge ihrer Transformation das Interesse an Rubinwein verloren.
+
+Druidische Magie ist keine exakte Wissenschaft. Irgendetwas in meiner Formel hatte fürchterliche Wechselwirkungen mit der Physiologie des Halblings und hat Irina in ein Eichhörnchen verwandelt. Glücklicherweise konnte ich sie zurückverwandeln, aber sie hat kein Interesse mehr an dem Rubinwein.~
 @55866 = ~Tage des Weins und des Diebstahls
 
 Irina hat als Folge ihrer Transformation das Interesse an Rubinwein verloren.
@@ -18951,6 +19037,7 @@ Durch die Aktivierung jedes einzelnen Menhirs habe ich die Stimme von Crommus, e
 @56146 = ~Ich bin der Held von Baldurs Tor. Ihr tut, was ich sage, oder werdet durch meine Hand sterben. Lasst die verdammte Brücke herunter!~ ~Ich bin die Heldin von Baldurs Tor. Ihr tut, was ich sage, oder werdet durch meine Hand sterben. Lasst die verdammte Brücke herunter!~
 @56148 = ~Der Kreuzzug ist der Meinung, dass die Brückenfeste kurz davorsteht zu kapitulieren. Sie werden jetzt nicht mit einem Angriff rechnen.~
 @56151 = ~Hört mir zu, verdammt noch mal! Nur, wenn wir sofort angreifen, kann die Brückenfeste siegen.~
+@56153 = ~Lasst die Brücke herunter, Mari. Das k-könnte unsere einzige Chance auf einen Sieg sein.~
 @56159 = ~Ihr nehmt Eure Pflichten sehr ernst. Gut, das ist gut. Dann ziehe ich mich zurück. Fürs Erste.~
 @56162 = ~Wenn Ihr den Kreuzzug angreifen wollt, dann sprecht mit Khalid. Er ist derjenige, der hier das Kommando hat. Ich bin bereit zu kämpfen, wenn er den Befehl dazu gibt. Nun entschuldigt mich, ich muss mich meinen Pflichten widmen.~
 @56163 = ~Lebt wohl.~
@@ -19188,26 +19275,21 @@ Gewicht: 1~
 Und damit seid Ihr nicht allein. Die Flammende Faust fürchtet ebenso, was vor Euch liegen mag. Wenn Caelar die Eberfellbrücke zerstört hat, wird der Feldzug Burg Drachenspeer nicht mehr rechtzeitig erreichen, um den Kreuzzug aufzuhalten. Die Streitkräfte von Baldurs Tor und seinen Verbündeten werden zurückfallen. Und abgeschlachtet werden.
 
 Diese Befürchtungen besorgen Eure Verbündeten, aber treiben sie gleichzeitig auch an. Die ängstlichen Flüstereien verstummen, als der Marsch weniger als einen Tag von Eberfell entfernt gestoppt wird. Die Flammende Faust schlägt ein Lager auf und bereitet sich auf das nächste Aufeinandertreffen mit dem Kreuzzug vor, während Ihr Eure nächsten Schritte plant.~ [BD56368]
-@56369 = ~Kapitel acht~
-@56370 = ~Kapitel neun~
 @56371 = ~Auf der Straße nach Burg Drachenspeer sind Zeichen der kürzlichen Anwesenheit des Kreuzzugs zu sehen, aber man trifft sehr selten tatsächlich auf Diener der Strahlenden Dame. Die paar Kreuzzügler, die Ihr aus der Ferne entdeckt, ziehen sich ohne Ausnahme bei erster Gelegenheit zurück.
 
-Mit dem Fortschreiten des Marschs greift die Ermüdung um sich. Die Launen der Karawanenmitglieder schwanken. Euer Ruf als der Held von Baldurs Tor schützt Euch vor Streitereien und Wutausbrüchen … oder möglicherweise wollen Euch nur wenige Leute über den Weg laufen, nach dem, was auf der Eberfellbrücke passiert ist.
+Mit Fortschreiten des Marschs greift die Ermüdung um sich. Die Launen der Karawanenmitglieder schwanken. Euer Ruf als der Held von Baldurs Tor schützt Euch vor Streitereien und Wutausbrüchen … oder möglicherweise wollen Euch nur wenige Leute über den Weg laufen, nach dem, was auf der Eberfellbrücke passiert ist.
 
 Diese Gedanken werden beiseitegeschoben, als Ihr die Banner von Tiefwasser, Dolchfurt und der Flammenden Faust seht, die am Rande des Bündnislagers wehen. Burg Drachenspeer ist nahe, und damit auch Caelars Tag des Untergangs.~ [BD56371] ~Auf der Straße nach Burg Drachenspeer sind Zeichen der kürzlichen Anwesenheit des Kreuzzugs zu sehen, aber man trifft sehr selten tatsächlich auf Diener der Strahlenden Dame. Die paar Kreuzzügler, die Ihr aus der Ferne entdeckt, ziehen sich ohne Ausnahme bei erster Gelegenheit zurück.
 
-Mit dem Fortschreiten des Marschs greift die Ermüdung um sich. Die Launen der Karawanenmitglieder schwanken. Euer Ruf als die Heldin von Baldurs Tor schützt Euch vor Streitereien und Wutausbrüchen … oder möglicherweise wollen Euch nur wenige Leute über den Weg laufen, nach dem, was auf der Eberfellbrücke passiert ist.
+Mit Fortschreiten des Marschs greift die Ermüdung um sich. Die Launen der Karawanenmitglieder schwanken. Euer Ruf als die Heldin von Baldurs Tor schützt Euch vor Streitereien und Wutausbrüchen … oder möglicherweise wollen Euch nur wenige Leute über den Weg laufen, nach dem, was auf der Eberfellbrücke passiert ist.
 
 Diese Gedanken werden beiseitegeschoben, als Ihr die Banner von Tiefwasser, Dolchfurt und der Flammenden Faust seht, die am Rande des Bündnislagers wehen. Burg Drachenspeer ist nahe, und damit auch Caelars Tag des Untergangs.~ [BD56371]
-@56372 = ~Kapitel zehn~
 @56373 = ~Stahl und Magie prallen in der Ferne immer noch aufeinander, aber Ihr habt Caelars Angriff auf das Bündnislager vereitelt. Die Zeit ist gekommen, dass die vereinten Kräfte von Tiefwasser, Dolchfurt und Baldurs Tor den Kampf zur Strahlenden Dame tragen.
 
 Die Mauern, die Drachenspeers Ruinen umgeben, sind voll mit Kreuzzüglern. Unter ihnen befinden sich Caelars engste Leutnante – Männer und Frauen von unübertroffenem Können, die bereit sind, alles für ihre Anführerin zu opfern. Sie zu besiegen und die Burg zu übernehmen, wird nicht leicht sein, aber das ist die Aufgabe, die vor Euch liegt.~ [BD56373]
-@56374 = ~Kapitel elf~
 @56375 = ~Avernus, die erste Ebene der Neun Höllen, überwältigt Eure Sinne. Der Gestank von Schwefel und saurer Milch füllt Eure Nase und erstickt Euren Mundraum und Eure Kehle mit übelerregenden Gasen. Das verbitterte Gestöhne der Verdammten umgibt Euch und dringt von allen Seiten auf Euch ein.
 
 Als sich Eure tränengefüllten Augen an das trübe Licht gewöhnt haben, das von der Lava dieser Ebene ausgeht, beginnt Ihr die bedrückende Erhabenheit dieser verfluchten Einöde um Euch herum zu spüren. Durch die Verfolgung der Strahlenden Dame seid Ihr an den düstersten Ort gelangt, den Ihr Euch nur vorstellen könnt, und die Verfolgung ist noch nicht vorüber. Die Leichen von Kreuzzüglern übersähen den Boden um Euch herum, aber von Caelar selbst fehlt jede Spur.~ [BD56375]
-@56376 = ~Kapitel zwölf~
 @56378 = ~Ihr kehrt nach Baldurs Tor zurück, unter Umständen, die düsterer sind, als irgendjemand sich hätte ausmalen können. Was ein Moment des krönenden Triumphes hätte sein sollen, ist stattdessen ein Albtraum, der jenseits Eurer Vorstellungskraft liegt.
 
 Skie Silberschild ist tot, offenbar durch Eure Hand. Die Kleriker der Belagerungsstreitkräfte sind nicht in der Lage, sie ins Leben zurückzuholen. Ihr magisch konservierter Körper wurde zu Großherzog Entar Silberschild überführt, der sich an die schwache Hoffnung klammert, dass seine Tochter eines Tages wiederbelebt werden könnte. Ihr teilt diese Hoffnung. Ohne Skie werdet Ihr vielleicht nie erfahren, was in dieser dunklen Nacht geschehen ist.
@@ -19866,13 +19948,13 @@ Khalid hat die Halskette fertiggestellt und wird sie Jaheira in Kürze überreic
 @56892 = ~Ich hab mehr Worte an Euch verschwendet, als ich eigentlich wollte. Bleibt hier, vielleicht werde ich nach einiger Zeit zu Euch zurückkehren.~
 @56893 = ~Ich? Nein. Was hat Euch das glauben lassen?~
 @56894 = ~Nicht jetzt, ich brauche Euch bei mir.~
-@56896 = ~Wir werden hier bleiben. Wenn Ihr in Kürze zurückkommt, wird Minsk Eure Respektlosigkeit vielleicht vergessen haben.~
+@56896 = ~Wir werden hierbleiben. Wenn Ihr in Kürze zurückkommt, wird Minsk Eure Respektlosigkeit vielleicht vergessen haben.~
 @56897 = ~Ich hatte gedacht, Ihr … Ach, ist egal. Lasst uns weiterziehen.~
 @56898 = ~Wenn das Euer Wunsch ist, soll es so sein. Lebt wohl.~
 @56899 = ~Boo will „Tschüss“ sagen? Ich werde es <PRO_HIMHER> sagen.~
 @56900 = ~<CHARNAME>, Boo sagt „Tschüss“.~
 @56902 = ~Ihr habt eine Wahl zu treffen, <CHARNAME>. Wollt Ihr uns beide oder keinen?~
-@56903 = ~Keinen, zumindest für den Moment. Ihr beide solltet hier bleiben und auf mich warten.~
+@56903 = ~Keinen, zumindest für den Moment. Ihr beide solltet hierbleiben und auf mich warten.~
 @56904 = ~Ihr und Minsk kehrt zum Lager zurück. Ich denke, wir werden in nicht allzu ferner Zukunft wieder miteinander sprechen.~
 @56905 = ~Ich brauche den Waldläufer. Ihr beide könnt bleiben.~
 @56906 = ~Nun gut.~
@@ -19903,7 +19985,7 @@ Khalid hat die Halskette fertiggestellt und wird sie Jaheira in Kürze überreic
 @56934 = ~Geht ins Lager zurück. Ich werde Euch dort aufsuchen, wenn ich Euch wieder brauche.~
 @56935 = ~Ich wollte, dass Ihr geht, aber das Begehren war nur von kurzer Dauer. Ich habe meine Meinung geändert.~
 @56936 = ~Ihr wollt mich zurücklassen? Bin ich so schwerfällig, dass Ihr denkt, Ihr müsstet mich loswerden? Na schön, ich werde tun, was Ihr wollt.~
-@56937 = ~Angst vor Konkurrenz, wie? Hätte ich an Eurer Stelle auch. Nun gut, geht, ich werde hier bleiben. Zumindest weiß ich, dass ich auf diese Art bessere Gesellschaft habe.~
+@56937 = ~Angst vor Konkurrenz, wie? Hätte ich an Eurer Stelle auch. Nun gut, geht, ich werde hierbleiben. Zumindest weiß ich, dass ich auf diese Art bessere Gesellschaft habe.~
 @56938 = ~Werdet Ihr das? Und warum fragt Ihr nicht mich, ob ich das auch will? Ach, bemüht Euch nicht um eine Antwort. Das Lager, hm? Alles klar, ich werde Euch dort treffen, sofern Ihr es schafft, ohne mich zu überleben. Zwar unwahrscheinlich, aber möglich, denke ich.~
 @56939 = ~Und wie soll ich mich danach jetzt fühlen, frage ich Euch? Bei den Göttern, <CHARNAME>, Ihr seid SO selbstbezogen. Ich weiß nicht, warum ich mir das antue. Ich weiß es wirklich nicht.~
 @56941 = ~PRIESTER DES TYR: Tyr ist der Gott des Gesetzes und der Gerechtigkeit. Er wacht über die Bestrafung von Missetätern und die allgemeine Förderung des Guten und des Rechts in der Welt. Der Glaube an Gerechtigkeit durch (gütige) Machtausübung, oder zumindest bewaffnete Wachsamkeit, ist der Grund für Tyrs Existenz. Tyr besitzt im Pantheon eine hohe Bekanntheit, da er Anführer der sogenannten Triade ist, ein Trio aus rechtschaffen guten Göttern, die sich gemeinsam den Prinzipien von Mut, Gerechtigkeit, Beharrlichkeit, Beseitigung allen Leids, Pflichtgefühl, Gehorsamkeit, Ehre und (bis zu einem gewissen Grad) rechtschaffenden Märtyrertum verschrieben haben.
@@ -19954,7 +20036,6 @@ Dieser Zauber gewährt dem Anwender einen Bonus von +1 auf seine Treffer- und Sc
 Die Reise wird durch die Opfer des Kreuzzugs verlangsamt. Eine Vielzahl von gebrochenen, verfolgten Männern und Frauen verstopfen den Küstenweg. Wenn sie gefragt werden, berichten sie von in Flammen stehenden Feldern, geplünderten Kornkammern und vom Kreuzzug zwangsrekrutierten Familienmitgliedern. Und doch stufen einige diese Zustände als notwendige Opfer für ein höheres Wohl ein. Eine merkwürdige Akzeptanz – und sogar Bewunderung – für Caelar Silberweiß ist unter jenen, denen sie Leid angetan hat, irritierenderweise sehr verbreitet. Manche tun kund, dass die Strahlende Dame eine Prophetin ist, die das Werk aller Glaubensrichtungen und Götter – anstatt nur eines Gottes – verrichtet.
 
 Ist es möglich, dass Caelar Silberweiß’ Beweggründe rechtschaffen sind? Oder führt sie einen großen Schwindel auf, um ihre eigene Agenda voranzutreiben, so wie Sarevok es tat?~ [BD56974]
-@56975 = ~Kapitel dreizehn~
 @56976 = ~Schleimkrankheit
 
 Ich bin mit dem Heiltrank zu den kranken Kreuzzüglern zurückgekehrt, um sie zu heilen.~
@@ -20155,7 +20236,7 @@ Goblinartige hatten mir temporär den Weg versperrt und für meine Weiterreise e
 @57184 = ~Hoho, Ihr wollt den alten Voghiln aufziehen. Ja, sehr gut, hohoho!~ ~Ho, ho. Ihr wollt gegen den alten Voghiln aufziehen. Ja, sehr gut, hohoho!~
 @57185 = ~Ihr wollt den Bezwinger des Nachtmahr-Clans aus Eurer Gruppe schmeißen? Das ergibt für mich keinen Sinn.~ [BD57185]
 @57189 = ~Euch rausschmeißen? Wo habt Ihr denn diese Idee her?~
-@57190 = ~Aber das ist doch kein Problem. Was Ihr verlangt, könnte ich im Schlaf tun. Jetzt, da Ihr es erwähnt, ein Nickerchen wäre gar keine so schlechte Idee. Ja. Ich werde hier bleiben.~
+@57190 = ~Aber das ist doch kein Problem. Was Ihr verlangt, könnte ich im Schlaf tun. Jetzt, da Ihr es erwähnt, ein Nickerchen wäre gar keine so schlechte Idee. Ja. Ich werde hierbleiben.~
 @57191 = ~Das kann ich durchaus tun. Passt auf Euch auf, mein Freund.~ ~Das kann ich durchaus tun. Passt auf Euch auf, meine Freundin.~
 @57192 = ~Das hatte ich, aber dann musste es ja passieren: Ich habs ausgetrunken. So ist das Leben, was?~
 @57193 = ~Was? Aber ich dachte … Ach, ist auch egal. Denkt aber daran: Was immer Ihr braucht, <CHARNAME> – ich, Voghiln, der Schrecken der Tundra, bin für Euch da.~
@@ -20199,6 +20280,9 @@ Die Reisen von <CHARNAME> bieten die Gelegenheit, einen der Tests auszuführen, 
 @57234 = ~Die Regelbrecher
 
 Ein Mitglied der Flammenden Faust, Leutnantin Otilda, hat mich darum gebeten, einen Streit mit einer Gruppe von Halbork-Söldnern zu provozieren. Otilda glaubt, dass man den Halborks nicht trauen kann. Ich soll ich mit ihnen in Streit geraten, damit sie aus dem Lager vertrieben werden.~
+@57234 = ~Die Regelbrecher
+
+Ein Mitglied der Flammenden Faust, Leutnantin Otilda, hat mich darum gebeten, einen Streit mit einer Gruppe von Halbork-Söldnern zu provozieren. Otilda glaubt, dass man den Halborks nicht trauen kann. Ich soll ich mit ihnen in Streit geraten, damit sie aus dem Lager vertrieben werden.~
 @57235 = ~Die Regelbrecher
 
 Ich muss Otilda berichten, was ich in Erfahrung gebracht habe..
@@ -20235,6 +20319,9 @@ Ich glaube, der Oberleutnant denkt, dass ich die falsche Entscheidung getroffen 
 Ich habe meine Angelegenheiten mit den Halborks erledigt.
 
 Ich habe die Regelbrecher hinausbefördert. Kava hat mir als Dank eine kleine Belohnung gegeben. Selbst inmitten eines Krieges ziehe ich merkwürdige Typen und Einzelgänger an.~
+@57243 = ~Die Regelbrecher
+
+Ich habe eine Belohnung erhalten, weil ich den Halborks im Lager ausgeholfen habe.~
 @57243 = ~Die Regelbrecher
 
 Ich habe eine Belohnung erhalten, weil ich den Halborks im Lager ausgeholfen habe.~
@@ -20347,6 +20434,7 @@ Gewicht: 1~
 @57365 = ~Klingt gut. Auf gehts!~
 @57366 = ~Nicht schlecht. Er klingt ganz und gar furchterregend. Lasst uns irgendwo hingehen, wo er nicht ist, ja?~
 @57367 = ~Ich werde es ja sehen.~
+@57368 = ~Das Gebäude des Eisenthrons … Wie die Mächtigen gefallen sind, was?~
 @57368 = ~Das Gebäude des Eisenthrons … Wie die Mächtigen gefallen sind, was?~
 @57369 = ~Da drin ist ein Mönch, der Geflüchteten hilft: Rasaad yn Bashir. Herzog Belt meint, Ihr solltet mit ihm sprechen.~
 @57370 = ~Wenn es Euch hier nicht gefällt, dann könnt Ihr versuchen, mit Tiax im Kommandogebäude der Flammenden Faust zu sprechen. Das werdet Ihr sogar noch weniger mögen.~
@@ -20520,6 +20608,7 @@ Gewicht: 1~
 @57541 = ~Da habt Ihr vermutlich recht. Ihr habt ein Schwert in Eurer Brust.~
 @57542 = ~Warum seid Ihr hier, Ophyllis? Habt Ihr mein Gold?~
 @57543 = ~Mancher Oberkörper hat kein Problem damit, wenn Schwerter in ihm stecken, aber ich … ich fürchte, meiner gehört nicht dazu. Hehehehhhoh… nein, nein, nein … Das tut weh … Das ist gar nicht gut … Aber da-das ist nicht der Grund, warum ich hier bin …~
+@57544 = ~Ich hatte es, <CHARNAME>. Ich hatte Euer Geld, alles, aber ich wurde überfallen, überfallen von Kreuzzüglern. Sie haben all das Gold genommen, alles …~
 @57544 = ~Ich hatte es, <CHARNAME>. Ich hatte Euer Geld, alles. Aber ich wurde überfallen … überfallen von Kreuzzüglern. Sie haben all das Gold genommen, alles …~
 @57545 = ~Alles, was ich Euch g-geben kann … (stöhn) … ist d-dieses Schwert, das ich d-den Angrei-Angreifern entwenden konnte …~
 @57546 = ~Das ist momentan egal. Wir müssen jemanden finden, der Euch heilen kann.~
@@ -20798,6 +20887,7 @@ Ein Geisterdrachen bewacht den Eingang zu einem Ort, der Kanaglym genannt wird. 
 @57883 = ~Die Neuankömmlinge sind eine Plage. Man sollte sie meiden und nicht willkommen heißen.~
 @57890 = ~Bald werde ich gehen.~
 @57892 = ~Hätte ich nur einen Ort, den ich mein Zuhause nennen könnte … Nun ja, ich werde mich mit dem Herzogspalast begnügen müssen.~
+@57893 = ~Mögen die Zweige des Eichenvaters uns Schutz geben vor jedem Sturm, der vor uns liegt.~
 @57893 = ~Mögen die Zweige des Eichenvaters uns Schutz geben vor jedem Sturm, der vor uns liegt.~
 @57896 = ~Ihr seid wirklich sehr nett, mein Freund.~ ~Ihr seid wirklich sehr nett, meine Freundin.~
 @57897 = ~Das sind doch Kleinigkeiten. Jeder Tavernenbesitzer, der seine Arbeit versteht, wird eine himmlische Stimme spitzen Ohren vorziehen.~
@@ -21693,6 +21783,7 @@ Ich habe die Sache mit diesem Pack von Kreuzzüglern und ihrem Prozess zu Ende g
 
 Der Konflikt zwischen den Kreuzzüglern Valis und Corinth wurde gelöst. Ich habe mehr als nur ein bisschen Spaß daraus gezogen, die Dummköpfe gegeneinander auszuspielen.~
 @58729 = ~Ravok~
+@58730 = ~Ihr werdet hier warten, bis wir Euch zum Hauptquartier der Flammenden Faust bringen können.~
 @58731 = ~Wir haben nichts Falsches getan!~
 @58732 = ~Ihr habt Unruhe verursacht.~
 @58733 = ~Wir haben alles verloren! Wir sind frustriert. Ihr wärt das auch.~
@@ -22369,6 +22460,7 @@ Ist die leichteste Saaaaache der Weeeeelt …~ [BD58907]
 @59424 = ~Das will ich meinen.~ [BD59424]
 @59425 = ~Weiß irgendjemand, worüber bei den Höllen die zwei da gerade reden?~ [BD59425]
 @59427 = ~… „Das war keine Ziege, das war meine Frau!“ Und der Säufer sagt zu ihm, er sagt, er sagt: „Beim bemoosten Bart des Eichenvaters! Ich dachte, sie wäre beides!“ Hahaha!~ [BD59427]
+@59427 = ~… „Das war keine Ziege, das war meine Frau!“ Und der Säufer sagt zu ihm, er sagt, er sagt: „Beim bemoosten Bart des Eichenvaters! Ich dachte, sie wäre beides!“ Hahaha!~ [BD59427]
 @59428 = ~Also hat die Frau des Schäfers wie eine Ziege ausgesehen?~ [BD59428]
 @59429 = ~Ja, sie sah wie eine Ziege aus. Hoho! Witzig, was?~ [BD59429]
 @59430 = ~Nicht so witzig für den Schafhirten.~ [BD59430]
@@ -22504,6 +22596,11 @@ Ich habe eine weitere Komponente für Neeras Trank gefunden. Das macht schon vie
 Ich sollte weiterhin nach den Komponenten für Neeras Trank Ausschau halten.
 
 Neera hat die Feder vom Flügel eines Planetars sichergestellt, eine der Komponenten, die Neera für den Trank benötigt, der sie von Adoys ständiger Anwesenheit befreien wird.~
+@59546 = ~Der Ruf der Hasardeurin
+
+Ich sollte weiterhin nach den Komponenten für Neeras Trank Ausschau halten.
+
+Neera hat die Feder vom Flügel eines Planetars sichergestellt, eine der Komponenten, die Neera für den Trank benötigt, der sie von Adoys ständiger Anwesenheit befreien wird.~
 @59547 = ~Der Ruf der Hasardeurin
 
 Voghiln hat uns gesagt, wo wir eine siebenbeinige Spinne finden können – in einer Höhle im Osten.
@@ -22575,6 +22672,11 @@ Neera hat den Steckrübensaft beschafft, den sie für ihren Trank benötigt. Wir
 Ich sollte weiterhin nach den Komponenten für Neeras Trank Ausschau halten.
 
 Ich habe etwas Steckrübensaft besorgt. Ich glaube, dass Neera ihn für ihren Trank benötigt. Ich habe den Saft von einer sehr passionierten Gnomin gekauft.~
+@59561 = ~Der Ruf der Hasardeurin
+
+Ich sollte weiterhin nach den Komponenten für Neeras Trank Ausschau halten.
+
+Ich habe etwas Steckrübensaft besorgt. Ich glaube, dass Neera ihn für ihren Trank benötigt. Ich habe den Saft von einer sehr passionierten Gnomin gekauft.~
 @59562 = ~Der Ruf der Hasardeurin
 
 Ich sollte nach einem Portal zur Fugenebene Ausschau halten.
@@ -22587,6 +22689,16 @@ Adoys Geist hat Neera verlassen.
 Ich habe Neera geholfen, Adoys Geist freizusetzen. Sie ist nun so besonnen und konzentriert, wie sie nur sein kann. Adoy hat angedeutet, dass die Roten Magier Neera und andere Hasardeure jagen könnten. Neera wird sich früher oder später damit auseinandersetzen müssen.~
 @59564 = ~Ihr bewegt den Hebel, sodass der Griff nach unten zeigt. Ihr hört ein Klicken von einer nahegelegenen Tür.~
 @59565 = ~Umhang der geringeren Zauberkraft~
+@59566 = ~Dieser schimmernd blaue Umhang hat silberne Sterne in die Falten gestickt. Magier – insbesondere jene, die ihre Laufbahn als Abenteurer gerade beginnen – tragen solche Kleidung als Hilfe auf ihren Reisen. Wenn die Magier an Erfahrung und Macht dazugewinnen, beginnen sie damit, ihre eigene Ausrüstung herzustellen, und geben sie oft ihren Lehrlingen als Geschenk.
+
+EIGENSCHAFTEN:
+
+Zufällige Schriftrolle des Grads 1–3 erzeugen (1x täglich)
+
+Zauberstufe: +1 für Magier, Hexenmeister und Barden
+Sagenkunde: +10
+
+Gewicht: 3~
 @59566 = ~Dieser schimmernd blaue Umhang hat silberne Sterne in die Falten gestickt. Magier – insbesondere jene, die ihre Laufbahn als Abenteurer gerade beginnen – tragen solche Kleidung als Hilfe auf ihren Reisen. Wenn die Magier an Erfahrung und Macht dazugewinnen, beginnen sie damit, ihre eigene Ausrüstung herzustellen, und geben sie oft ihren Lehrlingen als Geschenk.
 
 EIGENSCHAFTEN:
@@ -22619,6 +22731,12 @@ Mit Glück und Verstand habe ich es geschafft, Korlasz zur Aufgabe zu bewegen. S
 @59574 = ~Das wechselnde Gesicht
 
 Als wenn ich nicht schon genug durchgemacht hätte, musste ich mich mit einem Doppelgänger beschäftigen, der sich als Imoen maskiert hat. Glücklicherweise hat die Kreatur sich selbst zu erkennen gegeben und ich konnte sie töten, bevor sie irgendeinen Schaden anrichten konnten. Ich hasse diese widerlichen Wesen. Jetzt, da ich weiß, dass sich Doppelgänger in diesem Gebiet befinden, muss ich mich fragen, was ich für ein „kleines Mädchen“ freigelassen habe. Vielleicht war sie gar kein Kind …~
+@59574 = ~Das wechselnde Gesicht
+
+Als wenn ich nicht schon genug durchgemacht hätte, musste ich mich mit einem Doppelgänger beschäftigen, der sich als Imoen maskiert hat. Glücklicherweise hat die Kreatur sich selbst zu erkennen gegeben und ich konnte sie töten, bevor sie irgendeinen Schaden anrichten konnten. Ich hasse diese widerlichen Wesen. Jetzt, da ich weiß, dass sich Doppelgänger in diesem Gebiet befinden, muss ich mich fragen, was ich für ein „kleines Mädchen“ freigelassen habe. Vielleicht war sie gar kein Kind …~
+@59575 = ~Das wechselnde Gesicht
+
+Als wenn ich nicht schon genug zu tun gehabt hätte, musste ich mich mit einem Doppelgänger beschäftigen, der sich als Imoen maskiert und sich mit Korlasz verbündet hat. Glücklicherweise hat die Kreatur sich selbst zu erkennen gegeben und ich konnte sie bei der Magierin töten, bevor sie irgendeinen Schaden anrichten konnten. Ich hasse diese widerlichen Wesen. Jetzt, da ich weiß, dass sich Doppelgänger in diesem Gebiet befinden, muss ich mich fragen, was ich für ein „kleines Mädchen“ freigelassen habe. Vielleicht war sie gar kein Kind …~
 @59575 = ~Das wechselnde Gesicht
 
 Als wenn ich nicht schon genug zu tun gehabt hätte, musste ich mich mit einem Doppelgänger beschäftigen, der sich als Imoen maskiert und sich mit Korlasz verbündet hat. Glücklicherweise hat die Kreatur sich selbst zu erkennen gegeben und ich konnte sie bei der Magierin töten, bevor sie irgendeinen Schaden anrichten konnten. Ich hasse diese widerlichen Wesen. Jetzt, da ich weiß, dass sich Doppelgänger in diesem Gebiet befinden, muss ich mich fragen, was ich für ein „kleines Mädchen“ freigelassen habe. Vielleicht war sie gar kein Kind …~
@@ -23004,6 +23122,11 @@ Doch da ich nicht bin Voghiln, reimt sich diese Zeile nicht auf die ersten beide
 Ich habe einen Skalden namens Voghiln getroffen.
 
 Der luskanische Voghiln hat sich meiner Gruppe angeschlossen. Das sollte interessant werden. Denn wenn der Mann so gut kämpft wie er reden kann, könnten wir in kürzester Zeit die Herrscher des Unterreichs werden.~
+@59740 = ~Voghiln der Mächtige
+
+Ich habe einen Skalden namens Voghiln getroffen.
+
+Der luskanische Voghiln hat sich meiner Gruppe angeschlossen. Das sollte interessant werden. Denn wenn der Mann so gut kämpft wie er reden kann, könnten wir in kürzester Zeit die Herrscher des Unterreichs werden.~
 @59741 = ~Die Verteidiger der Brückenfeste
 
 Neera hat sich mir auf meiner Reise angeschlossen.
@@ -23263,6 +23386,11 @@ Die Kreuzzügler verfügen über ein Katapult. Wenn ich die Kontrolle über dies
 Nederlock hat vorgeschlagen, dass ich die Kreuzzüglerin Aschatiel finde und ihrem Leben ein Ende setze.
 
 Die Kreuzzügler kommen, und unsere Truppen machen kaum mehr Fortschritte. Ich muss einen Weg finden, den Lauf der Dinge aufzuhalten. Dazu fällt mir ein altes Sprichwort ein: „Schneide den Kopf der Schlange ab und ihr Körper stirbt.“ Vielleicht werden die Kreuzzügler aufgeben, wenn ich ihre Kommandeure töte.~
+@59808 = ~Die Belagerung von Drachenspeer
+
+Ich sollte nach Bence Duncan an den Innenhoftoren Ausschau halten.
+
+Ich habe Adras Aschatiel besiegt. Jetzt, da der Kommandant tot ist, scheinen die Streitkräfte des Kreuzzugs auf der Flucht zu sein. Ich sollte wieder mit den Kommandierenden nahe der Innenhoftore zusammentreffen.~
 @59808 = ~Die Belagerung von Drachenspeer
 
 Ich sollte nach Bence Duncan an den Innenhoftoren Ausschau halten.
@@ -23622,6 +23750,7 @@ Ich musste einen meiner Gefährten als Einsatz bei einer Wette mit dem Teufel Th
 @59970 = ~Es sah so aus, als ob es aus Blech gemacht wäre.~
 @59971 = ~Das war echtes, gesegnetes Silber.~
 @59972 = ~Ihr habt es vermutlich verloren.~
+@59973 = ~Ich weiß, dass Ihr es wart, Lon! Ihr habt es gestohlen!~
 @59974 = ~Ihr seid verrückt, Frau! Ich habe gar nichts gestohlen.~
 @59975 = ~Was ist hier los? Eventuell kann ich von Hilfe sein.~
 @59976 = ~Ihr stört die anderen Leute hier. Worum geht es?~
@@ -24036,7 +24165,7 @@ Ich habe alle Gegenstände beschafft, die Waizahb gesucht hat, und wurde für me
 @60347 = ~„Spezialkräfte“ … So hört sich das von hinten Erdolchen direkt viel schöner an. Andra, wie stellt sich die Situation beim Feind dar?~
 @60348 = ~Sie befinden sich am nördlichen Eingang des Lagers. Wenn sie durchbrechen, lasse ich es Euch wissen. Ihr könnt wählen, welche Einheit ihnen entgegentreten soll. Sobald der Feind vernichtet ist oder Ihr gezwungen seid Euch zurückzuziehen, sprecht wieder mit mir.~ [BD60348]
 @60349 = ~Der Kreuzzug ist durchgebrochen! Da kommen Trolle über den westlichen Pfad!~
-@60350 = ~Ich werde hier bleiben und diese explosiven Fässer bewachen. Wenn der Kreuzzug sie erreicht, sind wir erledigt. Nehmt einen Trupp Soldaten und kümmert Euch um diese Trolle!~ [BD60350]
+@60350 = ~Ich werde hierbleiben und diese explosiven Fässer bewachen. Wenn der Kreuzzug sie erreicht, sind wir erledigt. Nehmt einen Trupp Soldaten und kümmert Euch um diese Trolle!~ [BD60350]
 @60351 = ~Bogenschützen, entzündet Eure Pfeilspitzen und helft mir, die Trolle zurückzuschlagen!~
 @60352 = ~Mordaus, sammelt Eure Kriegsmagier! Wir werden uns zusammen um diese Trolle kümmern.~
 @60353 = ~Auziel, führt unsere Schurken in die Schatten und schlagt zu, wenn ich die Anweisung erteile.~
@@ -24528,7 +24657,7 @@ Ich bin vor einer Tür auf den Schatten eines enormen Drachens gestoßen. Der Dr
 @60882 = ~Eine edle Gesinnung für ein unverzeihliches Verbrechen.~
 @60883 = ~Ist diese Art von Gespräch noch irgendeinem außer mir unangenehm? Weil meine Haare sich gerade aufstellen.~
 @60884 = ~Eine schwache Entschuldigung – und eine überflüssige. Ihr habt Informationen über den Kreuzzug. Erzählt sie mir und sagt mir dann, was ich damit tun soll.~
-@60885 = ~Urteilt über mich, wenn Ihr wollt, <CHARNAME>, aber um der Schwertküste Willen tut es, nachdem die Sache mit der Strahlenden Dame erledigt ist.~
+@60885 = ~Urteilt über mich, sofern Ihr denn müsst, <CHARNAME>. Aber um der Schwertküste Willen tut es, nachdem die Sache mit der Strahlenden Dame erledigt ist.~
 @60886 = ~… Na schön. Was verlangt Ihr von mir?~
 @60887 = ~Schön, lasst uns annehmen, wir hätten uns nicht kopfüber von der Klippe der Moral gestürzt und lasst uns unseren Pflichten zuwenden.~
 @60888 = ~Ich mag Euch, de Lancie. Ihr seid … fokussiert. Nun zu Calear Silberweiß. Erzählt mir, wie wir sie zerstören sollen.~
@@ -24599,7 +24728,9 @@ Ich bin vor einer Tür auf den Schatten eines enormen Drachens gestoßen. Der Dr
 @60953 = ~Folgt mir!~
 @60954 = ~Ich habe mich noch nicht entschieden.~
 @60955 = ~Sagt Ihr es mir. Es gibt ein paar Rashemi-Abenteurer, mit denen wir uns im Gasthaus „Zu den Drei Alten Fässern“ unterhalten können. Dann gibt es da noch diesen Barden und die Diebe in der Taverne „Elfgesang“. Und einen Mönch im Gebäude des Eisenthrons. Oder wir könnten einfach zum Palast zurückkehren.~
+@60955 = ~Sagt Ihr es mir. Es gibt ein paar Rashemi-Abenteurer, mit denen wir uns im Gasthaus „Zu den Drei Alten Fässern“ unterhalten können. Dann gibt es da noch diesen Barden und die Diebe in der Taverne „Elfgesang“. Und einen Mönch im Gebäude des Eisenthrons. Oder wir könnten einfach zum Palast zurückkehren.~
 @60956 = ~In Ordnung, ich weiß, was ich tun will. Folgt mir!~
+@60957 = ~Sagt Ihr es mir. Wir sollen Ausrüstung und Verbündete für die Reise nach Norden besorgen. Es gibt ein Paar Abenteurer aus Rashemen, mit dem wir in den „Drei Alten Fässern“ reden können, den Barden und die Diebe im „Elfgesang“ und einen Mönch im Gebäude des Eisenthrons. Oder wir könnten einfach wieder zum Palast zurückkehren.~
 @60957 = ~Sagt Ihr es mir. Wir sollen Ausrüstung und Verbündete für die Reise nach Norden besorgen. Es gibt ein Paar Abenteurer aus Rashemen, mit dem wir in den „Drei Alten Fässern“ reden können, den Barden und die Diebe im „Elfgesang“ und einen Mönch im Gebäude des Eisenthrons. Oder wir könnten einfach wieder zum Palast zurückkehren.~
 @60958 = ~Erzählt mir von diesen Dieben.~
 @60959 = ~Ein Barde, sagtet Ihr?~
@@ -24608,6 +24739,7 @@ Ich bin vor einer Tür auf den Schatten eines enormen Drachens gestoßen. Der Dr
 @60962 = ~Ich fühle mich sicherer hier drin, als dort draußen.~
 @60963 = ~Habe ich eigentlich nicht. Ich hatte nur gehofft, dass Ihr es habt. Wollt Ihr diesen Bekloppten wirklich sehen?~
 @60964 = ~Ich will nichts vorzeitig ausschließen. Aber wir erreichen nichts, wenn wir hier weiter herumlungern. Folgt mir!~
+@60965 = ~Eventuell. Erzählt mir von diesem Mönch im Gebäude des Eisenthrons.~
 @60965 = ~Eventuell. Erzählt mir von diesem Mönch im Gebäude des Eisenthrons.~
 @60966 = ~Möglicherweise. Was wisst Ihr über die Diebe im Gasthaus „Elfgesang“?~
 @60967 = ~Herzog Eltan scheint zu denken, dass ich es sollte. Er hat ebenso vorgeschlagen, dass ich eine Barden oder so aufsuchen soll, oder nicht?~
@@ -24618,6 +24750,7 @@ Ich bin vor einer Tür auf den Schatten eines enormen Drachens gestoßen. Der Dr
 @60973 = ~Alles klar, ich habe meine Entscheidung getroffen. Bleibt bei mir.~
 @60974 = ~Und die Diebe?~
 @60975 = ~Wer sind diese Abenteurer aus Rashemen, die Ihr erwähnt habt?~
+@60976 = ~Ich meine mich zu erinnern, dass irgendjemand einen Kleriker im Hauptquartier der Flammenden Faust erwähnt hat … Habt Ihr ihn vergessen?~
 @60976 = ~Ich meine mich zu erinnern, dass irgendjemand einen Kleriker im Hauptquartier der Flammenden Faust erwähnt hat … Habt Ihr ihn vergessen?~
 @60977 = ~Und der Barde, den Eltan vorgeschlagen hat aufzusuchen? Was sagt man über ihn?~
 @60978 = ~Coran und Safana. Bin nicht sicher, ob sie die Art von Leuten sind, die wir auf dieser Unternehmung brauchen. Aber Herzog Eltan hat gedacht, Ihr wolltet vielleicht, dass sie sich uns anschließen.~
@@ -24735,6 +24868,7 @@ Ich bin vor einer Tür auf den Schatten eines enormen Drachens gestoßen. Der Dr
 @61092 = ~Ich will gar nichts von Euch. Jedoch noch eine pampige Antwort und ich besorge mir ein paar Zähne aus Eurem Mund.~
 @61093 = ~Ich werde Euretwegen nicht einen Monat lang in Ketten verbringen. Kommt und besucht mich in Dolchfurt, wenn all das hier vorbei ist, und wir werden ein kleines Schwätzchen halten – Ihr und ich. Jetzt geht Eures Weges.~
 @61094 = ~Genug! Wir haben Besseres zu tun, als unsere eigenen Leute zu verärgern. Kommt, lasst uns gehen.~
+@61094 = ~Genug! Wir haben Besseres zu tun, als unsere eigenen Leute zu verärgern. Kommt, lasst uns gehen.~
 @61095 = ~Dumm. Nicht gut, wenn die Leute Euch kennen.~ [BD61095]
 @61096 = ~Dreht das Rad, Ihr primitiver Klotz. Bringt mich hinauf nach Drachenspeer.~
 @61098 = ~Ich bin <CHARNAME>, Held von Baldurs Tor. Ich bin gekommen, um Caelar für ihre Verbrechen zur Rechenschaft zu ziehen.~ ~Ich bin <CHARNAME>, Heldin von Baldurs Tor. Ich bin gekommen, um Caelar für ihre Verbrechen zur Rechenschaft zu ziehen.~
@@ -24791,7 +24925,7 @@ Ich bin vor einer Tür auf den Schatten eines enormen Drachens gestoßen. Der Dr
 @61152 = ~Wenn Ihr klug seid, seid Ihr derjenige, der etwas Respekt zeigen wird. Mit Euch spricht der Held von Baldurs Tor. Und ich werde noch mehr tun, als mit Euch zu reden, wenn Ihr Eure Zunge nicht zügelt.~ ~Wenn Ihr klug seid, seid Ihr derjenige, der etwas Respekt zeigen wird. Mit Euch spricht die Heldin von Baldurs Tor. Und ich werde noch mehr tun, als mit Euch zu reden, wenn Ihr Eure Zunge nicht zügelt.~
 @61153 = ~Ah, entschuldigt, Hauptmann. Es ist nur … Na, Ihr wisst ja, wie es da draußen ist.~
 @61154 = ~Wir arbeiten uns die Finger wund, um diesen Abschaum zu bewachen. Also, was ist dabei, wenn ich mir einen kleinen Bonus gönne? Ich habs mir verdient.~ [BD61154]
-@61155 = ~Ihr macht mich krank, Riggs. Händigt mir aus, was Ihr an Euch genommen habt und ich werde Euch gehen lassen. Tut das nicht und wir haben ein Problem, Ihr und ich.~
+@61155 = ~Ihr macht mich krank, Riggs. Händigt mir aus, was Ihr an Euch genommen habt, und ich werde Euch gehen lassen. Tut das nicht und wir haben ein Problem, Ihr und ich.~
 @61156 = ~Eine höhere Macht sieht Euch und alle Eure Sünden. Ändert Euch! Gebt zurück, was Ihr gestohlen habt. Kniet vor denen nieder, die Ihr bestohlen habt. Zeigt Demut in den Augen der Götter oder tragt die Konsequenzen!~
 @61157 = ~Ihr habt da ja eine gute Sache am laufen, Riggs. Das Problem ist nur, dass es nicht EURE gute Sache ist.~
 @61158 = ~Ich bewundere Eure Herangehensweise, Freund. Das tue ich wirklich. Sie inspiriert mich, Ähnliches zu tun. Gebt mir Euer Gold!~
@@ -25352,6 +25486,7 @@ Caelar, die Anführerin des Kreuzzugs, behauptet, sie stehe auf der Seite des Gu
 @61566 = ~Ist es möglich, dass der Kreuzzug es den ganzen Weg bis nach Baldurs Tor schafft? Viele der Bürger sind besorgt, dass wir einem Angriff gegenüberstehen. Die Herzöge sollten besser einen Plan haben, wie sie diesen Kreuzzug aufhalten, bevor er weiter vorrückt.~
 @61567 = ~Ehemalige Mitglieder der Flammenden Faust werden aus dem Ruhestand geholt, um der Bevölkerung zu helfen. Ich habe gehört, dass die Faust sogar anfangen könnte, Söldner anzuheuern, um das Chaos in der Stadt unter Kontrolle zu bringen. Wir leben in schweren Zeiten.~
 @61568 = ~Halbazzer Drin im „Allerlei Zauberei“ ist komplett überfordert, habe ich gehört. Die Leute strömen Tag und Nacht in seinen Laden. Er musste sogar eine Wache anheuern, welche die Tür bewacht und die Menge unter Kontrolle behält.~
+@61568 = ~Halbazzer Drin im „Allerlei Zauberei“ ist komplett überfordert, habe ich gehört. Die Leute strömen Tag und Nacht in seinen Laden. Er musste sogar eine Wache anheuern, welche die Tür bewacht und die Menge unter Kontrolle behält.~
 @61569 = ~Das Verbrechen im „Allerlei Zauberei“
 
 Alle Geschäfte in Baldurs Tor haben blendenden Umsatz, aber das „Allerlei Zauberei“ scheint besonders überlaufen zu sein.~
@@ -25397,6 +25532,11 @@ Ich habe von dem Palastschatzmeister Ophyllis erfahren müssen, dass das Gold, w
 Ich sollte im „Zu den Drei Alten Fässern“ nach den Leuten suchen, die Ophyllis angegriffen haben.
 
 Der Palastschatzmeister Ophyllis hat mich vor der Hohen Halle abgefangen – übel zugerichtet und blutverschmiert. Er wurde von Dieben angegriffen, die sich mit dem Gold, das er mir schuldet, davongemacht haben. Er glaubt, dass seine Angreifer im „Zu den Drei Alten Fässern“ gefunden werden können.~
+@61584 = ~Mein geliebtes Vermögen 
+
+Ich sollte im „Zu den Drei Alten Fässern“ nach den Leuten suchen, die Ophyllis angegriffen haben.
+
+Der Palastschatzmeister Ophyllis hat mich vor der Hohen Halle abgefangen. Er hat behauptet, dass er von Dieben angegriffen wurde, die sich mit dem Gold, das er mir schuldet, davongemacht haben. Außerdem hat er behauptet, dass ich die Angreifer im Gasthaus „Zu den Drei Alten Fässern“ finden kann. Wenn er lügt, wird das Blut, das er bis jetzt vergossen hat, nur ein paar vereinzelte Tropfen sein, verglichen zu dem Sturm, den ich über ihn kommen lassen werde – einen Taifun von Höllenpein und Tod.~
 @61584 = ~Mein geliebtes Vermögen 
 
 Ich sollte im „Zu den Drei Alten Fässern“ nach den Leuten suchen, die Ophyllis angegriffen haben.
@@ -25550,6 +25690,11 @@ Ich bin nicht sicher, warum Garrick sich in der Taverne „Elfgesang“ aufhält
 @61620 = ~Rekrutierungskampagne
 
 Unglücklicherweise – oder vielleicht glücklicherweise – ist Garrick zu beschäftigt mit der Besitzerin des „Elfgesangs“, als dass er mich auf meiner Reise nach Drachenspeer begleiten könnte.~
+@61621 = ~Rekrutierungskampagne
+
+Tiax wird sich mir nicht anschließen.
+
+Tiax hat es abgelehnt, meiner Einladung Folge zu leisten und seine Zelle im Hauptquartier der Flammenden Faust zu verlassen, um sich meiner Konfrontation mit Caelar anzuschließen. Das ist bedauerlich … aber nicht allzu sehr.~
 @61621 = ~Rekrutierungskampagne
 
 Tiax wird sich mir nicht anschließen.
@@ -25850,6 +25995,11 @@ Der tote Mann neben Alena war ihr versoffener, gewalttätiger Ehemann, den sie w
 Ich könnte Alena sagen, dass ich ihr Geheimnis bewahre, oder ich könnte sie im Hauptquartier der Flammenden Faust melden.
 
 Der tote Mann neben Alena war ihr versoffener, gewalttätiger Ehemann, den sie während eines Streits aus Versehen getötet hat. Ich bin nicht sicher, ob ich ihr Geheimnis wahren oder zum Gebäude der Flammenden Faust gehen sollte, um einem der Offiziere dort davon zu berichten.~
+@61690 = ~Entsorgung eines Leichnams
+
+Ich könnte Alena sagen, dass ich ihr Geheimnis bewahre, oder ich könnte sie im Hauptquartier der Flammenden Faust melden.
+
+Der tote Mann neben Alena war ihr versoffener, gewalttätiger Ehemann, den sie während eines Streits aus Versehen getötet hat. Ich bin nicht sicher, ob ich ihr Geheimnis wahren oder zum Gebäude der Flammenden Faust gehen sollte, um einem der Offiziere dort davon zu berichten.~
 @61691 = ~Entsorgung eines Leichnams
 
 Alena hat mich bezahlt, dass ich ihr Geheimnis bewahre.
@@ -25880,6 +26030,11 @@ Ein Geflüchteter namens Lon ist beschuldigt worden, ein Amulett gestohlen zu ha
 Ich sollte mit Bertha über diese schreckliche Erfahrung reden.
 
 Lon, ein Geflüchteter im Gebäude des Eisenthrons, hat ein Symbol von Selûne gestohlen. Als sein Verbrechen offenbar wurde, hat er sich in einen Werwolf verwandelt. Ich war gezwungen, ihn zu erledigen.~
+@61699 = ~Der Dieb unter den Geflüchteten
+
+Ich sollte mit Bertha über diese schreckliche Erfahrung reden.
+
+Lon, ein Geflüchteter im Gebäude des Eisenthrons, war ein Werwolf, der sich hinter einer menschlichen Fassade versteckt hat. Ich habe seine wahre Natur enthüllt und ihn erledigt, bevor er jemanden verletzen konnte.~
 @61699 = ~Der Dieb unter den Geflüchteten
 
 Ich sollte mit Bertha über diese schreckliche Erfahrung reden.
@@ -26183,6 +26338,11 @@ Ein Mitglied der Flammenden Faust, Oberleutnant Otilda, hat mich gebeten, einen 
 Ich sollte zu Oberleutnant Otilda zurückkehren und ihr berichten, was ich getan habe.
 
 Ich habe entschieden, dass die Regelbrecher zu gefährlich sind, um sie am Leben zu lassen. Ich habe sie alle umgebracht.~
+@61776 = ~Die Regelbrecher
+
+Ich sollte zu Oberleutnant Otilda zurückkehren und ihr berichten, was ich getan habe.
+
+Ich habe entschieden, dass die Regelbrecher zu gefährlich sind, um sie am Leben zu lassen. Ich habe sie alle umgebracht.~
 @61777 = ~Hüterin der Toten~
 @61778 = ~Hochzeitstagsgeschenk~
 @61779 = ~Ophyllis, ja, wir kennen ihn … Wir kennen ihn gut.~
@@ -26313,6 +26473,7 @@ Mindeststärke: 8
 
 Gewicht: 9~
 @61828 = ~Die erste Ebene (oder der erste Zirkel) der Neun Höllen ist Avernus, eine höllische Gegend voll mit erstickendem Qualm, explodierenden Feuerbällen, geschwärzter Erde und Lavabecken. Astrale Reisende, die die Neun Höllen betreten, erscheinen immer in Avernus, weshalb diese Ebene manchmal als die „oberste“ Ebene der Hölle bezeichnet wird. Der Höllenschlundteufel Bel herrscht über diese Ebene von seiner Festung, der bronzenen Zitadelle, aus, von wo er Legionen von Teufelsoldaten befehligt, damit diese im Blutkrieg kämpfen.~
+@61830 = ~Der zweite Zirkel der Hölle Dis hat seinen Namen mit der gewaltigen eisernen Stadt im Zentrum der Ebene gemeinsam. Der Herrscher von Dis heißt Dispater. Er ist bekannt dafür, hinsichtlich der Einhaltung von Verträgen besonders akkurat zu sein, aber sämtliche Vereinbarungen zum Nachteil seiner Vertragspartner zu gestalten. Außerhalb der Stadt Dis breitet sich eine endlose, flache Ebene aus, die von fauligen, toten Flüssen durchzogen ist.~
 @61830 = ~Der zweite Zirkel der Hölle Dis hat seinen Namen mit der gewaltigen eisernen Stadt im Zentrum der Ebene gemeinsam. Der Herrscher von Dis heißt Dispater. Er ist bekannt dafür, hinsichtlich der Einhaltung von Verträgen besonders akkurat zu sein, aber sämtliche Vereinbarungen zum Nachteil seiner Vertragspartner zu gestalten. Außerhalb der Stadt Dis breitet sich eine endlose, flache Ebene aus, die von fauligen, toten Flüssen durchzogen ist.~
 @61832 = ~Der Erzherzog Mammon konstruierte die dritte Ebene der Hölle, einen fauligen Morast bekannt als Minauros. Minauros ist eine endlose Ebene voll mit vermoderten Sümpfen, in denen verrottende Leichen und sich zersetzende Pflanzen treiben. Die verschmutzte Luft macht es unmöglich zu atmen, und öliger Regen fällt ununterbrochen auf die Ebene nieder. Ab und zu suchen auch säurehaltige Schneestürme oder Hagelkörner so groß wie Felsbrocken die übel riechende Ebene heim.~
 @61833 = ~Das Tagebuch von Kelef Rhon, Ritter des Ewigwachenden, treuer Hüter der Brückenfeste, durch Befehl des Hüters Harkin~
@@ -27250,7 +27411,7 @@ Der Anwender erzeugt mit diesem Zauber eine Kugel aus rasiermesserscharfen Kling
 Mithilfe dieser Fähigkeit kann ein erfahrener Dieb all die vielen Tricks, die er in zahllosen Kämpfen gelernt hat, geballt einsetzen und seinen Gegner so überrumpeln, dass jeder Schlag, den er in der nächsten Runde ausführt, wie ein hinterhältiger Angriff zählt, d. h. der Multiplikator wird für 1 Runde auf jeden Schlag des Diebes angewandt.~
 @62050 = ~Tod entrinnen~
 @62051 = ~Tod entrinnen
-Mit einer unglaublichen Willensanstrengung kann ein hochstufiger Spitzbube dank dieser Fähigkeit oft dem sicheren Tod entrinnen. Die Wirkungsdauer der Fähigkeit beträgt 5 Runden. Der Spitzbube erhält einen Bonus von +5 auf Rettungswürfe gegen Tod, +20 Trefferpunkte und ist außerdem für die Wirkungsdauer gegen Todesmagie immun.~
+Mit einer unglaublichen Willensanstrengung kann ein hochstufiger Spitzbube dank dieser Fähigkeit oft dem sicheren Tod entrinnen. Die Wirkungsdauer der Fähigkeit beträgt 5 Runden. Der Spitzbube erhält einen Bonus von –5 auf Rettungswürfe gegen Tod, +20 Trefferpunkte und ist außerdem für die Wirkungsdauer gegen Todesmagie immun.~
 @62052 = ~Schutzring +2~
 @62053 = ~Ein Schutzring verbessert die Rüstungsklasse und Rettungswürfe des Trägers gegen alle möglichen Angriffe. Die magischen Eigenschaften eines solchen Rings verhindern, dass er zusammen mit anderen magischen Schutzgegenständen inklusive magischen Rüstungen getragen werden kann.
 
@@ -27325,7 +27486,7 @@ Gewicht: 0~
 @62090 = ~Ist eine gefährliche Welt für einen Goblin alleine. Werde in diesem Lager warten, solange keiner versucht, mich zu töten.~ [BD62090]
 @62091 = ~M’Khiin, schließt Ihr Euch mir nun an?~
 @62092 = ~Am besten geht Ihr gleich mit, Goblin.~
-@62093 = ~Können wir gehen? Will nicht länger hier bleiben.~ [BD62093]
+@62093 = ~Können wir gehen? Will nicht länger hierbleiben.~ [BD62093]
 @62094 = ~Der Bericht wieder, hm? Sagt mir, habt Ihr schon den Namen Eures Kommandanten gelernt?~ [BD62094]
 @62095 = ~Es ist Dreon, Leutnant. Oberstleutnant Dreon.~
 @62096 = ~Zur Hölle mit dem Namen des Kommandanten und zur Hölle mit Euch, Leutnant, wenn Ihr den Fortschritt der Strahlenden Dame mit Euren nichtigen Belanglosigkeiten aufhalten wollt. Gebt mir den verdammten Bericht!~
@@ -27416,6 +27577,7 @@ Gewicht: 5~
 @62141 = ~Es gibt einen Barden, mit dem ich sprechen soll, oder nicht?~
 @62142 = ~Ich habe mir gedacht, ich spreche mit dem Kleriker von Cyric, der im Hauptquartier der Flammenden Faust gefangen gehalten wird.~
 @62143 = ~Wenn ich mich richtig erinnere, hat Herzog Eltan vorgeschlagen, dass ich mit jemanden im Gebäude des Eisenthrons spreche.~
+@62143 = ~Wenn ich mich richtig erinnere, hat Herzog Eltan vorgeschlagen, dass ich mit jemanden im Gebäude des Eisenthrons spreche.~
 @62144 = ~Gute Idee, lasst uns gehen.~
 @62145 = ~Coran und Safana. Nicht die Art von Leuten, die ich auf unserer Reise dabeihaben will, aber Herzog Eltan scheint anderer Meinung zu sein.~
 @62146 = ~Alles klar, lasst uns aufbrechen.~
@@ -27443,6 +27605,7 @@ Gewicht: 5~
 @62168 = ~Was wissen wir über diesen Kleriker, der im Hauptquartier der Flammenden Faust gefangen gehalten wird?~
 @62169 = ~Erzählt mir nochmal von dem Paar Abenteurer aus Rashemen, die in den „Drei Alten Fässern“ residieren.~
 @62170 = ~Wenn ich es richtig im Kopf habe, hat Herzog Eltan vorgeschlagen, dass ich mit jemanden im Gebäude des Eisenthrons rede.~
+@62170 = ~Wenn ich es richtig im Kopf habe, hat Herzog Eltan vorgeschlagen, dass ich mit jemanden im Gebäude des Eisenthrons rede.~
 @62171 = ~Geht voran. Ich bin gleich hinter Euch.~
 @62172 = ~Tiax? Ihr könnt nicht wirklich mit diesem Irren sprechen wollen …~
 @62173 = ~Wir werden sehen. Lasst uns gehen.~
@@ -27462,6 +27625,7 @@ Gewicht: 5~
 @62187 = ~Erzählt mir von den Dieben im „Elfgesang“.~
 @62188 = ~Da war ein Barde, mit dem ich sprechen sollte, nicht wahr?~
 @62189 = ~Was könnt Ihr mir über die Abenteurer aus Rashemen sagen, die sich in den „Drei Alten Fässern“ aufhalten?~
+@62190 = ~Wenn ich mich richtig erinnere, hat Herzog Eltan vorgeschlagen, dass ich mit jemandem im Gebäude des Eisenthrons spreche.~
 @62190 = ~Wenn ich mich richtig erinnere, hat Herzog Eltan vorgeschlagen, dass ich mit jemandem im Gebäude des Eisenthrons spreche.~
 @62191 = ~Ich schätze, das ist der Alternative vorzuziehen. Auf gehts!~
 @62192 = ~Coran und Safana. Nicht die Art von Leuten, die ich auf unserer Reise dabeihaben wollte, aber Herzog Eltan scheint anderer Meinung zu sein.~
@@ -27656,6 +27820,7 @@ Gewicht: 0~
 EIGENSCHAFTEN:
 
 Gewicht: 0~
+@62295 = ~Oje, schwieriges Publikum!~ [BDBAE08F]
 @62298 = ~Hoffentlich lernt Ihr, was Respekt bedeutet, bevor meine Geduld ein Ende hat.~ [BDBAE22B]
 @62304 = ~Ihr schwachsinniger Schurke!~ [BDBAE24]
 @62305 = ~Ich bin bestimmt berechnend bedächtig.~ [BDBAE16]
@@ -28175,6 +28340,7 @@ Gewicht: 8~
 @62548 = ~Seitdem leben Ihr und Eure älteste Freundin Imoen dank Großherzog Belts Gastfreundlichkeit in ungewöhnlichem, aber nicht unangenehmem Komfort und Luxus.~
 @62549 = ~Doch eine neue Bedrohung überschattet die Stadt. Eine gigantische Armee auf einem heiligen Kreuzzug hat die Schwertküste in Aufruhr versetzt.~
 @62550 = ~Von seinem Stützpunkt in der berüchtigten Burg Drachenspeer aus hat sich diese Streitmacht aus Söldnern und Veteranen der Drachenspeer-Kriege in alle Richtungen aufgemacht.~
+@62551 = ~Tausende wurden getötet und zehntausende vertrieben, als die Kreuzzügler das Land vom Fluss Delimbiyr bis hin zum Schlängelnden Fluss eroberten.~
 @62551 = ~Tausende wurden getötet und Zehntausende vertrieben, als die Kreuzzügler das Land vom Fluss Delimbiyr bis hin zum Schlängelnden Fluss eroberten.~
 @62552 = ~Über die Anführerin des Kreuzzuges, die charismatische Kriegerin Caelar Silberweiß, ist wenig bekannt. Jene, die ihr folgen, ehren sie als die Strahlende Dame, doch um ihre Geschichte und ihre Ziele ranken sich Mythen.~
 @62553 = ~Aber eines ist klar: Wenn die Schwertküste überleben soll, muss Caelar Silberweiß aufgehalten werden.~
@@ -28448,6 +28614,7 @@ Ich habe einen Diebstahl im „Allerlei Zauberei“ verhindert. Der Eigentümer 
 @62823 = ~Ich brauche einen Stab des Schlafes. Ich leide unter chronischen Schlafstörungen.~
 @62824 = ~Wenn ich noch länger stehen muss, versagen meine Beine.~
 @62825 = ~Halbazzer sollte einen Barden anheuern, der uns was vorsingt, während wir warten. Oder zumindest ein paar Kurtisanen.~
+@62825 = ~Halbazzer sollte einen Barden anheuern, der uns was vorsingt, während wir warten. Oder zumindest ein paar Kurtisanen.~
 @62826 = ~Um eine fantastische Mahlzeit zu kochen, braucht man absolute Stille. ABSOLUTE Stille. Versteht Ihr, worauf ich hinauswill?~
 @62827 = ~Ich erlaube anderen nicht, mir zu helfen. Ich würde meiner eigenen Mutter nicht erlauben, diesen Sellerie zu schneiden. Der Sellerie ist der wichtigste Teil.~
 @62828 = ~Manchmal bekomme ich Anfragen nach speziellen Mahlzeiten. Ich ignoriere sie. Sagt man zu einem „ja“, wollen die Leute bald keine Pilze mehr in ihrer Pilzsuppe haben.~
@@ -28541,6 +28708,7 @@ Ich habe einen Diebstahl im „Allerlei Zauberei“ verhindert. Der Eigentümer 
 @62919 = ~Meine Füße tun weh. Ich bin es nicht gewohnt, so viel zu marschieren, aber das wird es alles wert gewesen sein, wenn ich meine Geliebten retten kann.~
 @62920 = ~Ich war ein Abwasserkanalreiniger. Das hier ist besser.~
 @62921 = ~Habt Ihr Caelar schon gesehen? Man sagt, dass sie strahlt wie die Sonne.~
+@62922 = ~Der göttliche Schutz, der Caelar und ihren Gefolgsleuten gewährt wird, wird uns zum Sieg führen. Vergesst niemals, die Götter stehen an unserer Seite.~
 @62922 = ~Der göttliche Schutz, der Caelar und ihren Gefolgsleuten gewährt wird, wird uns zum Sieg führen. Vergesst niemals, die Götter stehen an unserer Seite.~
 @62923 = ~Manche der Kommandanten des Kreuzzugs haben … schwierige Vergangenheiten. Aber ich vertraue dem Urteil der Strahlenden Dame. Sie weiß, was das Beste ist.~
 @62924 = ~Wir werden die Feste einnehmen oder bei dem Versuch sterben. Alle, die unserem rechtschaffenen Pfad trotzen, müssen bestraft werden!~
@@ -28718,7 +28886,7 @@ Ich habe einen Diebstahl im „Allerlei Zauberei“ verhindert. Der Eigentümer 
 @63168 = ~Lasst die Kreuzzügler dafür zahlen, was sie uns angetan haben.~
 @63169 = ~Dieser Kampf wird einer für die Geschichtsbücher werden.~
 @63170 = ~Ich habe daran gedacht wegzuziehen.~
-@63171 = ~Denkt Ihr, dass die Kreuzzügler uns im Falle einer Niederlage gefangen nehmen? Nicht, dass wir verlieren würden, aber WENN wir das täten … Gefangene? Glaubt Ihr das?~
+@63171 = ~Denkt Ihr, dass die Kreuzzügler uns im Falle einer Niederlage gefangen nehmen? Nicht dass wir verlieren würden, aber WENN wir das täten … Gefangene? Glaubt Ihr das?~
 @63173 = ~Ein schöner Tag ist heute, nicht wahr?~
 @63174 = ~Der Held von Baldurs Tor? Den Göttern sei Dank! Wir können einen Helden gebrauchen.~ ~Die Heldin von Baldurs Tor? Den Göttern sei Dank! Wir können eine Heldin gebrauchen.~
 @63175 = ~Ihr habt bessere Dinge zu tun, als mit mir zu reden, da bin ich sicher.~
@@ -28969,7 +29137,7 @@ Gewicht: 10~
 @63484 = ~Lasst die Kreuzzügler für das, was sie uns angetan haben, bezahlen.~
 @63485 = ~Dieser Kampf wird einer für die Geschichtsbücher werden.~
 @63486 = ~Was ist in der Verhandlung tatsächlich passiert? Kennen wir die ganze Geschichte?~
-@63487 = ~Denkt Ihr, die Kreuzzügler nehmen uns gefangen, wenn unsere Seite verliert? Nicht, dass ich glaube, wir würden verlieren …~
+@63487 = ~Denkt Ihr, die Kreuzzügler nehmen uns gefangen, wenn unsere Seite verliert? Nicht dass ich glaube, wir würden verlieren …~
 @63488 = ~Wie viele werden sterben, weil wir die Situation hier und jetzt nicht lösen konnten?~
 @63490 = ~Ich bin sicher, Ihr habt Wichtigeres zu tun, als mit mir zu reden.~
 @63496 = ~Kann gerade nicht reden!~
@@ -29572,6 +29740,7 @@ Gewicht: 1~
 @64122 = ~Sicher, nur zu.~
 @64123 = ~Wenn Fragen das Schlimmste sind, mit dem ich von Euch rechnen muss, dann bin ich ein glücklicher, glücklicher Mann.~ ~Wenn Fragen das Schlimmste sind, mit dem ich von Euch rechnen muss, dann bin ich eine glückliche, glückliche Frau.~
 @64124 = ~Ich habe keine Zeit.~
+@64125 = ~Ich habe mich gefragt, ob es wahr ist, dass Ihr in die Minen von Nashkell gegangen seid und Dämonen bekämpft habt. HUNDERTE Dämonen, sagt man, mit stacheligen Schwänzen und flammenden Speeren …~
 @64125 = ~Ich habe mich gefragt, ob es wahr ist, dass Ihr in die Minen von Nashkell gegangen seid und Dämonen bekämpft habt. HUNDERTE Dämonen, sagt man, mit stacheligen Schwänzen und flammenden Speeren …~
 @64126 = ~Keine Dämonen, nur Kobolde. Einige der Minenarbeiter dachten, sie hätten Dämonen gesehen, aber ich habe die Wahrheit ans Licht gebracht.~
 @64127 = ~Hunderte von Dämonen? Nein, tausende! Ich habe sie alle getötet und sie zurück in den Abyss geschickt. Jeder, der Euch etwas anderes erzählt, lügt.~
@@ -30284,7 +30453,6 @@ Selbst innerhalb des Herzogspalasts bin ich nicht sicher. Imoen wurde Opfer von 
 @64598 = ~Ich komme klar. Aber meine Freundin Imoen braucht Hilfe.~
 @64600 = ~Macht Euch darüber später Gedanken. Wir müssen weg, es könnten noch mehr Meuchelmörder hier sein.~
 @64601 = ~Gibt es hier noch mehr von denen?~ [BD64601]
-@64602 = ~Nicht, dass ich wüsste.~
 @64603 = ~Ist mir egal. Meine Freundin benötigt Hilfe!~
 @64604 = ~Alle wurden durch meine Hand getötet.~
 @64605 = ~Vergebt mir, ich bin Schael Corwin, Hauptmann, Flammende Faust. Feindliche Kräfte haben den Palast angegriffen. Ich hatte versucht, zu Euch zu gelangen, bevor sie es tun, aber … nun ja.~ [BD64605]
@@ -30406,6 +30574,29 @@ Der Kreuzzug macht es unmöglich, die Stadt zu verlassen. Dank den Geflüchteten
 …
 
 Mit der Hilfe meiner Verbündeten habe ich Sarevoks Schwert aus dem Herzogspalast gestohlen. Ich wünschte, ich könnte es für mich selbst behalten, aber sein Verkauf wird mir und den anderen die sichere Flucht ermöglichen. Ich muss vorsichtig dabei sein, wie wir die Klinge vor ihrer Reise nach Waukeens Promenade aufbewahren. Anscheinend darf das Blut nicht davon abgewischt werden.~
+@64675 = ~(Dieses Tagebuch erstreckt sich über die letzten sechs Monate. Manche Einträge erscheinen Euch wichtig.) 
+
+S. und ich haben letzte Nacht lange geredet. Alles, was er sagte, ergab Sinn. Ich habe ihm angeboten, meine Familienkrypta als sichere Unterkunft zu benutzen, und er akzeptierte. Die alten Motive der Toten Drei erscheinen nun ganz und gar passend. Ich meditiere oft vor dem Zeichen Bhaals und denke über seine Lehren nach und darüber, wie sein Einfluss ins Land zurückkehrt.
+
+…
+
+Heute erwähnte S., dass seine Pläne schnell vorangehen. Er wird für eine oder zwei Wochen weg sein, um Nachforschungen in einer alten Gruft irgendwo in der Nähe der Brückenfeste durchzuführen. Mir fehlt es an seinen Führungsqualitäten, aber ich müsste in der Lage sein, die Anhänger so lange im Zaum zu halten, bis er wieder da ist.
+
+…
+
+Letzte Nacht sagte S. mir, dass die Grundlage für die nächste Phase seines Plans gelegt wurde. Er bezieht neue Räume im Eisenthron. Ich werde unsere Gespräche vermissen, aber bin froh, dass er die Aufmerksamkeit bekommt, die ihm gebührt. Er wird das Angesicht der Schwertküste verändern, wenn er sein Geburtsrecht beansprucht. Alle werden durch ihn die Macht Bhaals kennenlernen.
+
+…
+
+Ich habe die Nachricht erhalten, dass S. getötet wurde. Ich kann es kaum glauben. Ich denke nicht, dass irgendjemand sein Ende herbeiführen könnte. Ich weiß nicht, was ich jetzt tun soll. Fürs Erste werde ich die Anhänger in Sicherheit lassen und von der Flammenden Faust fernhalten.
+
+…
+
+Der Kreuzzug macht es unmöglich, die Stadt zu verlassen. Dank den Geflüchteten, die in Scharen herkommen, stehen Wachen an jedem Tor. Eine vermummte Person kontaktierte mich gestern und hat mir eine stattliche Summe angeboten, dass ich Sarevoks Schwert stehle und seinen Kontaktmännern in Athkatla übergebe. Ich habe zugestimmt. Ich hatte keine Wahl.
+
+…
+
+Mit der Hilfe meiner Verbündeten habe ich Sarevoks Schwert aus dem Herzogspalast gestohlen. Ich wünschte, ich könnte es für mich selbst behalten, aber sein Verkauf wird mir und den anderen die sichere Flucht ermöglichen. Ich muss vorsichtig dabei sein, wie wir die Klinge vor ihrer Reise nach Waukeens Promenade aufbewahren. Anscheinend darf das Blut nicht davon abgewischt werden.~
 @64676 = ~Aber kurz, nachdem der Kreuzzug uns erreichte, verschwand der Schlüsselstein, verloren in dem Chaos, jeden in die Feste zu bekommen. Ich war Zeugin, wie eine Frau in lila Robe in der Nähe, wo der Schlüsselstein verloren ging, herumschlich. Vermutlich eine Priesterin von Cyric.~
 @64677 = ~Aber direkt, nachdem der Kreuzzug uns erreichte, verschwand der Schlüsselstein. Einer von uns hatte ihn während des Rückzugs in die Feste bei sich, aber er wurde getötet und ihm wurde der Schlüsselstein abgenommen. Ich habe in der Nähe eine Frau in einer lila Robe gesehen, die die Szene verlassen hat – möglicherweise eine Priesterin von Cyric.~
 @64678 = ~Ruheloser Geist~
@@ -30466,7 +30657,7 @@ Mit der Hilfe meiner Verbündeten habe ich Sarevoks Schwert aus dem Herzogspalas
 @64736 = ~Also war ich das Ziel der Attentäter?~
 @64737 = ~Caelar hat mir im herzöglichen Palast Mörder auf den Hals gehetzt? Aber ich bin doch so liebenswert …~
 @64738 = ~Die Klinge, die Imoen zu Fall gebracht hat, war für mich bestimmt. Die Strahlende Dame wird dafür bezahlen. Wann bricht der Feldzug auf?~
-@64739 = ~Ihr müsst nicht alleine aufbrechen. Die Faust wird Euch absichern … und auch mehr, wenn Ihr dies wünscht.~ [BD64739]
+@64739 = ~Ihr müsst nicht alleine aufbrechen. Die Faust wird Euch absichern … und noch andere, wenn Ihr dies wünscht.~ [BD64739]
 @64741 = ~Ihr erweist Baldurs Tor einen großen Dienst, <CHARNAME>. Wir werden es nicht vergessen.~ [BD64741]
 @64742 = ~Sogar ein paar davon, wenn Ihr mögt. Ich werde an den Haupttüren sein, wenn Ihr bereit seid aufzubrechen.~ [BD64742]
 @64743 = ~Ich werde tun, was ich kann, um weitere Attentate auf ein Minimum zu beschränken. Wenn Ihr bereit seid zu gehen, lasst es mich wissen. Ich werde an den Haupttüren warten.~ [BD64743]
@@ -31195,7 +31386,7 @@ Ich konnte die Kreuzzügler nicht fernhalten. Wir haben diesen Bereich verloren 
 @65440 = ~Nein. Zumindest nicht, wenn man ihr Glauben schenken will.~
 @65441 = ~Ihr denkt, sie hat über ihre Herkunft gelogen?~ [BD65441]
 @65442 = ~Nein. Sie würde zwar alles tun, um ihr Ziel zu erreichen, aber ich sehe keinen guten Grund, warum sie in dieser Angelegenheit lügen sollte.~
-@65443 = ~Würde sie lügen, hätte sie den göttlichen Einfluss auf sich übertrieben, und nicht in dem Maße herabsetzen, wie sie es tat.~
+@65443 = ~Würde sie lügen, dann hätte sie mit dem göttlichen Einfluss auf sich übertrieben. Sie hat ihn aber heruntergespielt.~
 @65444 = ~Es ergibt wenig Sinn, dem Gegner Wahrheiten mitzuteilen.~
 @65445 = ~Auch wenn sie nicht von Bhaals Blut ist, Ihr seid es. Ich werde auf diesem Feldzug an Eurer Seite bleiben und sehen, wie das die Prophezeiungen des weisen Alaundos erklären könnte.~ [BD65445]
 @65446 = ~Ich freue mich, dass Ihr bei mir bleibt, Dynaheir.~
@@ -31209,6 +31400,7 @@ Ich konnte die Kreuzzügler nicht fernhalten. Wir haben diesen Bereich verloren 
 @65454 = ~Also wäre die Auseinandersetzung mit der Faust nicht gewesen, ständet Ihr jetzt im Dienste Caelars?~
 @65455 = ~Ich hab davon gehört. Also wie schätzt Ihr unsere Chancen gegen Caelar ein?~
 @65456 = ~Baldurs Tor braucht Helden, aber die Stadt muss sich mit Euch begnügen.~
+@65457 = ~Ich kämpf für denjenig’n, der mir das meiste bezahlt. Und die Strahlende Dame zahlt viel, sagt man. Un’ wenn ich ehrlich bin, scheint sie alles richtig zu mach’n. Wenn nur die Hälfte davon wahr is’, dann könnt sie ohne Probleme das Gebiet von’er Hohen Heide bis zur Küste, vom Delimbiyr bis zum Schlängelnd’n Fluss kontrollier’n.~
 @65457 = ~Ich kämpf für denjenig’n, der mir das meiste bezahlt. Und die Strahlende Dame zahlt viel, sagt man. Un’ wenn ich ehrlich bin, scheint sie alles richtig zu mach’n. Wenn nur die Hälfte davon wahr is’, dann könnt sie ohne Probleme das Gebiet von’er Hohen Heide bis zur Küste, vom Delimbiyr bis zum Schlängelnd’n Fluss kontrollier’n.~
 @65458 = ~Ihr glaubt, dass sie ihre Vorherrschaft aufrechterhalten kann, selbst mit Baldurs Tor, Tiefwasser und Dolchfurt gegen sich?~
 @65459 = ~Dann glaubt Ihr also nicht daran, dass wir den Kreuzzug aufhalten können!?~
@@ -32242,7 +32434,7 @@ Gewicht: 0~
 @66426 = ~Macht weiter mit dem, was Ihr bisher gemacht habt. Nichts weiter.~
 @66427 = ~Das werde ich tun.~
 @66428 = ~Dann werde ich dort auf Euch warten.~
-@66429 = ~Ihr könnt mich nicht allein in dieser … dieser Gruft lassen! Nicht, dass eine SO große Gruft wäre. Die meiner Familie ist größer als die hier. Und besser in Schuss.~ [BD66429]
+@66429 = ~Ihr könnt mich nicht allein in dieser … dieser Gruft lassen! Nicht dass eine SO große Gruft wäre. Die meiner Familie ist größer als die hier. Und besser in Schuss.~ [BD66429]
 @66430 = ~Geht zum Grufteingang und wartet da auf mich, Skie.~
 @66431 = ~Bleibt hier. Ich werde später zurückkommen.~
 @66432 = ~Nicht jeder hat das Glück, eine geborene Silberschild zu sein. Kommt schon, Ihr könnt im Moment bei mir bleiben.~
@@ -33057,6 +33249,10 @@ Caelar erregt in der Tat Aufmerksamkeit. Ihr Einfluss scheint sich auszuweiten.~
 
 Sieht so aus, als ob der Kreuzzug seine Anwesenheit an der Brückenfeste verfestigt.~
 @67052 = ~Ich habe mich mit Bence Duncan über die Kommandierenden unserer Streitkräfte in Drachenspeer gestritten. Marschall Nederlock ist ein Guter, er lebt und atmet die Flammende Faust. Generalin Steinhand aus Dolchfurt ist anscheinend ein bisschen schwierig. Aber vor Torsin de Lancie müsst Ihr Euch in Acht nehmen. Er ist ein Intrigant. Man kann einem intriganten nicht trauen.~
+@67052 = ~Ich habe mich mit Bence Duncan über die Kommandierenden unserer Streitkräfte in Drachenspeer gestritten. Marschall Nederlock ist ein Guter, er lebt und atmet die Flammende Faust. Generalin Steinhand aus Dolchfurt ist anscheinend ein bisschen schwierig. Aber vor Torsin de Lancie müsst Ihr Euch in Acht nehmen. Er ist ein Intrigant. Man kann einem intriganten nicht trauen.~
+@67053 = ~Wichtige Ereignisse
+
+Die drei Kommandanten der Armee sind Marschall Nederlock von der Flammenden Faust, Generalin Steinhand von der Dolcfurt-Miliz und Torsin de Lancie von der Stadtwache in Tiefwasser.~
 @67053 = ~Wichtige Ereignisse
 
 Die drei Kommandanten der Armee sind Marschall Nederlock von der Flammenden Faust, Generalin Steinhand von der Dolcfurt-Miliz und Torsin de Lancie von der Stadtwache in Tiefwasser.~
@@ -33081,6 +33277,7 @@ Im Lager verbreiten sich Gerüchte, dass Skie Silberschild nicht die ist, die si
 
 Getratsche über die Kommandierenden und Soldaten im Lager beansprucht die Zeit der Soldaten. Sobald wir auf die Burg vorrücken, wird weniger Zeit für haltlose Spekulationen sein.~
 @67064 = ~Fühlt Ihr Euch gut? Da könntet Ihr der einzige sein. De Lancie und die anderen Kommandanten versuchen es hinter dem Busch zu halten, aber die Pest verbreitet sich im Lager. Und ich habe aufgeschnappt, dass die Kleriker kein Glück damit haben sie aufzuhalten.~
+@67064 = ~Fühlt Ihr Euch gut? Da könntet Ihr der einzige sein. De Lancie und die anderen Kommandanten versuchen es hinter dem Busch zu halten, aber die Pest verbreitet sich im Lager. Und ich habe aufgeschnappt, dass die Kleriker kein Glück damit haben sie aufzuhalten.~
 @67065 = ~Eine ungewöhnliche Erkältung
 
 Eine Krankheit breitet sich im Lager aus. Sie muss aufgehalten werden, bevor ihr noch mehr Leute zum Opfer fallen.~
@@ -33092,6 +33289,7 @@ Getratsche über die Kommandierenden und Soldaten im Lager beansprucht die Zeit 
 @67069 = ~Wichtige Ereignisse
 
 Der Kreuzzug baut eine starke Bastion vor Burg Drachenspeer auf.~
+@67070 = ~Dieser Torsin de Lancie ist so kalt, wie man nur sein kann. Er kümmert sich einen Dreck um seine Leute oder um Ehre. Es geht ihm nur um seinen eigenen Erfolg. Wenn er nicht so gut darin wäre, hätte schon vor Jahren jemand ein Messer zwischen seine Schultern gerammt.~
 @67070 = ~Dieser Torsin de Lancie ist so kalt, wie man nur sein kann. Er kümmert sich einen Dreck um seine Leute oder um Ehre. Es geht ihm nur um seinen eigenen Erfolg. Wenn er nicht so gut darin wäre, hätte schon vor Jahren jemand ein Messer zwischen seine Schultern gerammt.~
 @67071 = ~Wichtige Ereignisse
 
@@ -33616,9 +33814,8 @@ Ich habe etwas über Caelars Berater erfahren. Als Junge war Ifearnan anscheinen
 
 EIGENSCHAFTEN:
 
-RK-Bonus:
-  –3
-  kein Schutz vor Geschoss- und Stichwaffen
+RK-Bonus: –3
+Kein Schutz vor Geschoss- und Stichwaffen
 Trefferpunkte: +10
 Mindeststärke: 4
 
@@ -33776,8 +33973,8 @@ Gewicht: 3~
 
 EIGENSCHAFTEN:
 
-Geräuschexplosion (2x täglich): 
-  Schaden: 2W8, zusätzlich +2W8 für Gaukler
+Geräuschexplosion (2x täglich)
+  Schaden: 2W8, 4W8 für Gaukler (Rettungswurf gg. Odemwaffen für halben Schaden)
   Die Opfer werden für 3 Runden von Taubheit betroffen (Rettungswurf gg. Odemwaffen).
   Bereich: 9 m Radius
   Rettungswurf: 1/2 (gg. Odemwaffen)
@@ -33810,6 +34007,21 @@ Gewicht: 3~
 @67485 = ~Wasserbecken~
 @67488 = ~Das Portal ist versiegelt und Caelar … Sie hat getan, was sie tun musste. Es ist merkwürdig, wieder auf der Welt zu sein. Ich muss mein Leben wieder geraderücken.~
 @67491 = ~Dieses Wesen befindet sich auf einer anderen Existenzebene und kann Euch nicht hören. Wenn Ihr mit ihm sprechen wollt, müsst Ihr die „Brille der Spektakel“ einsetzen, um es auf Eure Welt zu ziehen.~
+@67493 = ~Den Reichtum, den Ihr seit dem Verlassen von Kerzenburg angehäuft habt, wurde vom Schatzmeister Ophyllis im Palastkeller eingelagert. Das Vorzeigen dieser sorgfältig beschriftete Quittung auf feinem Pergament erlaubt Euch, Euer Gold abzuholen.
+
+Ans Ende der Quittung wurde eine persönliche Notiz geschrieben:
+
+„Lieber <CHARNAME>,
+da ich nichts anderes gehört habe, nehme ich an, dass die Truhe, die ich in Eure Quartiere habe bringen lassen, um die Ausrüstung Eurer Freunde zu lagern, den Ansprüchen genügt. Bitte lasst mich wissen, wenn das nicht der Fall sein sollte und ich werde unverzüglich eine weitere schicken.
+Gruß
+O“~ ~Den Reichtum, den Ihr seit dem Verlassen von Kerzenburg angehäuft habt, wurde vom Schatzmeister Ophyllis im Palastkeller eingelagert. Das Vorzeigen dieser sorgfältig beschriftete Quittung auf feinem Pergament erlaubt Euch, Euer Gold abzuholen.
+
+Ans Ende der Quittung wurde eine persönliche Notiz geschrieben:
+
+„Liebe <CHARNAME>,
+da ich nichts anderes gehört habe, nehme ich an, dass die Truhe, die ich in Eure Quartiere habe bringen lassen, um die Ausrüstung Eurer Freunde zu lagern, den Ansprüchen genügt. Bitte lasst mich wissen, wenn das nicht der Fall sein sollte und ich werde unverzüglich eine weitere schicken.
+Gruß
+O“~
 @67493 = ~Den Reichtum, den Ihr seit dem Verlassen von Kerzenburg angehäuft habt, wurde vom Schatzmeister Ophyllis im Palastkeller eingelagert. Das Vorzeigen dieser sorgfältig beschriftete Quittung auf feinem Pergament erlaubt Euch, Euer Gold abzuholen.
 
 Ans Ende der Quittung wurde eine persönliche Notiz geschrieben:
@@ -33877,7 +34089,7 @@ Der Leichnam Gurn Kaltherd wurde durch meine Hand zerstört.~
 @67545 = ~Vergesst niemals, dass ich Euch beobachte.~ [BD67545]
 @67546 = ~Das will ich sehen. Ich wünschte, es gäbe mehr von Eurer Sorte.~ [BD67546]
 @67547 = ~Wenn ich schon kämpfen muss, bin ich zumindest froh, dass ich an Eurer Seite kämpfe.~ [BD67547]
-@67548 = ~Caelars Lakaien mögen die Brückenfeste einnehmen, aber ich bin nicht geneigt, sie ohne Gegenwehr aufzugeben.~ [BD67548]
+@67548 = ~Caelars Lakaien mögen die Brückenfeste einnehmen, aber ich bin nicht geneigt, sie ihnen ohne Gegenwehr zu überlassen.~ [BD67548]
 @67549 = ~Die Flammende Faust versucht, den Frieden zu sichern, aber es ist ein harter Kampf.~ [BD67549]
 @67552 = ~Das ist sehr nett von Euch.~ [BD67552]
 @67554 = ~Das nächste Mal, wenn Ihr Euren Mund öffnet, schließt ihn ganz schnell wieder, bevor Ihr wieder so einen Schwachsinn verzapft.~ [BD67554]
@@ -33999,6 +34211,7 @@ Der Leichnam Gurn Kaltherd wurde durch meine Hand zerstört.~
 @67695 = ~Ah, nein! So viel Liebreiz dahin.~
 @67698 = ~War mein Fehler, ja?~ [BD67698]
 @67699 = ~Ja, ja, ich habs verstanden. Ihr braucht nicht mehr zu sagen.~ [BD67699]
+@67701 = ~Ifearnans Kammern~
 @67701 = ~Ifearnans Kammern~
 @67702 = ~Aufzug~
 @67703 = ~Portal zur Primären Materiellen Ebene~
@@ -35199,6 +35412,7 @@ Die Teufel kehrten nach Faerûn im Jahr 1363 DR zurück, als sie die Burg wieder
 @69151 = ~„Spezialkräfte“ … So hört sich das von hinten Erdolchen direkt viel schöner an.~
 @69152 = ~Eine Gruppe Zwerge hat das Lager betreten, kurz bevor der Angriff begann. Sie sagten, dass sie Eurem Ruf nach Unterstützung gegen den Kreuzzug gefolgt sind.~
 @69153 = ~Sieht so aus, als ob es sich bezahlt macht, den Helden von Baldurs Tor unter uns zu haben. Andra, was macht der Feind?~ ~Sieht so aus, als ob es sich bezahlt macht, die Heldin von Baldurs Tor unter uns zu haben. Andra, was macht der Feind?~
+@69154 = ~Eine weitere Sache. Kurz, bevor Ihr wiedergekommen seid, hat sich eine Gruppe untoter Krieger dem Lager genähert. Ein Trupp Soldaten ist ausgerückt, sie zu zerstören. Es ist nicht gut ausgegangen, aber die Ungeheuer haben ihre Leben verschont. Sie sagten, dass ihr Meister, ein Leichnam vom nahen Baldurs Tor, sie hierhergeschickt hat, um Euch im Kampf gegen Caelar beizustehen.~
 @69154 = ~Eine weitere Sache. Kurz, bevor Ihr wiedergekommen seid, hat sich eine Gruppe untoter Krieger dem Lager genähert. Ein Trupp Soldaten ist ausgerückt, sie zu zerstören. Es ist nicht gut ausgegangen, aber die Ungeheuer haben ihre Leben verschont. Sie sagten, dass ihr Meister, ein Leichnam aus der Nähe von Baldurs Tor, sie hierhergeschickt hat, um Euch im Kampf gegen Caelar beizustehen.~
 @69155 = ~Torsin de Lancie sagte, dass wir nicht in der Position seien, dahergelaufene Hilfe abzulehnen, und ich vermute, da hat er recht. Aber dennoch … das ist beunruhigend.~
 @69156 = ~Die meisten unserer Truppen gehen gegen die gegnerischen Kräfte um Drachenspeer herum vor, daher wurden unsere neuen … Verbündeten … angewiesen, das Lager zu verteidigen. Die Götter mögen uns helfen. Wo wir gerade dabei sind – Andra, was macht der Feind?~
@@ -35286,12 +35500,12 @@ Gewicht: 1~
 
 EIGENSCHAFTEN:
 
-RK-Bonus:
-  –3
-  kein Schutz vor Geschoss- und Stichwaffen
 Trefferpunkte:
   +5
   +10 für Zwerge
+
+RK-Bonus: –3
+Kein Schutz vor Geschoss- und Stichwaffen
 Mindeststärke: 4
 
 Gewicht: 2~
@@ -35347,6 +35561,54 @@ Schützt vor kritischen Treffern
 
 Gewicht: 1~
 @69210 = ~Blutgetränkte Protokolle~
+@69211 = ~(Diese Notizen sind mit blutiger Tinte geschrieben, die auf dem beunruhigend warmen Pergament glänzend und klebrig bleibt.)
+
+Sitzung 8355
+Teilnehmer:
+  Verschlinger der heiligen Seelen,
+  Herr der Rasierklingenspitzen und Herrscher der verschlingenden Augen,
+  Der Zerstörer der uralten Feinde,
+  Sie, die auf Splittern von Feuersteinen und Knochen wandelt.
+
+Alle anderen Mitglieder sind abwesend.
+
+Zerstörer der uralten Feinde: „Wie Ihr wisst erhebe ich schon lange Anspruch auf die Seele einer Sterblichen, einer mit heiligen …“
+
+Verschlinger der heiligen Seelen: „Wir wissen von Euren Plänen. Wie könnten sie unseren Augen entgehen? Seitdem Ihr zu uns zurückgekommen seid, habt Ihr von kaum etwas anderem gesprochen als Eurer Wiederkehr auf die Primäre Materielle Ebene.“
+
+Sie, die wandelt: „Lasst uns nicht schon wieder DIESE Sache diskutieren. Wir verschwenden unsere Zeit. Sollen wir mit der nächsten Angelegenheit fortfahren?“
+
+Zerstörer: „Wir werden uns an die Tagesordnung halten! Das ist die Ordnung aller Dinge, und die Ordnung gilt für uns alle.“
+
+Herr der Rasierklingenspitzen: „Unendlichkeit wiegt schwer auf einem nicht stimulierten Geist.“
+
+Sie, die wandelt: „Unendlichkeit, ja, aber es ist … was, ein Jahrhundert nach sterblicher Zeitrechnung her? Diese anhaltende Besessenheit ermüdet mich.“
+
+Zerstörer: „Vielleicht wird sich das Ändern der Umstände als faszinierender erweisen als mein ‚ermüdendes‘ Martyrium. Ein Weiterer beansprucht die Seele, die ich haben will. Der Verbannte ist ein Sterblicher, ja, aber er ist besessen von schrecklicher Macht, stark genug, um sogar uns zu bedrohen.“
+
+(Anmerkung des Schreibers: Ein Sterblicher, der stark genug ist, meinen Meister herauszufordern? Das kann nicht sein!)
+
+Sie, die wandelt: „Er würde es nicht wagen, unseren Zorn auf sich zu ziehen.“
+
+Zerstörer: „Seid Ihr Euch dessen sicher? Er ist IN Baldurs Tor. Er beobachtet MEINE Beute.“
+
+Verschlinger der Seelen: „Welche Anmaßung! Er muss wissen, dass die Vereinbarung Euren Anspruch untermauert.“
+
+Zerstörer: „Er bleibt auf Distanz – für den Moment. Aber wenn er sich dem bemächtigt, was uns gehört, müsst Ihr vorbereitet sein, wie die Bedingungen unseres Bündnisses es vorgeben zu handeln.“
+
+(Anmerkung des Schreibers: Sie wissen es nicht, keiner von ihnen weiß es! Wenn der Zerstörer seinen Plan unterbereitet, werden alle seine Durchtriebenheit anerkennen!)
+
+Sie, die wandelt: „Wir haben mit unserem Blut geschworen, diese Vereinbarung einzuhalten. Wenn der Verbannte einen herausfordert, fordert er alle heraus.“
+
+Verschlinger der Seelen: „Ich stimme zu.“
+
+Herr der Rasierklingenspitzen: „Die Vergangenheit wird verschlungen wie von einem feurigen Glutofen. Wir müssen unseren Blick in die Zukunft richten.“
+
+Sie, die wandelt: „Fürwahr. Lasst uns mit dem nächsten Punkt fortfahren.“
+
+Zerstörer: „Unbedingt.“
+
+(Anmerkung des Schreibers: Sie sehen ihn an und sehen einen kleinen Wurm, aber der Zerstörer ist der Stärkste von ihnen! Bald wird jeder die Wahrheit kennenlernen, und ich werde mit Stolz sagen können, dass ich ihm diene!)~
 @69211 = ~(Diese Notizen sind mit blutiger Tinte geschrieben, die auf dem beunruhigend warmen Pergament glänzend und klebrig bleibt.)
 
 Sitzung 8.355
@@ -36281,7 +36543,7 @@ Imoen und <CHARNAME>, wieder vereint. Jetzt, da ich frei bin, kann ich meinen Na
 @69933 = ~Silberschild! Wir sind noch nicht fertig!~
 @69934 = ~Und DAS passiert, wenn ich nicht bekomme, was ich will.~
 @69935 = ~<CHARNAME>? Was tut Ihr denn hier? Warum habt Ihr mich nicht geholfen, diese Biester zu bekämpfen?~
-@69936 = ~Verzeihung, Skie. Wäre ich früher gekommen, hätte ich mit Sicherheit geholfen. Nicht, dass Ihr Hilfe benötigt hättet.~
+@69936 = ~Verzeihung, Skie. Wäre ich früher gekommen, hätte ich mit Sicherheit geholfen. Nicht dass Ihr Hilfe benötigt hättet.~
 @69937 = ~Warum hätte ich das tun sollen?~
 @69938 = ~Fangen wir mal vorne an: Warum habt Ihr überhaupt gegen diese Biester gekämpft?~
 @69939 = ~Macht mir keine Vorwürfe, Mädchen. Ich bin nicht irgendein Diener, der nach Eurer Pfeife tanzt.~ ~Macht mir keine Vorwürfe, Mädchen. Ich bin nicht irgendeine Dienerin, die nach Eurer Pfeife tanzt.~
@@ -36509,7 +36771,7 @@ Durch den Träger beschworene Geister bekommen einen Bonus von +10 Trefferpunkte
 RK-Bonus: –2
 
 Gewicht: 0~
-@70127 = ~Tymora möge Euch gewogen sein, <CHARNAME>. Nicht, dass Ihr es brauchen würdet.~ [BD70127]
+@70127 = ~Tymora möge Euch gewogen sein, <CHARNAME>. Nicht dass Ihr es brauchen würdet.~ [BD70127]
 @70128 = ~Ich weiß, ich vermisse dich auch. Jetzt gib mir eine Umarmung und geh zu deinem Großvater.~ [BD70128]
 @70130 = ~Geisterhafter Schutz
 
@@ -36522,7 +36784,7 @@ Zeitaufwand: 1
 Bereich: 1 Wesen
 Rettungswurf: Nein
 
-Dieser Zauber umgibt das Ziel mit einer magischen Barriere im Abstand von 30 cm. Geister, magische Wesen, Elementare und geisterhafte Untote erhalten einen Malus von –2 auf ihre Trefferwürfe, wenn sie das geschützte Wesen angreifen. Zudem erhält das Ziel einen Bonus von +3 auf Rettungswürfe gegen alle Zauber der Schule „Verzauberung“. Der Zauber kann nicht auf Geister, magische Wesen, Elementare und geisterhafte Untote gewirkt werden.~
+Dieser Zauber umgibt das Ziel mit einer magischen Barriere im Abstand von 30 cm. Geister, magische Wesen, Elementare und geisterhafte Untote erhalten einen Malus von –2 auf ihre Trefferwürfe, wenn sie das geschützte Wesen angreifen. Zudem erhält das Ziel einen Bonus von –3 auf Rettungswürfe gegen alle Zauber der Schule „Verzauberung“. Der Zauber kann nicht auf Geister, magische Wesen, Elementare und geisterhafte Untote gewirkt werden.~
 @70131 = ~Infernalischer Austausch~
 @70132 = ~Verzehrende Schmerzen~
 @70134 = ~Eure bescheidenen Anfänge in der Bibliothek von Kerzenburg hielten Euch nicht davon ab, den Eisenthron herauszufordern. So wurdet Ihr zum Helden der Stadt Baldurs Tor.~ [BD70134] ~Eure bescheidenen Anfänge in der Bibliothek von Kerzenburg hielten Euch nicht davon ab, den Eisenthron herauszufordern. So wurdet Ihr zur Heldin der Stadt Baldurs Tor.~ [BD70134]
@@ -36708,7 +36970,7 @@ Mithilfe dieses Zaubers stärkt der Anwender die spirituelle Entschlossenheit ei
 @70287 = ~Bitte, Rasaad, Ihr könnt nicht denken, dass ich das Mädchen umgebracht habe.~
 @70288 = ~Ich fange an zu denken, dass Ihr recht habt. Am besten verlasst Ihr diesen Ort und auch mich. Ihr verdient Besseres, als ich Euch geben könnte.~
 @70289 = ~Haltet Ihr so wenig von mir? Dann hinfort. Ich habe keine Verwendung für Euch.~
-@70290 = ~Das habe ich nicht. Aber was ich denke, ist egal.~
+@70290 = ~Das tue ich nicht. Aber was ich denke, ist egal.~
 @70291 = ~Für mich nicht. Es bedeutet alles.~
 @70292 = ~Das ist wohl wahr, unglücklicherweise. Aber ich weiß es trotzdem zu schätzen.~
 @70293 = ~Dann denke ich, dass unsere Wege sich hier trennen.~
@@ -37428,7 +37690,7 @@ Die zerfetzten Überbleibsel der Seiten des Buches bieten keinerlei weitergehend
 @70750 = ~Schön, die Sonne zu sehen.~
 @70753 = ~Ich versuche, mir einen guten Beinamen für die Zeit auszudenken, wenn ich berühmt bin. Ich kann mich nicht entscheiden zwischen „der Unglaubliche“ und „der Legendäre“.~
 @70761 = ~Das ist eine Falle! Ein falscher Schritt und ZACK.~
-@70774 = ~Nicht, dass ich etwas dagegen hätte zu laufen, bis mir die Beine abfallen, aber können wir vielleicht etwas ausruhen?~
+@70774 = ~Nicht dass ich etwas dagegen hätte zu laufen, bis mir die Beine abfallen, aber können wir vielleicht etwas ausruhen?~
 @70776 = ~Ich habe Euch doch gesagt, dass dies ein schlechter Plan ist. Jetzt benötige ich Heilung.~
 @70786 = ~Jaja, in Ordnung, verstanden.~
 @70787 = ~Das sollte lieber bald vorbei sein.~
@@ -37497,6 +37759,7 @@ Die zerfetzten Überbleibsel der Seiten des Buches bieten keinerlei weitergehend
 @71002 = ~Hinter Euch!~
 @71005 = ~Sprecht leise!~
 @71017 = ~Mein Umhang bleibt dauernd an diesen Zweigen hängen.~
+@71018 = ~Ich lasse meine Kapuze auf. Nicht dass mich noch jemand erkennt …~
 @71019 = ~Fallen und Schlösser – an diesem Ort komme ich zurecht.~
 @71020 = ~Wenn es schon keine Nacht ist, kann es nicht wenigstens bewölkt sein?~
 @71031 = ~Falle aufgestellt, bereit zuzuschnappen.~
@@ -37512,6 +37775,7 @@ Die zerfetzten Überbleibsel der Seiten des Buches bieten keinerlei weitergehend
 @71097 = ~Ihr nennt es „in den Rücken fallen“, ich nenne es „mir im Weg sein“.~
 @71099 = ~Im Ernst, ich könnte ein Zauberbuch nur mit „Magisches Geschoss“ füllen und damit ohne Schwierigkeiten auskommen.~
 @71100 = ~Vielleicht war dieser Malcanter-Typ an etwas dran.~
+@71108 = ~He da.~
 @71108 = ~He da. Mein Name ist Rhynwis.~
 @71109 = ~Selbst he da. Ich suche nach etwas … Außergewöhnlichem.~
 @71110 = ~Sterbt, Diebesgesindel!~
@@ -37546,6 +37810,11 @@ Während ich die Untergrundfluss-Höhlen erkundet habe, bin ich auf einen Magier
 Ich sollte mit Torsie de Lancie sprechen.
 
 Burg Drachenspeers Innenhof ist von den Kräften, die im Kampf gegen den Kreuzzug verbündet sind, angegriffen worden. Ich tue wohl gut daran, einen Kommandierenden der Streitkräfte über den Fortschritt unserer Truppen zu befragen, bevor ich selbst die Burg betrete.~
+@71126 = ~Die Belagerung von Drachenspeer
+
+Ich sollte mit Torsie de Lancie sprechen.
+
+Burg Drachenspeers Innenhof ist von den Kräften, die im Kampf gegen den Kreuzzug verbündet sind, angegriffen worden. Ich tue wohl gut daran, einen Kommandierenden der Streitkräfte über den Fortschritt unserer Truppen zu befragen, bevor ich selbst die Burg betrete.~
 @71127 = ~Die Steinruten-Amulett tanzt an seiner Kette vor und zurück und sucht Verwerfungen in der Erde. Es wird wahrscheinlich genauere Richtungsangaben liefern, wenn Ihr Eurem Ziel näher seid.~
 @71128 = ~Hört zu, Ihr müsst mir helfen. BITTE. Adoy ist in meinem Kopf und macht mich wahnsinnig! Ich brauche Komponenten für einen Trank, um ihn loszuwerden. Ich habe stilles Wasser von der Eberfellbrücke, jetzt brauche ich ein Bein einer siebenbeinigen Spinne.~
 @71129 = ~Kaltherd? Nein. In der von hier aus nächsten Höhle war ein Riese. Er war mir nicht gewachsen.~
@@ -37553,6 +37822,11 @@ Burg Drachenspeers Innenhof ist von den Kräften, die im Kampf gegen den Kreuzzu
 @71131 = ~Was erzähls’ du mir da? Semahl is’ tot? Du gedankenloser, unbärt’ger Einfaltspinsel! Der Riese, den du getöt’t has’, das war einer von uns!~
 @71132 = ~Dann is’ Semahl gefall’n? Ach je, er hat Bess’res verdient, der arme, dickköpf’ge Trott’l.~
 @71133 = ~In Ordnung, in Ordnung, reiß … reiß dich einfach zusamm’n, Auchlin. Semahl is’ tot, daran könn’n wir jetz’ auch nichts ändern … <CHARNAME>, erzähl mir, hast du irgend’ne Spur von Gurn Kaltherd geseh’n?~
+@71134 = ~Glint Gardnersonson
+
+Peptram Gardnersonson, ein Verwandter von Glint, befindet sich im Lager. Ich sollte ihn suchen.
+
+Anscheinend befindet sich einer von Glint Gardnersonsons Vettern, Peptram, im Bündnislager. Es wäre für jeden das Beste, wenn ich ihn eher früher als später aufsuche.~
 @71134 = ~Glint Gardnersonson
 
 Peptram Gardnersonson, ein Verwandter von Glint, befindet sich im Lager. Ich sollte ihn suchen.
@@ -37682,11 +37956,13 @@ Die Milizsoldaten aus Dolchfurt, die Probleme mit ihrem kommandierenden Offizier
 @71224 = ~Ihrer Akzeptanz? Eures Glaubens?~
 @71225 = ~Und ich werde die Belohnung wertschätzen.~
 @71226 = ~Ich bin froh, dass ich es für Euch finden konnte.~
+@71227 = ~Die Initialen auf der Rückseite des Amuletts … Das eine ist der Name, den ich hatte, als ich geboren wurde, und das andere ist der Name, den ich jetzt trage. Meine Mutter hat sie beide eingraviert.~
 @71227 = ~Die Initialen auf der Rückseite des Amuletts … Eins ist der Name, den ich hatte, als ich geboren wurde, und das andere ist der Name, den ich jetzt trage. Meine Mutter hat sie beide eingraviert.~
 @71228 = ~Seht, dieses Amulett ist ein Zeichen für das erste Mal, als meine Eltern mich Mizhena genannt und akzeptiert haben, wer ich bin. Ich kann nicht glauben, dass ich so unvorsichtig war, es zu verlieren.~
 @71229 = ~Ihr habt Euren Namen geändert?~
 @71230 = ~Ich brauche nicht mehr zu wissen.~
 @71231 = ~Das habe ich. Es hat sich herausgestellt, dass mein Geburtsname unpassend war.~
+@71232 = ~Das werden andere häufig nicht verstehen, aber dies … dies hat mir gezeigt, dass es möglich ist. Danke dafür es zurückzugeben.~
 @71232 = ~Das werden andere häufig nicht verstehen, aber dies … dies hat mir gezeigt, dass es möglich ist. Danke dafür es zurückzugeben.~
 @71233 = ~Ich bin froh, dass ich es Euch wiederbeschaffen konnte.~
 @71234 = ~Das ergibt für mich keinen Sinn.~
@@ -37698,10 +37974,11 @@ Die Milizsoldaten aus Dolchfurt, die Probleme mit ihrem kommandierenden Offizier
 @71240 = ~Das habe ich mir fast gedacht. Willkommen, Schwester.~
 @71241 = ~Glücklicherweise muss es es das nicht. Hier ist eine Belohnung für das Zurückbringen des Amuletts, wie versprochen. Vielen Dank nochmals.~
 @71242 = ~Das bin ich nicht. Darum geht es ja: Ich war es nie, nicht auf die Weise, auf die es ankommt.~
+@71243 = ~Aber gibt es keine Magie, die Ihr einsetzen könntet, um … Euch zu ändern?~
 @71244 = ~Das ergibt keinen Sinn.~
 @71245 = ~Es gibt weitaus merkwürdigere Dinge in dieser Welt, denke ich.~
 @71246 = ~Tut mir leid, wenn meine Fragen unhöflich sind.~
-@71247 = ~Nicht, dass Euch das etwas angehen würde, aber woher wollt Ihr wissen, dass ich das nicht schon getan habe? Dies ist meine Reise, ganz allein meine.~
+@71247 = ~Nicht dass Euch das etwas angehen würde, aber woher wollt Ihr wissen, dass ich das nicht schon getan habe? Dies ist meine Reise, ganz allein meine.~
 @71248 = ~Das ergibt keinen Sinn.~
 @71249 = ~Ich vermute, es gibt noch viel seltsamere Dinge in dieser Welt.~
 @71250 = ~Tut mir leid, wenn meine Fragen unhöflich sind.~
@@ -37900,9 +38177,12 @@ Ich habe Mizhenas verlorenes Amulett zurückgebracht.
 Ich bin in den Wäldern nahe des Bündnislagers auf ein Amulett gestoßen, dass tatsächlich Mizhena gehört. Während sie für das Wiederbringen sehr dankbar war, hatte sie offensichtlich noch etwas anderes auf dem Herzen und hat mich um Hilfe gebeten.~
 @71373 = ~Kein valider Spielstand von Baldur’s Gate: Enhanced Edition gefunden. Um einen Spielstand zu exportieren, startet Baldur’s Gate: Enhanced Edition, ladet einen Spielstand, tippt lange auf die Schaltfläche zum Schnellspeichern und wählt dann „Kopieren zu Die Belagerung von Drachenspeer“ im Exportdialog.~
 @71374 = ~Baldur’s Gate: Enhanced Edition wird von dutzenden hart arbeitenden Freiwilligen in andere Sprachen übersetzt. Weitere Übersetzungen werden als kostenlose Aktualisierungen bereitgestellt, sobald sie verfügbar sind. Um zu sehen, an welchen Sprachen momentan gearbeitet wird, besucht bitte translate.baldursgate.com.~
+@71375 = ~Listig! Listig!~ [bdtpam01]
 @71375 = ~Ooh! Uh! Listig, listig!~ [bdtpam01]
 @71376 = ~Was tut Ihr in unserem Lager?~
+@71377 = ~Ich bin ein exzellenter Anführer. Fragt einfach einer meiner lebenden Schutzschilde, äh, ich meinte, Freunde.~ [bdtpamb]
 @71377 = ~Ich bin ein exzellenter Anführer. Fragt einfach einen meiner lebenden Schutzschilde, äh, ich meinte, Freunde.~ [bdtpamb]
+@71378 = ~Ein Held hat immer zu tun. Also tut etwas und hört auf, mich zu belästigen.~ [bdtpam08] ~Eine Heldin hat immer zu tun. Also tut etwas und hört auf, mich zu belästigen.~ [bdtpam08]
 @71378 = ~Ein Held hat immer zu tun. Also tut etwas und hört auf, mich zu belästigen.~ [bdtpam08] ~Eine Heldin hat immer zu tun. Also tut etwas und hört auf, mich zu belästigen.~ [bdtpam08]
 @71379 = ~Ah, Rasaad. Solch ein trauriger Geselle. Over vielleicht hat er zu lange in die Sonne gesehen.~ [bdtpam09]
 @71380 = ~Beginnen wir unser barbarisches Blutbad!~ [bdtpbe01]
@@ -37910,8 +38190,10 @@ Ich bin in den Wäldern nahe des Bündnislagers auf ein Amulett gestoßen, dass 
 @71382 = ~Täuschungsmanöver, Schätzchen.~ [bdtpbe08]
 @71383 = ~Lasst mich Euch die drunterliegende Schönheit zeigen.~ [bdtpbe09]
 @71384 = ~Seht Eurem Tod entgegen!~ [bdtpag01]
+@71385 = ~Eine vernünftige Entscheidung.~ [bdtpagb]
 @71386 = ~Ich werde jeden Hund tätscheln.~ [bdtpag08]
 @71388 = ~Hab einen!~ [bdtpdg01]
+@71389 = ~Und weiter gehts.~ [bdtpdgb]
 @71389 = ~Oh, und weiter gehts.~ [bdtpdgb]
 @71390 = ~Schnallt Euch an, Butterblümchen.~ [bdtpdg08]
 @71391 = ~Jaja, wie auch immer.~ [bdtpdg09]
@@ -37919,8 +38201,10 @@ Ich bin in den Wäldern nahe des Bündnislagers auf ein Amulett gestoßen, dass 
 @71393 = ~Ich habe jetzt das Sagen? Prima.~ [bdtpehb]
 @71394 = ~Wollt Ihr ’nen Blitzschlag abbekommen?~ [bdtpeh08]
 @71395 = ~Gottkinder können endlos Verbrechen begehen.~ [bdtpeh09]
+@71396 = ~Für die Ehre!~ [bdtpsd01]
 @71397 = ~Lasst uns zusammenkommen und einem edlen Pfad folgen.~ [bdtpsdb]
 @71398 = ~Dunkle Zeiten bringen das Licht in uns allen hervor.~ [bdtpsd08]
 @71399 = ~Ich werde mich an dieses Abenteuer für immer erinnern. Und an Euer Verhalten.~ [bdtpsd09]
 @71401 = ~Nun gut, ich werde führen.~ [bdtptob]
+@71403 = ~Erinnert Ihr Euch an Dorn? Den Finsteren Streiter? Er sah merkwürdig vertraut aus …~ [bdtpto09]
 @71403 = ~Erinnert Ihr Euch an Dorn, den Finsteren Streiter? Er kam mir seltsam bekannt vor …~ [bdtpto09]
